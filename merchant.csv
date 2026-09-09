@@ -1,0 +1,3001 @@
+merchant_id,category,city,state,avg_transaction_value,risk_score,onboard_date,is_flagged_risky
+MER00001,Education,London,England,668.97,0.41,22-03-2021,No
+MER00002,Online Shopping,Melbourne,West Bengal,2970.55,0.97,30-04-2021,No
+MER00003,Fashion,Coimbatore,Tamil Nadu,2193.4,0.89,12-01-2023,Yes
+MER00004,Dining,Singapore,Singapore,2141.62,0.72,30-04-2024,No
+MER00005,Insurance,Dubai,Dubai,4570.51,0.66,02-08-2022,No
+MER00006,Automobile,London,England,100.07,0.02,14-07-2022,Yes
+MER00007,Online Shopping,Kolkata,West Bengal,1019.16,0.6,22-10-2022,No
+MER00008,Online Shopping,Sydney,Odisha,273.44,0.11,12-05-2023,Yes
+MER00009,Travel,London,England,2690.13,0.88,12-07-2026,No
+MER00010,Furniture,Pune,England,3814.1,0.5,17-05-2021,No
+MER00011,Furniture,Sydney,Odisha,1141.19,0.27,02-10-2023,Yes
+MER00012,Online Shopping,Bengaluru,Karnataka,982.68,0.93,04-01-2026,Yes
+MER00013,Grocery,Dubai,Dubai,2249.7,0.97,22-05-2025,Yes
+MER00014,Fashion,Manchester,England,257.2,0.79,15-09-2021,No
+MER00015,Automobile,Phoenix,Andhra Pradesh,795.83,0.26,05-07-2025,No
+MER00016,Jewelry,Pune,Dubai,1012.08,0.46,14-08-2026,No
+MER00017,Utilities,Tokyo,Nagaland,1562.07,0.47,21-03-2021,No
+MER00018,Furniture,Melbourne,West Bengal,1394.7,0.56,22-06-2025,No
+MER00019,Automobile,Vancouver,Goa,568.11,0.48,04-09-2024,No
+MER00020,Healthcare,Kolkata,West Bengal,1656.49,0.18,22-05-2021,No
+MER00021,Electronics,London,England,5303.83,0.03,07-03-2026,No
+MER00022,Electronics,Bengaluru,Karnataka,154.92,0.18,04-03-2025,No
+MER00023,Electronics,Sydney,Odisha,2380.79,0.8,10-11-2024,Yes
+MER00024,Fashion,Pune,Odisha,2060.11,0.76,11-09-2025,Yes
+MER00025,Jewelry,Sydney,Odisha,5265.31,0.5,02-12-2024,Yes
+MER00026,Furniture,Mumbai,Maharashtra,2173.22,0.48,11-01-2021,No
+MER00027,Education,Bengaluru,Karnataka,2060.82,0.59,17-04-2025,No
+MER00028,Utilities,Mumbai,Maharashtra,3037.66,0.37,10-10-2024,No
+MER00029,Education,Coimbatore,Tamil Nadu,100.07,0.6,17-11-2021,Yes
+MER00030,Insurance,London,England,1911.36,0.07,29-04-2023,No
+MER00031,Fashion,Melbourne,West Bengal,1565.53,0.96,30-03-2026,No
+MER00032,Entertainment,Houston,Telangana,1254.19,0.82,10-07-2021,No
+MER00033,Fashion,Los Angeles,Manipur,265.65,0.82,23-01-2021,No
+MER00034,Online Shopping,Phoenix,Andhra Pradesh,792.4,0.94,30-04-2023,No
+MER00035,Healthcare,Phoenix,Andhra Pradesh,756.96,0.28,06-10-2022,No
+MER00036,Healthcare,Chicago,Punjab,2676.53,0.03,18-05-2022,No
+MER00037,Travel,Pune,Maharashtra,5167.93,0.96,05-02-2025,No
+MER00038,Fashion,Singapore,Singapore,624.78,0.17,03-04-2022,No
+MER00039,Fashion,Hyderabad,Telangana,255.11,0.72,11-08-2025,No
+MER00040,Furniture,Coimbatore,Tamil Nadu,20206.5,0.25,21-01-2025,Yes
+MER00041,Grocery,Manchester,England,2450.16,0.09,09-06-2026,Yes
+MER00042,Travel,Mumbai,Maharashtra,4451.39,0.73,23-07-2021,Yes
+MER00043,Insurance,Manchester,England,410.69,0.35,21-05-2024,Yes
+MER00044,Travel,Kolkata,West Bengal,100.07,0.03,12-07-2024,No
+MER00045,Furniture,Manchester,England,3456.76,0.44,04-07-2026,Yes
+MER00046,Furniture,Chennai,Tamil Nadu,428.54,0.39,12-02-2023,No
+MER00047,Fuel,Chennai,Tamil Nadu,452.05,0.45,02-06-2026,Yes
+MER00048,Utilities,Kolkata,West Bengal,800.4,0.08,06-04-2022,No
+MER00049,Fashion,Dubai,Dubai,588.7,0.03,16-03-2021,Yes
+MER00050,Entertainment,Hyderabad,Telangana,7510.82,0.69,05-02-2025,No
+MER00051,Grocery,Phoenix,Andhra Pradesh,1001.79,0.46,11-10-2022,No
+MER00052,Fuel,Pune,Maharashtra,2965.15,0.32,10-02-2023,Yes
+MER00053,Entertainment,London,England,3370.03,0.03,04-04-2022,No
+MER00054,Healthcare,Mumbai,Maharashtra,1075.33,0.04,05-11-2022,No
+MER00055,Online Shopping,Tokyo,Nagaland,2395.09,0.43,04-04-2021,Yes
+MER00056,Fashion,Chicago,Punjab,328.13,0.21,04-10-2022,Yes
+MER00057,Education,Tokyo,Nagaland,1111.55,0.23,17-08-2021,No
+MER00058,Electronics,Chicago,Punjab,6941.41,0.39,26-02-2021,Yes
+MER00059,Utilities,Kolkata,West Bengal,469.12,0.58,17-08-2026,Yes
+MER00060,Fashion,Kolkata,West Bengal,1074.58,0.18,17-09-2021,No
+MER00061,Entertainment,Sydney,Odisha,3226.27,0.7,29-09-2024,Yes
+MER00062,Fashion,Los Angeles,Manipur,2289.78,0.13,30-05-2022,No
+MER00063,Healthcare,Tokyo,Nagaland,2096.73,0.4,02-10-2025,Yes
+MER00064,Fuel,Melbourne,West Bengal,3938.15,0.68,21-12-2021,No
+MER00065,Healthcare,Sydney,Odisha,159.05,0.43,15-06-2024,No
+MER00066,Fuel,Sydney,Odisha,3049.5,0.66,06-02-2025,Yes
+MER00067,Jewelry,Pune,Andhra Pradesh,4383.47,0.1,24-11-2025,No
+MER00068,Fuel,Kolkata,West Bengal,132.61,0.43,25-04-2021,No
+MER00069,Automobile,Singapore,Singapore,1737.25,0.6,12-09-2025,Yes
+MER00070,Fashion,Sydney,Odisha,957.23,0.57,28-08-2022,No
+MER00071,Jewelry,Bengaluru,Karnataka,204.19,0.28,11-06-2023,Yes
+MER00072,Fashion,Hyderabad,Telangana,1181.7,0.76,07-04-2021,Yes
+MER00073,Insurance,Toronto,Ontario,2165.82,0.45,20-05-2024,Yes
+MER00074,Fashion,Pune,Rajasthan,5126.95,0.89,25-07-2021,No
+MER00075,Grocery,Melbourne,West Bengal,2037.96,0.7,24-04-2021,No
+MER00076,Furniture,Vancouver,Goa,3986.23,0.84,20-11-2022,No
+MER00077,Online Shopping,Pune,Maharashtra,359.24,0.85,06-04-2025,Yes
+MER00078,Entertainment,Kolkata,West Bengal,572.76,0.84,09-02-2024,No
+MER00079,Fashion,London,England,7132.74,0.06,25-06-2024,Yes
+MER00080,Dining,Dubai,Dubai,4467.84,0.8,23-01-2024,Yes
+MER00081,Utilities,Vancouver,Goa,636.35,0.61,28-10-2023,No
+MER00082,Automobile,Coimbatore,Tamil Nadu,2040.3,0.06,08-02-2024,No
+MER00083,Education,Chennai,Tamil Nadu,1000.82,0.03,26-12-2025,No
+MER00084,Travel,Bengaluru,Karnataka,1364.47,0.93,24-12-2023,No
+MER00085,Dining,London,England,4044.81,0.43,12-11-2023,No
+MER00086,Jewelry,Singapore,Singapore,2761.44,0.42,22-08-2024,No
+MER00087,Entertainment,Manchester,England,644.78,0.47,24-03-2026,Yes
+MER00088,Electronics,Vancouver,Goa,859.57,0.81,08-06-2026,Yes
+MER00089,Furniture,Chennai,Tamil Nadu,100.07,0.2,27-11-2025,No
+MER00090,Fuel,Vancouver,Goa,100.07,0.6,27-01-2023,No
+MER00091,Fuel,Sydney,Odisha,1447.04,0.68,08-10-2025,Yes
+MER00092,Education,Los Angeles,Manipur,6120.65,0.5,23-03-2022,No
+MER00093,Insurance,Houston,Telangana,3493.12,0.74,20-03-2023,No
+MER00094,Healthcare,Pune,Andhra Pradesh,574.47,0.76,13-02-2025,No
+MER00095,Healthcare,Coimbatore,Tamil Nadu,3183.02,0.96,11-01-2024,No
+MER00096,Electronics,Sydney,Odisha,1510.76,0.93,23-07-2025,No
+MER00097,Fuel,London,England,685.28,0.03,29-06-2023,Yes
+MER00098,Furniture,Los Angeles,Manipur,1003.01,0.12,30-04-2026,No
+MER00099,Fashion,Bengaluru,Karnataka,7260.13,0.23,27-04-2026,No
+MER00100,Insurance,Tokyo,Nagaland,1423.15,0.01,22-09-2022,No
+MER00101,Electronics,London,England,2643.12,0.01,22-06-2022,No
+MER00102,Furniture,Sydney,Odisha,1396.67,0.82,03-03-2023,No
+MER00103,Healthcare,Chennai,Tamil Nadu,1029.02,0.21,01-10-2021,No
+MER00104,Healthcare,London,England,3283.39,0.58,31-01-2024,No
+MER00105,Education,Houston,Telangana,3872.02,0.65,07-09-2022,No
+MER00106,Online Shopping,Chicago,Punjab,249.21,0.25,26-07-2022,No
+MER00107,Travel,Pune,England,754.17,0.03,25-07-2026,No
+MER00108,Electronics,Kolkata,West Bengal,1518.03,0.53,10-03-2024,No
+MER00109,Electronics,Vancouver,Goa,861.05,0.01,03-01-2024,No
+MER00110,Online Shopping,Singapore,Singapore,3161.1,0.39,23-10-2023,No
+MER00111,Jewelry,Sydney,Odisha,343.73,0.44,09-11-2022,Yes
+MER00112,Entertainment,Mumbai,Maharashtra,3296.98,0.77,01-04-2023,Yes
+MER00113,Online Shopping,Bengaluru,Karnataka,2024.07,0.31,02-09-2024,No
+MER00114,Fashion,Pune,West Bengal,783.2,0.77,26-01-2024,No
+MER00115,Dining,Phoenix,Andhra Pradesh,944.58,0.67,28-12-2025,No
+MER00116,Insurance,Delhi,Delhi,503.99,0.64,09-02-2025,No
+MER00117,Fashion,Los Angeles,Manipur,682.24,0.81,01-09-2023,No
+MER00118,Entertainment,Pune,Maharashtra,2626.52,0.33,02-04-2022,No
+MER00119,Education,Coimbatore,Tamil Nadu,1042.84,0.58,09-03-2023,Yes
+MER00120,Jewelry,Houston,Telangana,2426.2,0.64,11-01-2024,No
+MER00121,Utilities,Chennai,Tamil Nadu,1543.54,0.03,20-09-2021,Yes
+MER00122,Dining,Mumbai,Maharashtra,414,0.05,06-12-2023,Yes
+MER00123,Fuel,Pune,West Bengal,100.07,0.01,25-07-2023,Yes
+MER00124,Online Shopping,Chicago,Punjab,2925.03,0.83,23-04-2025,Yes
+MER00125,Entertainment,Delhi,Delhi,806.72,0.55,14-10-2022,No
+MER00126,Automobile,Tokyo,Nagaland,2188.71,0.25,13-07-2024,No
+MER00127,Grocery,New York,Rajasthan,543.87,0.93,08-12-2024,No
+MER00128,Grocery,Pune,West Bengal,391.67,0.02,09-09-2022,No
+MER00129,Travel,Dubai,Dubai,993.28,0.02,24-08-2023,No
+MER00130,Dining,Coimbatore,Tamil Nadu,1085.98,0.03,09-05-2021,No
+MER00131,Fashion,New York,Rajasthan,2962.66,0.03,19-06-2025,No
+MER00132,Healthcare,Phoenix,Andhra Pradesh,1332.66,0.87,28-10-2024,No
+MER00133,Healthcare,Phoenix,Andhra Pradesh,100.07,0.52,09-07-2022,Yes
+MER00134,Healthcare,Phoenix,Andhra Pradesh,2110.24,0.41,30-05-2024,Yes
+MER00135,Entertainment,Kolkata,West Bengal,1366.94,0.92,16-02-2022,No
+MER00136,Jewelry,Chennai,Tamil Nadu,905.87,0.06,07-05-2023,No
+MER00137,Insurance,Chicago,Punjab,3341.19,0.03,28-07-2023,No
+MER00138,Travel,Pune,Maharashtra,435.38,0.15,02-06-2022,Yes
+MER00139,Insurance,Coimbatore,Tamil Nadu,4988.58,0.03,02-02-2025,No
+MER00140,Utilities,Kolkata,West Bengal,913.12,0.48,25-12-2022,No
+MER00141,Furniture,Bengaluru,Karnataka,1335.86,0.18,09-10-2022,No
+MER00142,Utilities,Houston,Telangana,5396.72,0.42,18-04-2023,No
+MER00143,Electronics,Chennai,Tamil Nadu,2964.59,0.19,07-05-2026,No
+MER00144,Fashion,Kolkata,West Bengal,254.42,0.01,18-05-2023,Yes
+MER00145,Fuel,Dubai,Dubai,1826.91,0.81,19-02-2022,No
+MER00146,Insurance,Manchester,England,843.18,0.54,02-05-2021,Yes
+MER00147,Fashion,Sydney,Odisha,1520.54,0.49,08-12-2022,No
+MER00148,Fuel,Singapore,Singapore,2817.12,0.29,22-01-2026,No
+MER00149,Dining,Coimbatore,Tamil Nadu,1471.04,0.25,27-07-2026,No
+MER00150,Grocery,Melbourne,West Bengal,247.34,0.44,24-01-2026,No
+MER00151,Fashion,Vancouver,Goa,1609.96,0.05,13-03-2021,No
+MER00152,Travel,Los Angeles,Manipur,148.85,0.98,10-02-2023,No
+MER00153,Furniture,Houston,Telangana,956.68,0.06,29-11-2021,Yes
+MER00154,Dining,Sydney,Odisha,100.07,0.96,31-03-2023,Yes
+MER00155,Fuel,Los Angeles,Manipur,2169.44,0.86,12-03-2024,No
+MER00156,Fuel,Chicago,Punjab,1511.28,1,19-11-2021,No
+MER00157,Insurance,Dubai,Dubai,429.62,0.31,22-01-2021,Yes
+MER00158,Fuel,Delhi,Delhi,100.07,0.25,15-02-2025,No
+MER00159,Insurance,Los Angeles,Manipur,2201.36,0.57,22-03-2024,No
+MER00160,Electronics,Coimbatore,Tamil Nadu,862.43,0.03,07-04-2026,No
+MER00161,Fashion,Phoenix,Andhra Pradesh,6859.25,0.69,12-02-2025,No
+MER00162,Jewelry,Vancouver,Goa,4383.96,0.03,07-05-2024,No
+MER00163,Fashion,Melbourne,West Bengal,409.78,0.09,18-11-2022,Yes
+MER00164,Electronics,Chennai,Tamil Nadu,2230.91,0.57,12-05-2021,No
+MER00165,Insurance,Tokyo,Nagaland,1742.28,0.22,18-09-2021,Yes
+MER00166,Jewelry,Manchester,England,528.39,0.03,02-11-2026,No
+MER00167,Fuel,Melbourne,West Bengal,631.78,0.23,12-02-2023,Yes
+MER00168,Electronics,Manchester,England,1759.19,0.78,31-01-2026,No
+MER00169,Education,Mumbai,Maharashtra,875.12,0.08,26-06-2021,No
+MER00170,Education,New York,Rajasthan,3701.58,0.76,02-12-2025,No
+MER00171,Fashion,Dubai,Dubai,305.7,0.05,09-06-2023,Yes
+MER00172,Fashion,Singapore,Singapore,5007.53,0.04,06-09-2022,No
+MER00173,Electronics,Hyderabad,Telangana,3772.08,0.59,22-05-2024,No
+MER00174,Grocery,Kolkata,West Bengal,2783.59,0.17,09-02-2025,No
+MER00175,Entertainment,Hyderabad,Telangana,709.16,0.27,11-07-2024,No
+MER00176,Fuel,London,England,2610.24,0.03,19-08-2021,No
+MER00177,Furniture,Toronto,Ontario,100.07,0.59,22-05-2022,Yes
+MER00178,Utilities,Kolkata,West Bengal,2108.92,0.3,18-04-2025,No
+MER00179,Grocery,Tokyo,Nagaland,849.55,0.03,02-10-2024,No
+MER00180,Fashion,Chicago,Punjab,3714.04,0.72,28-07-2024,Yes
+MER00181,Dining,Pune,Goa,182.84,0.23,07-04-2025,Yes
+MER00182,Electronics,Manchester,England,2451.81,0.1,21-01-2021,No
+MER00183,Fuel,New York,Rajasthan,3627.88,0.75,09-05-2022,Yes
+MER00184,Education,Houston,Telangana,2179.34,0.66,29-05-2023,No
+MER00185,Insurance,Manchester,England,526.37,0.24,02-12-2021,No
+MER00186,Entertainment,New York,Rajasthan,770.89,0.92,05-02-2023,Yes
+MER00187,Fuel,Los Angeles,Manipur,1546.82,0.57,06-07-2024,Yes
+MER00188,Furniture,Kolkata,West Bengal,899.31,0.7,05-11-2025,No
+MER00189,Automobile,Los Angeles,Manipur,109.86,0.98,04-05-2023,No
+MER00190,Insurance,Pune,Goa,183.06,0.62,22-09-2021,No
+MER00191,Automobile,Pune,Maharashtra,3020.04,0.58,18-12-2021,No
+MER00192,Utilities,Chennai,Tamil Nadu,274.84,0.68,03-01-2026,No
+MER00193,Education,Bengaluru,Karnataka,5362.79,0.27,13-03-2023,No
+MER00194,Education,Melbourne,West Bengal,1269.43,0.6,02-04-2021,No
+MER00195,Electronics,Delhi,Delhi,2939.18,0.14,03-10-2024,Yes
+MER00196,Electronics,New York,Rajasthan,100.07,0.96,17-10-2025,No
+MER00197,Online Shopping,Tokyo,Nagaland,5321.14,0.73,03-04-2023,Yes
+MER00198,Automobile,Pune,Maharashtra,168.79,0.27,24-09-2023,No
+MER00199,Online Shopping,Vancouver,Goa,186.1,0.03,17-06-2026,No
+MER00200,Automobile,Pune,Odisha,212.26,0.38,23-03-2021,No
+MER00201,Entertainment,Sydney,Odisha,318.31,0.03,06-12-2025,No
+MER00202,Fuel,Pune,Dubai,1434.3,0.01,26-01-2023,Yes
+MER00203,Fashion,Pune,Manipur,3204.95,0.39,16-11-2025,No
+MER00204,Furniture,Mumbai,Maharashtra,770.8,0.13,28-03-2024,No
+MER00205,Utilities,Pune,Rajasthan,100.07,0.03,18-02-2026,Yes
+MER00206,Dining,Mumbai,Maharashtra,3074.98,0.48,06-07-2021,Yes
+MER00207,Automobile,New York,Rajasthan,4877.97,0.37,04-06-2025,No
+MER00208,Fashion,Hyderabad,Telangana,423.51,0.64,15-07-2023,No
+MER00209,Electronics,Kolkata,West Bengal,391.29,0.87,04-12-2026,No
+MER00210,Utilities,Singapore,Singapore,360.43,0.28,04-03-2025,No
+MER00211,Utilities,Hyderabad,Telangana,990.42,0.28,06-02-2023,No
+MER00212,Fuel,Singapore,Singapore,1444.39,0.48,15-03-2026,Yes
+MER00213,Travel,New York,Rajasthan,1338.34,0.86,08-03-2021,Yes
+MER00214,Dining,Delhi,Delhi,694.25,0.74,29-03-2022,No
+MER00215,Healthcare,Toronto,Ontario,2045.61,0.81,25-09-2024,No
+MER00216,Education,Pune,Punjab,925.81,0.01,29-01-2022,No
+MER00217,Utilities,Manchester,England,1011.67,0.03,24-09-2021,No
+MER00218,Healthcare,Sydney,Odisha,323.05,0.47,07-08-2026,Yes
+MER00219,Fashion,Bengaluru,Karnataka,1894.11,0.85,21-03-2025,No
+MER00220,Jewelry,London,England,2230.05,0.19,22-04-2025,No
+MER00221,Furniture,New York,Rajasthan,100.07,0.79,08-03-2022,No
+MER00222,Automobile,Melbourne,West Bengal,4787.01,0.28,16-08-2022,No
+MER00223,Fuel,Chennai,Tamil Nadu,3004.91,0.29,26-04-2023,No
+MER00224,Grocery,Coimbatore,Tamil Nadu,637.7,0.18,21-09-2025,Yes
+MER00225,Fuel,Manchester,England,637.47,0.5,03-03-2022,No
+MER00226,Fuel,Delhi,Delhi,5032.26,0.29,02-06-2024,No
+MER00227,Grocery,Tokyo,Nagaland,3222.57,0.33,17-07-2025,No
+MER00228,Fashion,Dubai,Dubai,3148.78,0.31,01-12-2021,No
+MER00229,Electronics,Los Angeles,Manipur,2643.89,0.43,04-09-2023,No
+MER00230,Travel,Manchester,England,721.77,0.03,01-02-2022,Yes
+MER00231,Automobile,Mumbai,Maharashtra,3860.01,0.91,24-12-2025,Yes
+MER00232,Electronics,Chennai,Tamil Nadu,408.37,0.48,16-07-2021,No
+MER00233,Grocery,Melbourne,West Bengal,100.07,0.01,07-06-2022,No
+MER00234,Education,Hyderabad,Telangana,950.75,0.19,05-12-2023,No
+MER00235,Healthcare,Manchester,England,1742.56,0.03,02-08-2026,Yes
+MER00236,Travel,Melbourne,West Bengal,1345.17,0.88,07-09-2023,No
+MER00237,Insurance,Pune,Karnataka,1331.66,0.64,24-02-2024,No
+MER00238,Fashion,Pune,Maharashtra,1712.96,0.02,08-08-2025,No
+MER00239,Entertainment,Manchester,England,1173.72,0.78,23-03-2022,No
+MER00240,Automobile,Los Angeles,Manipur,100.07,0.51,21-06-2024,Yes
+MER00241,Entertainment,Bengaluru,Karnataka,2282.01,0.38,09-02-2021,No
+MER00242,Education,Dubai,Dubai,100.07,0.71,09-06-2022,Yes
+MER00243,Entertainment,Hyderabad,Telangana,1403.99,0.03,19-09-2022,Yes
+MER00244,Fashion,New York,Rajasthan,2196.69,0.04,26-05-2023,No
+MER00245,Automobile,Toronto,Ontario,1633,0.88,31-05-2021,No
+MER00246,Utilities,Sydney,Odisha,221.62,0.95,21-05-2024,No
+MER00247,Insurance,Tokyo,Nagaland,1200.12,0.82,15-05-2026,No
+MER00248,Utilities,Bengaluru,Karnataka,119.8,0.91,07-06-2021,Yes
+MER00249,Utilities,London,England,2268.7,0.09,18-07-2021,No
+MER00250,Dining,Mumbai,Maharashtra,1519.21,0.23,13-05-2022,No
+MER00251,Education,Toronto,Ontario,371.25,0.7,14-11-2022,No
+MER00252,Fuel,Bengaluru,Karnataka,1662.61,0.66,13-03-2026,No
+MER00253,Jewelry,Chicago,Punjab,4673.94,0.03,12-02-2024,No
+MER00254,Jewelry,Phoenix,Andhra Pradesh,932.52,0.23,03-03-2025,No
+MER00255,Fuel,Bengaluru,Karnataka,8176.17,0.76,02-03-2024,No
+MER00256,Jewelry,London,England,6506.98,0.03,17-11-2021,No
+MER00257,Furniture,Pune,Maharashtra,3177.12,0.74,03-04-2023,No
+MER00258,Travel,Singapore,Singapore,3461.87,0.91,25-04-2021,Yes
+MER00259,Electronics,Hyderabad,Telangana,1157.12,0.96,07-11-2023,No
+MER00260,Automobile,New York,Rajasthan,1130.14,0.24,06-01-2022,No
+MER00261,Dining,Los Angeles,Manipur,6275.58,0.66,13-06-2025,No
+MER00262,Education,Pune,Maharashtra,1012.03,0.34,23-01-2022,Yes
+MER00263,Automobile,Phoenix,Andhra Pradesh,303.78,0.01,11-11-2025,No
+MER00264,Fashion,Chicago,Punjab,431.4,0.03,02-01-2026,No
+MER00265,Electronics,Sydney,Odisha,100.07,0.39,10-11-2025,No
+MER00266,Automobile,Sydney,Odisha,1065.71,0.97,18-10-2021,No
+MER00267,Grocery,Pune,West Bengal,544.64,0.96,05-11-2021,No
+MER00268,Travel,London,England,3461.72,0.96,29-01-2024,No
+MER00269,Grocery,Chennai,Tamil Nadu,1441.49,0.55,05-06-2022,No
+MER00270,Furniture,Hyderabad,Telangana,1777,0.82,08-04-2023,No
+MER00271,Education,Los Angeles,Manipur,434.35,0.57,28-01-2022,No
+MER00272,Fuel,Chicago,Punjab,528.25,0.27,23-11-2023,No
+MER00273,Utilities,Pune,Maharashtra,369.02,0.51,17-11-2024,Yes
+MER00274,Utilities,Toronto,Ontario,1545.33,0.03,24-09-2021,Yes
+MER00275,Furniture,New York,Rajasthan,3089.16,0.5,06-09-2026,No
+MER00276,Utilities,Vancouver,Goa,2735.67,0.24,20-03-2021,Yes
+MER00277,Dining,Delhi,Delhi,705.54,0.73,12-06-2021,Yes
+MER00278,Electronics,London,England,100.07,0.53,24-09-2025,No
+MER00279,Fashion,Manchester,England,323.34,0.59,10-09-2022,Yes
+MER00280,Entertainment,Chicago,Punjab,342.19,0.97,25-05-2023,No
+MER00281,Entertainment,New York,Rajasthan,3884.99,0.99,06-12-2024,Yes
+MER00282,Grocery,Delhi,Delhi,660.54,0.26,26-10-2025,No
+MER00283,Online Shopping,Kolkata,West Bengal,2562.8,0.03,19-10-2023,Yes
+MER00284,Fashion,Chennai,Tamil Nadu,118.24,0.69,14-01-2021,Yes
+MER00285,Entertainment,Bengaluru,Karnataka,296.55,0.08,12-02-2024,No
+MER00286,Fashion,Manchester,England,1979.57,0.65,19-07-2026,No
+MER00287,Automobile,Manchester,England,502.8,0.83,22-01-2025,No
+MER00288,Dining,Delhi,Delhi,157.24,0.07,22-04-2022,No
+MER00289,Fashion,Mumbai,Maharashtra,1358.27,0.08,04-07-2026,No
+MER00290,Entertainment,Pune,Ontario,902.51,0.49,08-02-2021,Yes
+MER00291,Electronics,Chennai,Tamil Nadu,3341.57,0.94,26-06-2024,No
+MER00292,Online Shopping,Hyderabad,Telangana,3516.63,0.84,14-06-2022,No
+MER00293,Education,Manchester,England,2006.03,0.95,07-04-2024,No
+MER00294,Entertainment,Mumbai,Maharashtra,793.54,0.57,27-04-2021,No
+MER00295,Online Shopping,Dubai,Dubai,1338.41,0.03,08-08-2022,No
+MER00296,Fashion,Singapore,Singapore,2523.04,0.4,25-05-2024,No
+MER00297,Insurance,London,England,243.65,0.2,20-12-2023,Yes
+MER00298,Fashion,Sydney,Odisha,908.42,0.4,15-01-2023,No
+MER00299,Travel,New York,Rajasthan,100.07,0.13,01-08-2023,No
+MER00300,Utilities,Hyderabad,Telangana,1141.85,0.42,05-01-2022,No
+MER00301,Online Shopping,Sydney,Odisha,2059.89,0.9,02-02-2022,No
+MER00302,Automobile,Chennai,Tamil Nadu,100.07,0.45,14-10-2023,No
+MER00303,Education,Kolkata,West Bengal,3101.58,0.42,08-04-2022,No
+MER00304,Education,Chennai,Tamil Nadu,311.76,0.52,23-04-2021,No
+MER00305,Entertainment,Vancouver,Goa,4054.13,0.88,27-07-2025,No
+MER00306,Automobile,Melbourne,West Bengal,325.44,0.94,29-01-2024,Yes
+MER00307,Automobile,Houston,Telangana,4530.85,0.03,01-02-2022,No
+MER00308,Fashion,Chicago,Punjab,1004.39,0.24,03-09-2022,No
+MER00309,Dining,Dubai,Dubai,2059.16,0.66,16-08-2025,No
+MER00310,Fashion,Mumbai,Maharashtra,3848.77,0.88,31-10-2023,No
+MER00311,Insurance,Melbourne,West Bengal,120.59,0.46,11-08-2023,No
+MER00312,Dining,Singapore,Singapore,717.66,0.88,28-03-2022,Yes
+MER00313,Dining,Dubai,Dubai,4879.3,0.21,09-04-2022,No
+MER00314,Travel,Coimbatore,Tamil Nadu,100.07,0.34,18-06-2021,No
+MER00315,Travel,Pune,Maharashtra,2550.91,0.03,29-05-2024,Yes
+MER00316,Utilities,London,England,100.07,0.95,29-10-2025,No
+MER00317,Fuel,Singapore,Singapore,2368.72,0.14,29-01-2023,No
+MER00318,Fuel,Bengaluru,Karnataka,251.95,0.68,03-04-2026,Yes
+MER00319,Insurance,Manchester,England,2626.92,0.24,08-06-2024,No
+MER00320,Education,Houston,Telangana,882.55,0.78,06-11-2026,Yes
+MER00321,Dining,Singapore,Singapore,1354.15,0.4,07-05-2023,Yes
+MER00322,Automobile,Dubai,Dubai,463.67,0.7,27-04-2022,Yes
+MER00323,Education,Melbourne,West Bengal,2076.91,0.03,29-04-2023,No
+MER00324,Jewelry,Coimbatore,Tamil Nadu,923.67,0.27,19-06-2021,No
+MER00325,Fashion,Hyderabad,Telangana,1066.99,0.9,27-01-2025,No
+MER00326,Furniture,Pune,Maharashtra,100.07,0.93,04-09-2022,Yes
+MER00327,Electronics,Mumbai,Maharashtra,494.13,0.71,20-07-2022,No
+MER00328,Dining,Mumbai,Maharashtra,3921.21,0.99,15-04-2021,No
+MER00329,Online Shopping,Pune,Telangana,2788.67,0.09,11-09-2024,No
+MER00330,Automobile,Manchester,England,100.07,0.22,26-07-2025,No
+MER00331,Fuel,New York,Rajasthan,374.7,0.68,06-07-2023,Yes
+MER00332,Travel,Manchester,England,2423.81,0.53,08-11-2022,Yes
+MER00333,Electronics,Melbourne,West Bengal,100.07,0.39,19-01-2021,No
+MER00334,Insurance,Phoenix,Andhra Pradesh,3363.32,0.03,18-03-2026,No
+MER00335,Electronics,Sydney,Odisha,824.23,0.03,17-05-2021,No
+MER00336,Electronics,Vancouver,Goa,349.34,0.74,18-08-2026,No
+MER00337,Fashion,Sydney,Odisha,459.42,0.53,08-06-2023,No
+MER00338,Education,Dubai,Dubai,6700.95,0.09,07-02-2026,Yes
+MER00339,Dining,Toronto,Ontario,3072.94,0.45,12-07-2021,No
+MER00340,Healthcare,Chennai,Tamil Nadu,643.28,0.77,15-08-2022,No
+MER00341,Travel,Pune,Maharashtra,6719.04,0.2,14-05-2023,Yes
+MER00342,Fuel,Toronto,Ontario,401.92,0.24,15-07-2026,No
+MER00343,Dining,Pune,Tamil Nadu,2744.97,0.03,17-10-2022,No
+MER00344,Automobile,Vancouver,Goa,2238.53,0.03,13-02-2021,No
+MER00345,Education,Mumbai,Maharashtra,3546.07,0.01,12-08-2025,No
+MER00346,Education,New York,Rajasthan,1061.56,0.03,13-06-2022,No
+MER00347,Fashion,Coimbatore,Tamil Nadu,1127.78,0.46,15-08-2021,No
+MER00348,Insurance,Kolkata,West Bengal,2059.35,0.55,01-05-2026,No
+MER00349,Healthcare,Melbourne,West Bengal,1115.68,0.39,20-02-2023,No
+MER00350,Online Shopping,Tokyo,Nagaland,184.46,0.07,15-12-2021,No
+MER00351,Fashion,Pune,Maharashtra,2716.51,0.67,06-03-2025,No
+MER00352,Education,Delhi,Delhi,2148.57,0.81,28-07-2024,Yes
+MER00353,Automobile,Chicago,Punjab,1202.3,0.57,25-05-2026,No
+MER00354,Fuel,Singapore,Singapore,821.45,0.2,30-11-2024,Yes
+MER00355,Grocery,Los Angeles,Manipur,873.46,0.28,27-03-2025,Yes
+MER00356,Dining,Tokyo,Nagaland,2802.08,0.03,27-02-2022,No
+MER00357,Automobile,Chennai,Tamil Nadu,2712.46,0.66,16-08-2023,No
+MER00358,Fashion,Toronto,Ontario,3517.62,0.16,25-05-2023,No
+MER00359,Healthcare,New York,Rajasthan,2972.49,0.45,22-01-2024,No
+MER00360,Jewelry,Pune,Maharashtra,2937.17,0.34,19-11-2024,No
+MER00361,Education,Houston,Telangana,680.1,0.82,16-08-2025,No
+MER00362,Grocery,Manchester,England,314.31,0.45,25-09-2022,No
+MER00363,Grocery,Kolkata,West Bengal,2968.89,0.45,17-10-2023,No
+MER00364,Entertainment,Tokyo,Nagaland,307.65,0.72,15-02-2021,No
+MER00365,Utilities,Sydney,Odisha,8147.18,0.1,29-05-2026,No
+MER00366,Entertainment,Bengaluru,Karnataka,4260.31,0.78,31-12-2021,No
+MER00367,Fashion,Hyderabad,Telangana,1624.83,0.97,09-03-2026,No
+MER00368,Travel,Kolkata,West Bengal,968.3,0.83,19-02-2026,No
+MER00369,Fashion,Phoenix,Andhra Pradesh,1596.66,0.39,03-11-2026,No
+MER00370,Entertainment,Tokyo,Nagaland,2750.79,0.68,02-07-2025,No
+MER00371,Entertainment,Mumbai,Maharashtra,2923.88,0.71,18-11-2023,No
+MER00372,Travel,Mumbai,Maharashtra,253.04,0.39,01-01-2026,No
+MER00373,Electronics,Dubai,Dubai,3368.02,0.92,11-03-2024,Yes
+MER00374,Fashion,Tokyo,Nagaland,2151.64,0.87,22-09-2022,Yes
+MER00375,Jewelry,Phoenix,Andhra Pradesh,182.85,0.39,02-05-2024,No
+MER00376,Fuel,Tokyo,Nagaland,851.31,0.65,20-11-2021,No
+MER00377,Grocery,Vancouver,Goa,1529.32,0.54,07-02-2023,No
+MER00378,Fuel,Dubai,Dubai,517.62,0.03,26-06-2021,Yes
+MER00379,Education,Hyderabad,Telangana,437.41,0.01,02-07-2022,No
+MER00380,Automobile,Phoenix,Andhra Pradesh,128.77,0.58,13-09-2025,No
+MER00381,Automobile,Vancouver,Goa,4950.65,0.46,07-12-2021,No
+MER00382,Dining,Coimbatore,Tamil Nadu,215.49,0.03,04-06-2024,No
+MER00383,Jewelry,Mumbai,Maharashtra,1011.45,0.03,13-05-2025,Yes
+MER00384,Travel,Dubai,Dubai,560.77,0.88,09-05-2022,No
+MER00385,Grocery,Pune,Odisha,2802.11,0.64,24-12-2022,No
+MER00386,Education,Houston,Telangana,2556.43,0.42,25-02-2021,Yes
+MER00387,Healthcare,Phoenix,Andhra Pradesh,100.07,0.14,17-09-2024,No
+MER00388,Utilities,Hyderabad,Telangana,2018.44,0.07,12-03-2021,Yes
+MER00389,Furniture,Toronto,Ontario,1891.28,0.71,15-09-2023,No
+MER00390,Dining,Tokyo,Nagaland,1145.5,0.39,15-10-2023,No
+MER00391,Fashion,Pune,Maharashtra,2123.17,0.14,14-12-2021,No
+MER00392,Furniture,Los Angeles,Manipur,344.8,0.44,10-02-2023,No
+MER00393,Utilities,Phoenix,Andhra Pradesh,2407.27,0.72,20-11-2024,No
+MER00394,Dining,Delhi,Delhi,100.07,0.03,01-07-2024,No
+MER00395,Dining,Los Angeles,Manipur,4057.24,0.63,12-05-2023,Yes
+MER00396,Fashion,Pune,Maharashtra,1509.16,0.31,17-01-2024,Yes
+MER00397,Electronics,Kolkata,West Bengal,100.07,0.47,16-02-2021,Yes
+MER00398,Education,Manchester,England,1858.27,0.03,02-09-2025,No
+MER00399,Entertainment,Chicago,Punjab,3092.69,0.27,05-11-2025,No
+MER00400,Fuel,Tokyo,Nagaland,100.07,0.03,03-12-2021,Yes
+MER00401,Fuel,London,England,1215.79,0.03,14-05-2026,No
+MER00402,Utilities,Pune,West Bengal,780.29,0.01,15-07-2023,Yes
+MER00403,Fuel,Tokyo,Nagaland,374.02,0.35,04-07-2022,No
+MER00404,Fashion,Pune,Maharashtra,522.29,0.12,22-07-2021,Yes
+MER00405,Fashion,Pune,Punjab,101.06,0.78,27-07-2026,No
+MER00406,Dining,Toronto,Ontario,4171.56,0.19,11-01-2023,No
+MER00407,Automobile,Tokyo,Nagaland,2995.99,0.03,06-07-2021,No
+MER00408,Furniture,Los Angeles,Manipur,593.55,0.58,12-02-2021,No
+MER00409,Jewelry,Manchester,England,104.79,0.17,17-03-2021,No
+MER00410,Entertainment,Manchester,England,1455.01,0.27,09-08-2021,Yes
+MER00411,Grocery,Bengaluru,Karnataka,1164.01,0.45,07-02-2021,No
+MER00412,Furniture,Tokyo,Nagaland,3092.28,0.03,10-06-2024,No
+MER00413,Furniture,Pune,Ontario,1131.33,0.1,04-08-2025,Yes
+MER00414,Furniture,Chennai,Tamil Nadu,4091.86,0.43,02-11-2025,No
+MER00415,Dining,Los Angeles,Manipur,301.49,0.95,08-08-2022,Yes
+MER00416,Fashion,Vancouver,Goa,1010.97,0.33,12-11-2021,No
+MER00417,Grocery,Vancouver,Goa,5534.41,0.02,05-08-2024,Yes
+MER00418,Dining,Vancouver,Goa,123.6,0.96,28-09-2021,No
+MER00419,Insurance,New York,Rajasthan,1091.18,0.53,01-12-2023,No
+MER00420,Grocery,New York,Rajasthan,701.41,0.15,08-01-2022,Yes
+MER00421,Travel,Singapore,Singapore,100.07,0.03,09-07-2025,No
+MER00422,Education,Mumbai,Maharashtra,753.59,0.04,01-06-2021,No
+MER00423,Fuel,Mumbai,Maharashtra,4179.03,0.13,23-02-2026,No
+MER00424,Entertainment,London,England,5633.63,0.03,27-01-2021,No
+MER00425,Insurance,Mumbai,Maharashtra,3882.73,0.57,06-02-2021,Yes
+MER00426,Jewelry,Chicago,Punjab,1116.88,0.46,13-11-2024,No
+MER00427,Automobile,Delhi,Delhi,9297.14,0.29,07-01-2024,No
+MER00428,Fashion,Mumbai,Maharashtra,2756.33,0.8,08-04-2025,No
+MER00429,Grocery,Mumbai,Maharashtra,978.9,0.65,12-07-2021,No
+MER00430,Fashion,Sydney,Odisha,296.75,0.49,25-06-2024,Yes
+MER00431,Online Shopping,Toronto,Ontario,2299.5,0.03,27-06-2023,No
+MER00432,Electronics,Houston,Telangana,2708.08,0.5,22-11-2024,No
+MER00433,Education,Hyderabad,Telangana,361.26,0.34,06-07-2021,No
+MER00434,Fashion,Pune,Andhra Pradesh,1695.84,0.84,25-04-2025,No
+MER00435,Education,Mumbai,Maharashtra,8799.19,0.46,08-08-2021,No
+MER00436,Insurance,Melbourne,West Bengal,889.77,0.03,25-01-2021,Yes
+MER00437,Travel,Singapore,Singapore,818.77,0.44,17-05-2021,No
+MER00438,Utilities,Hyderabad,Telangana,4772.33,0.77,13-10-2024,No
+MER00439,Electronics,Phoenix,Andhra Pradesh,349.8,0.73,28-12-2022,Yes
+MER00440,Dining,Mumbai,Maharashtra,5521.93,0.01,28-10-2024,No
+MER00441,Jewelry,London,England,3123.6,0.03,24-01-2025,No
+MER00442,Jewelry,Hyderabad,Telangana,1091.35,0.64,23-06-2026,No
+MER00443,Insurance,Singapore,Singapore,274.49,0.87,10-03-2026,No
+MER00444,Fuel,New York,Rajasthan,138.72,0.06,19-03-2026,No
+MER00445,Furniture,Melbourne,West Bengal,1042.67,0.03,24-03-2022,No
+MER00446,Grocery,Vancouver,Goa,2543.96,0.06,23-12-2024,No
+MER00447,Grocery,Houston,Telangana,1437.02,0.03,12-03-2024,No
+MER00448,Fuel,Mumbai,Maharashtra,2783.8,0.9,10-01-2022,No
+MER00449,Entertainment,Chennai,Tamil Nadu,2320.79,0.23,03-03-2024,Yes
+MER00450,Automobile,Tokyo,Nagaland,1801.51,0.7,14-06-2024,No
+MER00451,Jewelry,Chennai,Tamil Nadu,6952.97,0.99,07-03-2024,No
+MER00452,Fashion,Pune,Ontario,2706.74,0.18,18-02-2023,Yes
+MER00453,Automobile,Vancouver,Goa,5021.13,0.26,25-08-2025,Yes
+MER00454,Fashion,Los Angeles,Manipur,654.57,0.12,27-05-2025,Yes
+MER00455,Fashion,Hyderabad,Telangana,2601.01,0.63,28-01-2021,No
+MER00456,Dining,Vancouver,Goa,1921.63,0.12,12-10-2022,No
+MER00457,Entertainment,New York,Rajasthan,5261.85,0.19,10-12-2025,Yes
+MER00458,Fashion,Los Angeles,Manipur,1528.55,0.36,21-05-2026,No
+MER00459,Healthcare,Coimbatore,Tamil Nadu,100.07,0.82,17-12-2025,Yes
+MER00460,Automobile,Phoenix,Andhra Pradesh,1071.74,0.13,09-05-2023,No
+MER00461,Fashion,Dubai,Dubai,593.92,0.81,02-10-2025,No
+MER00462,Insurance,New York,Rajasthan,596.85,0.03,29-06-2022,No
+MER00463,Healthcare,Mumbai,Maharashtra,1371.35,0.41,13-10-2025,Yes
+MER00464,Healthcare,New York,Rajasthan,4561.81,0.45,18-01-2022,No
+MER00465,Furniture,Delhi,Delhi,526.06,0.01,04-08-2022,No
+MER00466,Education,Houston,Telangana,778.99,0.03,10-07-2025,Yes
+MER00467,Fashion,Manchester,England,3934.48,0.06,21-07-2023,Yes
+MER00468,Fashion,Pune,Maharashtra,928.78,0.03,08-05-2024,Yes
+MER00469,Education,Phoenix,Andhra Pradesh,100.07,0.04,07-08-2025,No
+MER00470,Jewelry,Pune,Maharashtra,100.07,0.03,12-10-2023,No
+MER00471,Insurance,Singapore,Singapore,1267.31,0.6,14-07-2022,Yes
+MER00472,Grocery,Bengaluru,Karnataka,300.99,0.01,08-10-2024,Yes
+MER00473,Travel,Dubai,Dubai,9801.07,0.71,19-09-2024,Yes
+MER00474,Automobile,Dubai,Dubai,4517.13,0.71,24-03-2026,Yes
+MER00475,Automobile,Hyderabad,Telangana,3502.69,0.57,15-06-2025,No
+MER00476,Automobile,Hyderabad,Telangana,442.39,0.24,11-09-2022,No
+MER00477,Utilities,New York,Rajasthan,7070.77,0.89,28-04-2023,Yes
+MER00478,Education,London,England,5394.42,0.17,18-07-2026,Yes
+MER00479,Dining,Mumbai,Maharashtra,1244.24,0.19,14-02-2026,No
+MER00480,Electronics,Tokyo,Nagaland,2389.13,0.6,15-02-2023,No
+MER00481,Utilities,Phoenix,Andhra Pradesh,9874.65,0.91,06-09-2022,Yes
+MER00482,Automobile,Hyderabad,Telangana,1154.4,0.19,06-01-2021,Yes
+MER00483,Online Shopping,Mumbai,Maharashtra,339.92,0.71,14-04-2025,No
+MER00484,Jewelry,London,England,4146.56,0.72,18-05-2026,Yes
+MER00485,Fashion,Sydney,Odisha,1394.38,0.28,14-11-2021,Yes
+MER00486,Furniture,Pune,Rajasthan,8780.92,0.49,19-01-2023,Yes
+MER00487,Furniture,Kolkata,West Bengal,1700.99,0.22,06-02-2023,No
+MER00488,Education,Chennai,Tamil Nadu,159.84,0.96,19-11-2023,No
+MER00489,Fashion,Coimbatore,Tamil Nadu,1453.47,0.51,22-06-2025,No
+MER00490,Fashion,Mumbai,Maharashtra,2632.14,0.65,15-08-2024,No
+MER00491,Furniture,Dubai,Dubai,152.75,0.3,12-09-2025,No
+MER00492,Healthcare,Coimbatore,Tamil Nadu,1166.99,0.74,21-02-2026,No
+MER00493,Electronics,Bengaluru,Karnataka,438.16,0.91,10-08-2021,No
+MER00494,Insurance,London,England,2160.58,0.3,07-05-2026,No
+MER00495,Travel,Los Angeles,Manipur,6409.26,0.21,11-05-2023,No
+MER00496,Electronics,Pune,Telangana,2059.45,0.53,20-08-2025,Yes
+MER00497,Insurance,Singapore,Singapore,2474.09,0.03,28-08-2023,No
+MER00498,Insurance,Kolkata,West Bengal,1110.23,0.82,03-07-2025,Yes
+MER00499,Jewelry,Manchester,England,1756.29,1,19-11-2024,Yes
+MER00500,Utilities,Pune,Singapore,1669.9,0.61,29-08-2023,No
+MER00501,Education,Delhi,Delhi,2950.95,0.68,20-08-2025,Yes
+MER00502,Automobile,Dubai,Dubai,3988.59,1,30-09-2025,Yes
+MER00503,Fuel,Chennai,Tamil Nadu,100.07,0.18,18-01-2024,No
+MER00504,Healthcare,Bengaluru,Karnataka,7905.02,0.78,28-03-2025,Yes
+MER00505,Fashion,London,England,3623.88,0.71,16-08-2026,Yes
+MER00506,Entertainment,Pune,Maharashtra,366.26,0.11,24-08-2023,No
+MER00507,Grocery,Melbourne,West Bengal,1516.42,0.53,26-05-2023,No
+MER00508,Utilities,Bengaluru,Karnataka,4770.96,0.69,14-11-2025,No
+MER00509,Grocery,Chicago,Punjab,100.07,1,19-01-2021,No
+MER00510,Electronics,Vancouver,Goa,1056.74,0.34,21-08-2024,Yes
+MER00511,Automobile,Mumbai,Maharashtra,2687.1,0.84,18-02-2025,Yes
+MER00512,Fashion,Pune,Goa,1157.12,0.97,10-12-2023,Yes
+MER00513,Electronics,Vancouver,Goa,364,0.9,02-07-2024,No
+MER00514,Grocery,Phoenix,Andhra Pradesh,4418.9,0.48,13-01-2025,No
+MER00515,Grocery,Mumbai,Maharashtra,5475.12,0.75,07-05-2025,No
+MER00516,Education,Singapore,Singapore,1505.39,0.75,01-02-2024,No
+MER00517,Entertainment,New York,Rajasthan,136.95,0.67,07-06-2022,Yes
+MER00518,Online Shopping,Pune,Maharashtra,3486.03,0.03,05-01-2026,No
+MER00519,Entertainment,Pune,Maharashtra,1396.2,0.65,27-09-2025,Yes
+MER00520,Fashion,Coimbatore,Tamil Nadu,255.98,0.14,26-05-2024,No
+MER00521,Fuel,Vancouver,Goa,519.94,0.26,24-02-2025,No
+MER00522,Education,Pune,Singapore,430.03,0.67,11-10-2022,No
+MER00523,Entertainment,Pune,Delhi,2418.5,0.8,27-05-2026,No
+MER00524,Fashion,Los Angeles,Manipur,811.66,0.22,06-10-2025,No
+MER00525,Online Shopping,Singapore,Singapore,373.22,0.28,03-09-2024,No
+MER00526,Online Shopping,Pune,Maharashtra,5093.53,0.4,28-08-2024,No
+MER00527,Jewelry,Delhi,Delhi,6371.42,0.14,21-02-2026,Yes
+MER00528,Entertainment,Chicago,Punjab,398.34,0.51,31-03-2026,No
+MER00529,Jewelry,Melbourne,West Bengal,623.34,0.11,24-09-2022,No
+MER00530,Dining,Toronto,Ontario,1893.57,0.12,18-11-2024,Yes
+MER00531,Insurance,New York,Rajasthan,426.23,0.63,25-07-2024,Yes
+MER00532,Online Shopping,Vancouver,Goa,445.36,0.93,05-04-2022,Yes
+MER00533,Healthcare,Toronto,Ontario,920.68,0.38,22-01-2023,Yes
+MER00534,Healthcare,Coimbatore,Tamil Nadu,6058.55,0.03,17-12-2023,Yes
+MER00535,Automobile,Hyderabad,Telangana,6663.75,0.2,17-03-2025,No
+MER00536,Fuel,Bengaluru,Karnataka,3787.64,0.96,21-08-2021,No
+MER00537,Fashion,Vancouver,Goa,2479.57,0.59,06-07-2021,No
+MER00538,Electronics,Manchester,England,2650.75,0.03,25-12-2022,Yes
+MER00539,Furniture,Coimbatore,Tamil Nadu,1368.15,0.84,20-11-2024,No
+MER00540,Fashion,Kolkata,West Bengal,1610.7,0.36,19-12-2022,No
+MER00541,Entertainment,Coimbatore,Tamil Nadu,2112.72,0.03,18-06-2026,No
+MER00542,Utilities,Melbourne,West Bengal,2728.22,0.93,24-02-2024,No
+MER00543,Insurance,Pune,England,303.72,0.85,19-11-2021,No
+MER00544,Grocery,Phoenix,Andhra Pradesh,609.49,0.48,05-01-2021,Yes
+MER00545,Fashion,Pune,Tamil Nadu,6690.61,0.03,26-09-2022,Yes
+MER00546,Automobile,Chicago,Punjab,916.36,0.77,05-02-2026,No
+MER00547,Electronics,Toronto,Ontario,725.25,0.89,05-06-2026,No
+MER00548,Healthcare,Manchester,England,1196.06,0.48,15-06-2022,No
+MER00549,Travel,Coimbatore,Tamil Nadu,787.58,0.64,24-11-2024,No
+MER00550,Fashion,Pune,Singapore,291.22,0.26,15-09-2022,Yes
+MER00551,Jewelry,New York,Rajasthan,566.29,0.48,02-05-2021,No
+MER00552,Education,Dubai,Dubai,2144.19,0.87,17-06-2025,Yes
+MER00553,Electronics,Hyderabad,Telangana,605.1,0.03,14-08-2026,No
+MER00554,Automobile,Los Angeles,Manipur,2186.36,0.84,06-08-2026,No
+MER00555,Entertainment,Chennai,Tamil Nadu,310.9,0.82,08-01-2022,Yes
+MER00556,Healthcare,Delhi,Delhi,185.56,0.74,07-06-2025,No
+MER00557,Utilities,London,England,4054.75,0.51,16-10-2022,No
+MER00558,Entertainment,Melbourne,West Bengal,2954.45,0.94,03-03-2024,No
+MER00559,Entertainment,Dubai,Dubai,2293.39,0.62,25-10-2021,No
+MER00560,Automobile,Phoenix,Andhra Pradesh,162.77,0.1,14-02-2021,No
+MER00561,Healthcare,Coimbatore,Tamil Nadu,647.17,0.38,21-09-2024,No
+MER00562,Automobile,Bengaluru,Karnataka,3445.97,0.04,08-03-2024,Yes
+MER00563,Utilities,Toronto,Ontario,412.53,0.03,20-12-2022,Yes
+MER00564,Grocery,Dubai,Dubai,3451.73,0.61,28-10-2023,Yes
+MER00565,Travel,Coimbatore,Tamil Nadu,1855.26,0.11,19-01-2026,Yes
+MER00566,Healthcare,Los Angeles,Manipur,2796.98,0.89,29-12-2025,Yes
+MER00567,Entertainment,London,England,2168.5,0.35,27-10-2023,No
+MER00568,Insurance,Houston,Telangana,100.07,0.72,18-11-2023,No
+MER00569,Insurance,Coimbatore,Tamil Nadu,790.56,0.65,11-06-2024,No
+MER00570,Education,Pune,Maharashtra,2333.93,0.5,27-09-2024,No
+MER00571,Fuel,Chicago,Punjab,3389.23,0.04,15-02-2022,No
+MER00572,Education,Mumbai,Maharashtra,191.53,0.83,07-06-2025,No
+MER00573,Dining,Phoenix,Andhra Pradesh,1055.78,0.21,08-05-2026,No
+MER00574,Jewelry,Singapore,Singapore,963.81,0.48,24-02-2021,Yes
+MER00575,Travel,Delhi,Delhi,1739.56,0.32,18-07-2025,No
+MER00576,Online Shopping,Kolkata,West Bengal,341.91,0.6,30-11-2021,No
+MER00577,Travel,Manchester,England,5518.68,0.61,21-02-2026,No
+MER00578,Education,Chicago,Punjab,1690.41,0.73,23-12-2024,No
+MER00579,Travel,Chicago,Punjab,5247.55,0.88,12-06-2023,No
+MER00580,Travel,Pune,Maharashtra,3495.89,0.86,12-01-2024,Yes
+MER00581,Healthcare,Dubai,Dubai,525.49,0.09,08-01-2021,No
+MER00582,Utilities,Los Angeles,Manipur,383.91,0.03,20-02-2022,No
+MER00583,Automobile,Melbourne,West Bengal,100.07,0.15,19-07-2024,No
+MER00584,Electronics,Coimbatore,Tamil Nadu,1636.17,0.02,09-04-2021,Yes
+MER00585,Insurance,Chennai,Tamil Nadu,139.88,0.39,09-12-2025,Yes
+MER00586,Fuel,Delhi,Delhi,5543.08,0.59,16-04-2022,No
+MER00587,Grocery,Chennai,Tamil Nadu,1381.22,0.11,20-05-2025,No
+MER00588,Grocery,Tokyo,Nagaland,816.03,0.4,30-07-2023,No
+MER00589,Insurance,Tokyo,Nagaland,1553.81,0.29,20-05-2022,Yes
+MER00590,Fashion,Pune,England,3562.29,0.87,13-02-2023,No
+MER00591,Entertainment,Pune,Nagaland,333.73,0.32,14-12-2024,No
+MER00592,Healthcare,New York,Rajasthan,989.24,0.39,04-05-2023,No
+MER00593,Healthcare,Dubai,Dubai,867.99,0.43,05-09-2022,Yes
+MER00594,Jewelry,Melbourne,West Bengal,3760.79,0.07,16-11-2025,Yes
+MER00595,Online Shopping,Manchester,England,3114.37,0.61,13-10-2021,Yes
+MER00596,Electronics,Tokyo,Nagaland,1122,0.89,08-01-2025,Yes
+MER00597,Entertainment,Coimbatore,Tamil Nadu,2284.2,0.95,28-09-2025,No
+MER00598,Entertainment,Chicago,Punjab,1103.22,0.88,26-05-2022,No
+MER00599,Fashion,Tokyo,Nagaland,1794.06,0.32,14-06-2025,No
+MER00600,Dining,Chennai,Tamil Nadu,9569.49,0.89,11-02-2025,No
+MER00601,Entertainment,Hyderabad,Telangana,1633.91,0.58,30-08-2023,No
+MER00602,Online Shopping,Sydney,Odisha,9043.86,0.64,18-10-2023,Yes
+MER00603,Dining,Pune,Punjab,2850.31,0.64,05-05-2023,Yes
+MER00604,Education,Coimbatore,Tamil Nadu,357.31,0.79,14-06-2023,No
+MER00605,Fashion,Vancouver,Goa,3278.94,0.99,20-03-2026,No
+MER00606,Entertainment,Tokyo,Nagaland,100.07,0.03,13-08-2022,No
+MER00607,Fashion,Dubai,Dubai,1619.98,0.49,08-12-2023,Yes
+MER00608,Automobile,Melbourne,West Bengal,1999.93,0.21,04-06-2023,No
+MER00609,Healthcare,Mumbai,Maharashtra,4555.52,0.19,11-01-2022,Yes
+MER00610,Utilities,Hyderabad,Telangana,572.52,0.43,19-02-2023,No
+MER00611,Electronics,Kolkata,West Bengal,4274.01,0.9,01-05-2025,Yes
+MER00612,Fashion,Los Angeles,Manipur,5551.22,0.45,25-05-2022,Yes
+MER00613,Furniture,Hyderabad,Telangana,287.49,0.03,14-08-2026,No
+MER00614,Grocery,Toronto,Ontario,4430.61,0.82,12-08-2021,Yes
+MER00615,Jewelry,Los Angeles,Manipur,700,0.12,08-01-2022,No
+MER00616,Automobile,Pune,Maharashtra,268.94,0.81,21-02-2021,Yes
+MER00617,Healthcare,Sydney,Odisha,6467.71,0.54,11-12-2023,Yes
+MER00618,Automobile,New York,Rajasthan,1095.83,1,12-06-2023,Yes
+MER00619,Fuel,Coimbatore,Tamil Nadu,2050.93,0.03,21-03-2026,No
+MER00620,Fashion,Kolkata,West Bengal,1709.83,0.11,26-04-2022,Yes
+MER00621,Travel,Chennai,Tamil Nadu,579.52,0.63,06-04-2026,Yes
+MER00622,Utilities,Hyderabad,Telangana,2314.7,0.46,07-01-2024,No
+MER00623,Automobile,Los Angeles,Manipur,194.42,0.03,05-01-2022,No
+MER00624,Healthcare,Pune,Maharashtra,554.04,0.03,08-12-2026,Yes
+MER00625,Fashion,Los Angeles,Manipur,100.07,0.04,25-04-2022,Yes
+MER00626,Automobile,Dubai,Dubai,6236.93,0.72,15-06-2023,No
+MER00627,Travel,Dubai,Dubai,1418.09,0.03,10-04-2025,Yes
+MER00628,Education,Tokyo,Nagaland,470.42,0.03,16-08-2025,Yes
+MER00629,Travel,Singapore,Singapore,1195.05,0.61,04-07-2022,Yes
+MER00630,Insurance,Singapore,Singapore,4292.29,0.03,26-12-2021,Yes
+MER00631,Grocery,Melbourne,West Bengal,100.07,0.3,10-05-2025,Yes
+MER00632,Online Shopping,Pune,Maharashtra,373.63,0.11,30-09-2023,No
+MER00633,Entertainment,Hyderabad,Telangana,4620.06,0.27,23-08-2021,No
+MER00634,Travel,Sydney,Odisha,1173.6,0.96,20-03-2023,Yes
+MER00635,Fashion,Vancouver,Goa,274.3,0.97,16-05-2021,Yes
+MER00636,Entertainment,Pune,Maharashtra,399.81,0.78,16-02-2021,No
+MER00637,Fashion,Bengaluru,Karnataka,4381.75,0.46,30-09-2021,Yes
+MER00638,Insurance,Chicago,Punjab,1447.09,0.4,02-07-2022,No
+MER00639,Dining,Melbourne,West Bengal,455.85,0.75,10-02-2023,No
+MER00640,Travel,Singapore,Singapore,4589.76,0.88,29-08-2021,No
+MER00641,Healthcare,Chicago,Punjab,3832.26,0.86,07-04-2026,Yes
+MER00642,Insurance,Delhi,Delhi,146.59,0.14,12-04-2023,No
+MER00643,Furniture,Manchester,England,1839.72,0.6,11-01-2022,No
+MER00644,Furniture,Sydney,Odisha,660.32,0.07,14-10-2023,Yes
+MER00645,Insurance,Melbourne,West Bengal,1623.43,0.62,22-07-2024,Yes
+MER00646,Travel,Vancouver,Goa,754.98,0.28,11-01-2022,No
+MER00647,Online Shopping,New York,Rajasthan,859.23,0.06,16-01-2022,Yes
+MER00648,Dining,Los Angeles,Manipur,1941.87,1,11-10-2021,Yes
+MER00649,Online Shopping,Hyderabad,Telangana,1648.1,0.8,08-08-2024,No
+MER00650,Fashion,Pune,Maharashtra,1105.69,0.93,11-09-2022,No
+MER00651,Automobile,Los Angeles,Manipur,100.07,0.77,30-11-2025,Yes
+MER00652,Fuel,Mumbai,Maharashtra,7075.07,0.21,10-07-2024,No
+MER00653,Grocery,Mumbai,Maharashtra,483.79,0.09,17-06-2022,No
+MER00654,Education,Kolkata,West Bengal,2105.43,0.54,01-06-2026,No
+MER00655,Utilities,New York,Rajasthan,272.74,0.46,29-07-2024,No
+MER00656,Grocery,Dubai,Dubai,2431.51,0.16,17-12-2021,Yes
+MER00657,Grocery,Sydney,Odisha,299.29,0.48,24-09-2025,No
+MER00658,Furniture,Pune,Maharashtra,621.45,0.72,13-12-2024,No
+MER00659,Entertainment,Houston,Telangana,2182.49,0.59,24-10-2022,Yes
+MER00660,Utilities,London,England,765.18,0.44,25-02-2026,No
+MER00661,Automobile,Toronto,Ontario,1622.21,0.16,09-02-2026,No
+MER00662,Travel,Pune,Maharashtra,365.93,0.03,18-09-2023,Yes
+MER00663,Automobile,Toronto,Ontario,552.3,0.81,21-03-2025,No
+MER00664,Grocery,Pune,Dubai,2746.83,0.03,17-06-2021,Yes
+MER00665,Fuel,Pune,Maharashtra,100.07,0.53,05-08-2026,No
+MER00666,Fashion,New York,Rajasthan,337.12,0.32,02-06-2026,No
+MER00667,Entertainment,New York,Rajasthan,584.03,0.96,27-01-2022,Yes
+MER00668,Fuel,New York,Rajasthan,140.79,0.32,03-05-2022,Yes
+MER00669,Insurance,New York,Rajasthan,300.48,0.71,22-06-2022,Yes
+MER00670,Jewelry,Delhi,Delhi,760.88,0.5,23-03-2021,No
+MER00671,Automobile,Coimbatore,Tamil Nadu,295.04,0.52,12-01-2025,No
+MER00672,Entertainment,Coimbatore,Tamil Nadu,4121.61,0.03,02-06-2023,No
+MER00673,Fuel,Singapore,Singapore,236.72,0.03,28-04-2024,No
+MER00674,Jewelry,Chennai,Tamil Nadu,4046.33,0.03,23-06-2021,No
+MER00675,Online Shopping,Chennai,Tamil Nadu,3561.63,0.34,20-06-2022,No
+MER00676,Education,Bengaluru,Karnataka,312.41,0.69,07-12-2023,No
+MER00677,Grocery,Pune,Manipur,151.03,0.61,02-12-2021,No
+MER00678,Insurance,Dubai,Dubai,202.57,0.88,17-09-2022,Yes
+MER00679,Entertainment,Vancouver,Goa,1885.04,0.61,26-02-2022,No
+MER00680,Fuel,Los Angeles,Manipur,2319.47,0.12,01-11-2022,Yes
+MER00681,Utilities,Pune,West Bengal,2038.61,0.16,07-07-2021,No
+MER00682,Education,Los Angeles,Manipur,1659.49,0.2,03-01-2022,No
+MER00683,Fuel,Houston,Telangana,483.98,0.22,10-03-2022,Yes
+MER00684,Healthcare,Phoenix,Andhra Pradesh,3777.12,0.12,15-10-2024,Yes
+MER00685,Insurance,Phoenix,Andhra Pradesh,893.67,0.03,24-10-2024,No
+MER00686,Automobile,London,England,8663.02,0.31,24-05-2023,Yes
+MER00687,Utilities,Los Angeles,Manipur,1071.8,0.57,03-06-2024,No
+MER00688,Furniture,Pune,Telangana,710.35,0.52,10-05-2022,No
+MER00689,Insurance,Pune,West Bengal,4593.37,0.48,11-12-2024,No
+MER00690,Grocery,Manchester,England,1775.95,0.67,29-04-2021,Yes
+MER00691,Fashion,Kolkata,West Bengal,2659.19,0.06,26-07-2021,No
+MER00692,Automobile,Sydney,Odisha,1149.84,0.75,21-01-2026,No
+MER00693,Jewelry,Melbourne,West Bengal,4459.24,0.13,23-04-2024,Yes
+MER00694,Healthcare,Melbourne,West Bengal,5095.38,0.71,14-04-2026,Yes
+MER00695,Automobile,Bengaluru,Karnataka,100.07,0.86,07-02-2024,Yes
+MER00696,Education,Sydney,Odisha,650.78,0.91,02-05-2026,Yes
+MER00697,Dining,Kolkata,West Bengal,2186.38,0.03,23-03-2024,No
+MER00698,Furniture,Melbourne,West Bengal,6283.8,0.88,08-10-2024,No
+MER00699,Insurance,Pune,Punjab,2048.09,0.07,09-12-2025,No
+MER00700,Healthcare,Sydney,Odisha,6267.92,0.65,29-12-2023,No
+MER00701,Furniture,Hyderabad,Telangana,942.6,0.65,23-03-2021,No
+MER00702,Automobile,Coimbatore,Tamil Nadu,5032.07,0.03,10-02-2024,Yes
+MER00703,Electronics,Bengaluru,Karnataka,338.84,0.2,22-01-2024,Yes
+MER00704,Automobile,Toronto,Ontario,988.94,0.61,25-12-2024,No
+MER00705,Education,Pune,Dubai,1464.3,0,03-09-2025,No
+MER00706,Entertainment,Chicago,Punjab,2217.5,0.51,01-11-2022,No
+MER00707,Furniture,Toronto,Ontario,796.67,0.03,12-08-2023,Yes
+MER00708,Automobile,Phoenix,Andhra Pradesh,100.07,0.82,22-10-2025,Yes
+MER00709,Education,London,England,4776.35,0.68,27-04-2024,Yes
+MER00710,Grocery,Kolkata,West Bengal,3312.25,0.69,10-06-2021,No
+MER00711,Travel,Vancouver,Goa,342.9,0.06,04-07-2025,No
+MER00712,Education,Pune,Manipur,263.05,0.6,26-04-2026,No
+MER00713,Electronics,Dubai,Dubai,1478.83,0.66,01-01-2023,No
+MER00714,Insurance,Vancouver,Goa,2999.27,0.23,04-12-2021,No
+MER00715,Grocery,Coimbatore,Tamil Nadu,363.03,0.89,29-03-2026,No
+MER00716,Jewelry,Delhi,Delhi,2151.3,0.3,27-05-2026,No
+MER00717,Dining,Chennai,Tamil Nadu,1600.94,0,16-04-2026,No
+MER00718,Fashion,Tokyo,Nagaland,2689.18,0.84,21-05-2022,No
+MER00719,Online Shopping,Pune,Singapore,1243.19,0.01,08-04-2023,No
+MER00720,Dining,Manchester,England,2463.75,0.75,16-11-2025,Yes
+MER00721,Utilities,Hyderabad,Telangana,447.78,0.03,23-01-2026,No
+MER00722,Insurance,Sydney,Odisha,583.11,0.39,10-05-2021,No
+MER00723,Education,Tokyo,Nagaland,4772.99,0.91,21-06-2022,No
+MER00724,Furniture,Vancouver,Goa,899.09,0.04,20-02-2021,No
+MER00725,Fashion,Chennai,Tamil Nadu,100.07,0.04,24-09-2021,No
+MER00726,Fashion,Delhi,Delhi,194.61,0.03,28-02-2024,No
+MER00727,Fuel,Pune,Odisha,100.07,0.03,12-07-2026,No
+MER00728,Education,Hyderabad,Telangana,886.05,0.25,02-11-2023,No
+MER00729,Online Shopping,Vancouver,Goa,11125.52,0.56,04-07-2023,Yes
+MER00730,Grocery,Toronto,Ontario,9317.3,0.28,11-08-2023,No
+MER00731,Utilities,Pune,Punjab,636.4,0.03,12-11-2021,No
+MER00732,Education,Dubai,Dubai,721.92,0.5,01-11-2022,No
+MER00733,Furniture,Pune,Maharashtra,2869.97,0.59,09-01-2022,No
+MER00734,Insurance,Houston,Telangana,4508.64,0.55,01-03-2025,No
+MER00735,Grocery,Los Angeles,Manipur,2279.49,0.32,13-01-2024,No
+MER00736,Travel,Pune,Maharashtra,4100.65,0.24,03-02-2023,No
+MER00737,Fashion,New York,Rajasthan,230.77,0.03,13-10-2021,Yes
+MER00738,Fashion,Chennai,Tamil Nadu,2146.24,0.13,06-09-2022,Yes
+MER00739,Online Shopping,Delhi,Delhi,2509.09,0.82,29-06-2022,No
+MER00740,Utilities,Chicago,Punjab,522.23,0.34,31-01-2022,Yes
+MER00741,Online Shopping,Pune,Maharashtra,3109.89,0.03,06-04-2022,Yes
+MER00742,Fashion,New York,Rajasthan,5874.3,0.04,22-09-2023,No
+MER00743,Utilities,Manchester,England,4664.91,0.03,23-02-2021,No
+MER00744,Online Shopping,Bengaluru,Karnataka,661.99,0.03,16-04-2024,No
+MER00745,Fashion,Pune,Maharashtra,883.1,0.63,08-07-2026,Yes
+MER00746,Jewelry,Houston,Telangana,1484.74,0.81,02-09-2021,No
+MER00747,Insurance,Toronto,Ontario,444.81,1,26-07-2024,Yes
+MER00748,Fashion,Hyderabad,Telangana,6256.19,0.48,06-07-2022,No
+MER00749,Electronics,Singapore,Singapore,452.51,0.13,09-11-2023,Yes
+MER00750,Electronics,Vancouver,Goa,2966.13,1,21-12-2025,No
+MER00751,Online Shopping,Tokyo,Nagaland,935.36,0.39,21-09-2025,Yes
+MER00752,Grocery,Pune,Tamil Nadu,1805.32,0.37,29-04-2023,Yes
+MER00753,Electronics,Kolkata,West Bengal,196.65,0.19,18-06-2026,No
+MER00754,Travel,New York,Rajasthan,558.86,0.86,19-12-2021,Yes
+MER00755,Entertainment,Chicago,Punjab,1275.38,0.43,21-02-2022,Yes
+MER00756,Utilities,Melbourne,West Bengal,2361.39,0.65,20-07-2026,Yes
+MER00757,Fashion,New York,Rajasthan,3106.21,0.93,06-02-2025,No
+MER00758,Automobile,Phoenix,Andhra Pradesh,161.21,0.51,16-05-2024,No
+MER00759,Entertainment,Phoenix,Andhra Pradesh,430.91,1,05-11-2022,No
+MER00760,Fashion,Coimbatore,Tamil Nadu,2717.12,0.33,07-06-2023,No
+MER00761,Fuel,Chicago,Punjab,100.07,0.83,13-06-2021,Yes
+MER00762,Fuel,Singapore,Singapore,639.87,0.29,23-12-2023,No
+MER00763,Fashion,Mumbai,Maharashtra,621.83,0.16,20-12-2023,No
+MER00764,Travel,Singapore,Singapore,284.3,1,04-10-2026,No
+MER00765,Fashion,Melbourne,West Bengal,425.73,0.45,13-04-2021,No
+MER00766,Fashion,Sydney,Odisha,116.1,0.2,04-12-2023,No
+MER00767,Utilities,Houston,Telangana,1882.37,0.86,24-02-2022,No
+MER00768,Dining,London,England,4784.55,0.97,08-11-2021,No
+MER00769,Jewelry,Chennai,Tamil Nadu,424.04,0.51,22-06-2026,No
+MER00770,Entertainment,Singapore,Singapore,2884.17,0.42,07-03-2021,No
+MER00771,Utilities,Los Angeles,Manipur,1805.03,0.64,13-05-2021,No
+MER00772,Grocery,Dubai,Dubai,5724.22,0.04,07-11-2024,Yes
+MER00773,Grocery,Melbourne,West Bengal,3300.19,0.15,17-06-2021,No
+MER00774,Automobile,Phoenix,Andhra Pradesh,3930.96,0.96,19-08-2026,Yes
+MER00775,Education,Pune,Telangana,2138.54,0.97,04-11-2022,No
+MER00776,Utilities,Manchester,England,100.07,0.85,17-08-2026,Yes
+MER00777,Automobile,Pune,West Bengal,964.24,0.16,16-08-2026,No
+MER00778,Grocery,Chicago,Punjab,568.96,0.56,03-05-2021,Yes
+MER00779,Fashion,Kolkata,West Bengal,4972.69,0.03,23-05-2021,Yes
+MER00780,Furniture,Dubai,Dubai,2751.04,0.14,21-10-2024,Yes
+MER00781,Utilities,New York,Rajasthan,290.17,0.39,28-06-2025,Yes
+MER00782,Furniture,Vancouver,Goa,4133.45,0.66,03-03-2023,Yes
+MER00783,Jewelry,Coimbatore,Tamil Nadu,958.2,0.54,29-06-2025,Yes
+MER00784,Fashion,Pune,Maharashtra,808.44,0.35,15-10-2021,Yes
+MER00785,Travel,Singapore,Singapore,2052.68,0.28,13-08-2024,No
+MER00786,Insurance,Tokyo,Nagaland,1781.43,0.78,03-06-2026,No
+MER00787,Electronics,Delhi,Delhi,1645.49,0.03,27-12-2021,No
+MER00788,Healthcare,Delhi,Delhi,688.41,0.93,28-07-2021,Yes
+MER00789,Fashion,Vancouver,Goa,6526.47,0.89,11-01-2022,Yes
+MER00790,Education,Melbourne,West Bengal,6096.31,0.47,18-09-2023,Yes
+MER00791,Jewelry,Delhi,Delhi,108.34,0.98,02-07-2023,Yes
+MER00792,Fashion,Pune,Maharashtra,924.46,0.11,30-10-2025,No
+MER00793,Electronics,Vancouver,Goa,193.24,0.99,21-05-2021,No
+MER00794,Jewelry,Kolkata,West Bengal,3897.56,0.9,04-10-2022,No
+MER00795,Electronics,Melbourne,West Bengal,4452.23,0.27,25-11-2023,Yes
+MER00796,Dining,Dubai,Dubai,1560.86,0.03,11-09-2025,Yes
+MER00797,Fuel,Mumbai,Maharashtra,3761.14,0.31,22-07-2021,No
+MER00798,Entertainment,London,England,2530.47,1,09-10-2021,No
+MER00799,Utilities,New York,Rajasthan,1484.59,0.25,08-02-2026,No
+MER00800,Dining,Pune,Maharashtra,1004.52,0.03,22-10-2024,No
+MER00801,Electronics,Melbourne,West Bengal,719.11,0.95,01-03-2024,Yes
+MER00802,Healthcare,Coimbatore,Tamil Nadu,700.67,0.01,20-02-2023,No
+MER00803,Healthcare,New York,Rajasthan,1751.37,0.69,09-12-2022,Yes
+MER00804,Fuel,Los Angeles,Manipur,464.98,0.25,05-03-2024,No
+MER00805,Dining,Vancouver,Goa,484.24,0.29,07-07-2021,Yes
+MER00806,Utilities,Los Angeles,Manipur,120.9,0.29,07-02-2022,Yes
+MER00807,Furniture,Pune,Andhra Pradesh,2000.36,0.9,04-03-2026,No
+MER00808,Electronics,New York,Rajasthan,10450.14,0.93,28-10-2024,No
+MER00809,Jewelry,Sydney,Odisha,4500.41,0.01,03-03-2022,Yes
+MER00810,Travel,New York,Rajasthan,2546.24,0.53,30-07-2025,No
+MER00811,Electronics,Sydney,Odisha,3179.13,0.07,13-07-2026,Yes
+MER00812,Grocery,Pune,Telangana,1178.63,0.03,16-07-2024,No
+MER00813,Grocery,Kolkata,West Bengal,807.87,0.77,24-03-2021,Yes
+MER00814,Insurance,Melbourne,West Bengal,1019.72,0.47,12-11-2025,Yes
+MER00815,Insurance,Hyderabad,Telangana,269.86,0.99,06-12-2024,No
+MER00816,Jewelry,Vancouver,Goa,2109.13,0.91,30-07-2021,Yes
+MER00817,Education,Coimbatore,Tamil Nadu,484.42,0.34,18-05-2023,Yes
+MER00818,Electronics,Vancouver,Goa,2978.36,0.11,16-08-2023,No
+MER00819,Entertainment,Houston,Telangana,521.38,0.16,17-01-2026,Yes
+MER00820,Utilities,Dubai,Dubai,617.86,0.08,02-05-2026,Yes
+MER00821,Travel,Toronto,Ontario,6407.38,0.48,18-08-2023,Yes
+MER00822,Automobile,Tokyo,Nagaland,322.75,0.03,11-12-2023,No
+MER00823,Dining,Tokyo,Nagaland,1481.67,0.03,24-07-2026,No
+MER00824,Utilities,Pune,Dubai,100.07,0.14,14-11-2022,No
+MER00825,Education,Delhi,Delhi,289.48,0.71,03-01-2021,No
+MER00826,Grocery,Kolkata,West Bengal,2107.52,0.56,27-02-2024,No
+MER00827,Entertainment,Melbourne,West Bengal,2092.44,0.34,08-11-2022,Yes
+MER00828,Education,Coimbatore,Tamil Nadu,529.16,0.09,19-05-2022,No
+MER00829,Travel,Los Angeles,Manipur,4219.07,0.27,29-07-2022,No
+MER00830,Online Shopping,Dubai,Dubai,2522.58,0.34,03-02-2023,Yes
+MER00831,Grocery,Delhi,Delhi,815.1,0.52,27-03-2024,No
+MER00832,Fuel,Chennai,Tamil Nadu,100.07,0.87,21-03-2021,No
+MER00833,Electronics,Sydney,Odisha,2907.17,0.48,05-12-2022,Yes
+MER00834,Online Shopping,Melbourne,West Bengal,2745.69,0.64,06-09-2022,Yes
+MER00835,Fashion,Singapore,Singapore,422.29,0.85,29-01-2022,Yes
+MER00836,Insurance,Phoenix,Andhra Pradesh,959.07,0.03,12-04-2024,No
+MER00837,Insurance,Bengaluru,Karnataka,588.42,0.75,17-11-2023,Yes
+MER00838,Furniture,Coimbatore,Tamil Nadu,796.69,0.51,19-11-2021,No
+MER00839,Insurance,Bengaluru,Karnataka,778.13,0.2,05-01-2025,No
+MER00840,Entertainment,Pune,Maharashtra,7561.38,0.44,21-08-2022,No
+MER00841,Furniture,Pune,Singapore,2874.28,0.03,16-03-2025,Yes
+MER00842,Travel,Vancouver,Goa,100.07,0.81,06-04-2025,No
+MER00843,Fashion,Delhi,Delhi,749.86,0.23,19-06-2021,No
+MER00844,Fuel,Singapore,Singapore,101.05,0.84,08-08-2025,Yes
+MER00845,Automobile,New York,Rajasthan,219.83,0.15,26-07-2026,No
+MER00846,Entertainment,London,England,1710.39,0.94,24-05-2026,Yes
+MER00847,Online Shopping,Coimbatore,Tamil Nadu,772.29,0.27,22-06-2025,No
+MER00848,Fashion,Vancouver,Goa,528.75,0.9,21-07-2026,No
+MER00849,Entertainment,Tokyo,Nagaland,201.83,0.64,23-05-2023,No
+MER00850,Healthcare,Melbourne,West Bengal,4273.04,0.63,21-02-2021,Yes
+MER00851,Healthcare,Pune,Punjab,1933.22,0.45,10-10-2024,No
+MER00852,Fashion,Tokyo,Nagaland,327.17,1,24-07-2025,No
+MER00853,Electronics,Chennai,Tamil Nadu,3008.32,0.87,26-09-2023,No
+MER00854,Furniture,Chennai,Tamil Nadu,2919.75,0.44,22-05-2023,No
+MER00855,Travel,Mumbai,Maharashtra,783.3,0.8,17-03-2026,Yes
+MER00856,Fashion,Houston,Telangana,517.56,0.74,22-11-2022,No
+MER00857,Fuel,Mumbai,Maharashtra,3463.82,0.48,26-08-2024,No
+MER00858,Education,Tokyo,Nagaland,899.66,0.03,15-08-2021,No
+MER00859,Electronics,Vancouver,Goa,3860.24,0.13,10-02-2025,No
+MER00860,Automobile,Toronto,Ontario,100.07,0.56,25-06-2024,Yes
+MER00861,Fuel,Delhi,Delhi,1483.45,0.18,23-12-2022,No
+MER00862,Electronics,Pune,Tamil Nadu,495.92,0.63,01-12-2021,No
+MER00863,Automobile,Pune,Manipur,2329.76,0.03,13-09-2021,Yes
+MER00864,Utilities,New York,Rajasthan,11866.13,0.88,23-03-2022,No
+MER00865,Utilities,Houston,Telangana,1163.8,0.03,09-06-2025,No
+MER00866,Fashion,Pune,Punjab,311.41,0.02,08-05-2023,No
+MER00867,Electronics,Los Angeles,Manipur,864.49,0.96,05-04-2021,Yes
+MER00868,Education,Pune,Maharashtra,4542.13,0.91,07-12-2021,No
+MER00869,Healthcare,Manchester,England,3002.83,0.55,07-07-2021,No
+MER00870,Travel,Chennai,Tamil Nadu,628.48,0.25,20-06-2025,Yes
+MER00871,Entertainment,London,England,6240.86,0.22,26-09-2024,No
+MER00872,Dining,Singapore,Singapore,2046.72,0.62,09-11-2022,No
+MER00873,Fuel,Tokyo,Nagaland,467.96,0.78,13-09-2024,Yes
+MER00874,Insurance,Mumbai,Maharashtra,1798.77,0.08,31-12-2025,No
+MER00875,Utilities,Pune,West Bengal,100.07,0.84,29-03-2021,Yes
+MER00876,Grocery,Singapore,Singapore,3526.24,0.28,08-09-2023,No
+MER00877,Fashion,Houston,Telangana,943.68,0.61,19-09-2022,Yes
+MER00878,Healthcare,Singapore,Singapore,4258.54,0.84,22-02-2022,Yes
+MER00879,Electronics,London,England,3442.31,0.22,14-05-2021,Yes
+MER00880,Dining,Toronto,Ontario,2345.42,0.77,13-10-2021,No
+MER00881,Fuel,Los Angeles,Manipur,698.45,0.81,29-12-2021,Yes
+MER00882,Fuel,Manchester,England,7135.21,0.83,29-09-2022,No
+MER00883,Healthcare,Toronto,Ontario,1691.1,0.49,28-06-2021,Yes
+MER00884,Fashion,Dubai,Dubai,4861.4,0.03,03-05-2021,Yes
+MER00885,Dining,Houston,Telangana,586,0.55,15-02-2021,No
+MER00886,Fashion,Tokyo,Nagaland,8294.09,0.27,05-03-2025,No
+MER00887,Online Shopping,New York,Rajasthan,3486.28,0.72,17-09-2025,Yes
+MER00888,Fashion,Bengaluru,Karnataka,6060.78,0.77,22-06-2025,No
+MER00889,Grocery,Vancouver,Goa,577.44,0.77,19-02-2026,No
+MER00890,Fashion,Houston,Telangana,1226.55,0.4,09-12-2024,Yes
+MER00891,Fashion,Phoenix,Andhra Pradesh,305.47,0.03,03-06-2025,No
+MER00892,Grocery,Pune,Maharashtra,100.07,0.08,28-05-2025,Yes
+MER00893,Automobile,Melbourne,West Bengal,768.03,0.03,05-09-2024,No
+MER00894,Fuel,Houston,Telangana,6157.57,0.81,28-07-2023,No
+MER00895,Education,Pune,Maharashtra,2300.38,0.35,12-08-2023,Yes
+MER00896,Furniture,Houston,Telangana,855.6,0.35,11-06-2023,Yes
+MER00897,Automobile,Pune,Ontario,6283.31,0.03,29-05-2026,No
+MER00898,Jewelry,Houston,Telangana,2792.08,0.1,28-06-2024,No
+MER00899,Jewelry,Vancouver,Goa,4849.86,0.54,07-02-2026,No
+MER00900,Online Shopping,Dubai,Dubai,5340.65,0.54,30-03-2026,No
+MER00901,Jewelry,Melbourne,West Bengal,2878.76,0.23,26-09-2023,Yes
+MER00902,Insurance,Coimbatore,Tamil Nadu,657.14,0.03,10-04-2025,No
+MER00903,Dining,Manchester,England,11461.47,0.65,09-08-2023,No
+MER00904,Fashion,Houston,Telangana,886.35,0.9,18-01-2022,No
+MER00905,Automobile,Phoenix,Andhra Pradesh,2327.69,0.21,18-02-2025,No
+MER00906,Furniture,Phoenix,Andhra Pradesh,3826.23,0.03,04-08-2022,Yes
+MER00907,Online Shopping,Delhi,Delhi,485.11,0.56,25-10-2022,Yes
+MER00908,Dining,Hyderabad,Telangana,100.07,0.33,05-07-2026,No
+MER00909,Furniture,Manchester,England,1040.56,0.89,17-08-2023,Yes
+MER00910,Utilities,Chicago,Punjab,660.19,0.72,07-04-2023,No
+MER00911,Fashion,Tokyo,Nagaland,123.68,0.83,19-06-2023,Yes
+MER00912,Automobile,Phoenix,Andhra Pradesh,4211.04,0.29,23-07-2025,Yes
+MER00913,Education,Toronto,Ontario,100.07,0.7,18-10-2022,Yes
+MER00914,Insurance,Dubai,Dubai,100.07,0.03,11-03-2021,Yes
+MER00915,Furniture,London,England,1936.04,0.56,18-09-2024,Yes
+MER00916,Entertainment,Sydney,Odisha,2040.73,0.91,26-12-2025,No
+MER00917,Insurance,Houston,Telangana,3628.12,0.93,18-05-2025,Yes
+MER00918,Grocery,Hyderabad,Telangana,1524.42,0.56,04-09-2021,No
+MER00919,Insurance,Los Angeles,Manipur,984.11,0.08,06-06-2026,No
+MER00920,Dining,Bengaluru,Karnataka,398.87,0.76,29-05-2022,No
+MER00921,Travel,Houston,Telangana,1789.87,0.62,22-07-2021,No
+MER00922,Entertainment,Delhi,Delhi,1711.14,0.28,03-05-2023,No
+MER00923,Fuel,Delhi,Delhi,795.99,0.57,12-10-2024,Yes
+MER00924,Insurance,Los Angeles,Manipur,1932.87,0.7,30-03-2024,No
+MER00925,Entertainment,Mumbai,Maharashtra,1257.38,0.23,14-10-2022,No
+MER00926,Furniture,Kolkata,West Bengal,3374.96,0.85,02-10-2024,No
+MER00927,Automobile,Bengaluru,Karnataka,1739.63,0.19,24-10-2025,Yes
+MER00928,Education,Chicago,Punjab,5526.48,0.28,16-09-2022,No
+MER00929,Insurance,Pune,West Bengal,1559.55,0.17,02-05-2025,No
+MER00930,Insurance,Chicago,Punjab,4469.52,0.88,29-11-2025,No
+MER00931,Online Shopping,Toronto,Ontario,1570.13,0.73,15-04-2026,No
+MER00932,Fashion,Tokyo,Nagaland,1733.05,0.42,30-07-2025,Yes
+MER00933,Fashion,Phoenix,Andhra Pradesh,1013.96,0.24,08-02-2021,No
+MER00934,Travel,Pune,Karnataka,1122.22,0.3,29-10-2021,Yes
+MER00935,Dining,Mumbai,Maharashtra,5509.16,0.03,06-04-2021,No
+MER00936,Jewelry,Phoenix,Andhra Pradesh,605.36,0.59,31-03-2024,Yes
+MER00937,Entertainment,Pune,Telangana,358.98,0.03,14-06-2026,No
+MER00938,Entertainment,Melbourne,West Bengal,3646.4,0.74,06-02-2022,No
+MER00939,Fashion,Dubai,Dubai,1820.34,0.31,12-02-2022,No
+MER00940,Entertainment,Melbourne,West Bengal,769.96,0.95,06-05-2026,Yes
+MER00941,Fashion,Bengaluru,Karnataka,1232.68,0.2,04-06-2026,No
+MER00942,Travel,Houston,Telangana,1588.48,0.18,28-08-2021,No
+MER00943,Utilities,Los Angeles,Manipur,100.07,0.58,25-09-2021,No
+MER00944,Automobile,Singapore,Singapore,3541.31,0.19,14-05-2024,No
+MER00945,Entertainment,Pune,England,1102.91,0.93,05-09-2024,No
+MER00946,Automobile,Sydney,Odisha,2357.13,0.88,30-11-2025,No
+MER00947,Insurance,Delhi,Delhi,3700.8,0.23,25-02-2025,No
+MER00948,Fuel,Kolkata,West Bengal,3812.9,0.11,26-09-2023,No
+MER00949,Grocery,Chicago,Punjab,100.07,0.36,08-08-2022,Yes
+MER00950,Utilities,Delhi,Delhi,962.1,0.03,25-10-2022,No
+MER00951,Travel,Pune,Dubai,1907.27,0.93,29-09-2021,Yes
+MER00952,Education,Pune,Dubai,4439.12,0.48,14-07-2024,No
+MER00953,Healthcare,Vancouver,Goa,3225.55,0.05,29-07-2023,No
+MER00954,Insurance,Dubai,Dubai,1853.96,0.4,08-04-2026,No
+MER00955,Insurance,Tokyo,Nagaland,8337.31,0.12,25-12-2023,No
+MER00956,Healthcare,Pune,Andhra Pradesh,1256.02,0.56,11-03-2023,No
+MER00957,Education,Mumbai,Maharashtra,3796.03,0.9,11-10-2025,No
+MER00958,Online Shopping,Vancouver,Goa,3512.12,0.34,11-04-2021,Yes
+MER00959,Furniture,Dubai,Dubai,4872.77,0.99,13-11-2022,No
+MER00960,Online Shopping,Coimbatore,Tamil Nadu,8892.8,0.65,05-04-2022,No
+MER00961,Automobile,Manchester,England,1469.15,0.15,05-08-2023,No
+MER00962,Insurance,Pune,Ontario,535.39,0.76,09-02-2025,Yes
+MER00963,Electronics,Manchester,England,100.07,0.67,17-04-2021,No
+MER00964,Grocery,Houston,Telangana,3946.72,0.44,17-01-2023,No
+MER00965,Automobile,Coimbatore,Tamil Nadu,3717.08,0.73,15-07-2026,No
+MER00966,Electronics,Toronto,Ontario,918.86,0.44,31-10-2022,Yes
+MER00967,Grocery,Houston,Telangana,196.92,0.11,13-10-2022,Yes
+MER00968,Insurance,Sydney,Odisha,100.07,0.49,18-04-2022,No
+MER00969,Entertainment,Vancouver,Goa,1385.29,0.32,13-11-2025,Yes
+MER00970,Fuel,New York,Rajasthan,100.07,0.2,10-11-2024,No
+MER00971,Fashion,Vancouver,Goa,3268.42,0.19,14-02-2021,No
+MER00972,Jewelry,Chicago,Punjab,767.01,0.77,27-04-2024,No
+MER00973,Entertainment,Coimbatore,Tamil Nadu,2175.52,0.84,22-09-2025,No
+MER00974,Insurance,Delhi,Delhi,314.03,0.33,21-06-2025,Yes
+MER00975,Grocery,Pune,Delhi,4042.3,0.27,22-04-2022,Yes
+MER00976,Utilities,Kolkata,West Bengal,100.07,0.81,20-12-2022,No
+MER00977,Fuel,Vancouver,Goa,1083.43,0.39,24-06-2026,Yes
+MER00978,Travel,Phoenix,Andhra Pradesh,100.07,0.66,08-09-2023,No
+MER00979,Electronics,Singapore,Singapore,515.17,0.33,18-04-2025,No
+MER00980,Fuel,Toronto,Ontario,8556.55,0.8,08-01-2021,Yes
+MER00981,Education,Chennai,Tamil Nadu,3280.33,0.9,30-03-2023,No
+MER00982,Furniture,Mumbai,Maharashtra,3211.23,0.75,13-05-2021,No
+MER00983,Fashion,Los Angeles,Manipur,433.01,0.14,22-02-2025,No
+MER00984,Education,Vancouver,Goa,135.79,0.03,20-04-2022,No
+MER00985,Fuel,Bengaluru,Karnataka,1860.74,0.79,06-09-2022,No
+MER00986,Healthcare,Melbourne,West Bengal,411.25,0.8,07-11-2021,No
+MER00987,Utilities,Manchester,England,3132.2,0.03,29-10-2021,No
+MER00988,Online Shopping,Sydney,Odisha,1175.97,0.93,30-07-2026,No
+MER00989,Automobile,Pune,Punjab,926.78,0.96,26-10-2021,No
+MER00990,Travel,Toronto,Ontario,253,0.91,17-11-2021,No
+MER00991,Utilities,Chicago,Punjab,11175.73,0.27,03-05-2022,No
+MER00992,Travel,Chennai,Tamil Nadu,6347.62,0.03,30-11-2021,No
+MER00993,Entertainment,Hyderabad,Telangana,100.07,0.98,03-11-2021,No
+MER00994,Automobile,Kolkata,West Bengal,909.37,0.72,17-06-2023,No
+MER00995,Healthcare,Melbourne,West Bengal,1091.18,0.32,24-12-2024,No
+MER00996,Travel,Toronto,Ontario,804.23,0.34,01-06-2022,Yes
+MER00997,Healthcare,Coimbatore,Tamil Nadu,5550.45,0.43,09-10-2021,No
+MER00998,Travel,London,England,2655.54,0.62,14-06-2025,No
+MER00999,Furniture,Tokyo,Nagaland,6343.34,0.54,26-04-2022,Yes
+MER01000,Healthcare,Bengaluru,Karnataka,4250.99,0.22,01-09-2023,Yes
+MER01001,Automobile,Toronto,Ontario,2909.25,0.55,13-05-2026,Yes
+MER01002,Automobile,Mumbai,Maharashtra,2487.83,0.72,16-03-2022,Yes
+MER01003,Automobile,Coimbatore,Tamil Nadu,4122.26,0.29,06-07-2022,No
+MER01004,Healthcare,Pune,Maharashtra,2404.98,0.93,04-12-2025,No
+MER01005,Insurance,Mumbai,Maharashtra,100.07,0.7,31-03-2023,Yes
+MER01006,Insurance,Tokyo,Nagaland,2188.97,0.42,13-05-2026,No
+MER01007,Electronics,Vancouver,Goa,1547.22,0.38,24-02-2026,No
+MER01008,Fuel,Los Angeles,Manipur,8123.1,0.12,15-06-2025,No
+MER01009,Fashion,Bengaluru,Karnataka,100.07,0.72,13-03-2026,Yes
+MER01010,Furniture,Houston,Telangana,178.43,0.86,06-09-2022,Yes
+MER01011,Fashion,Pune,England,713.57,0.68,26-12-2024,Yes
+MER01012,Fashion,Singapore,Singapore,5087.05,0.03,18-09-2025,No
+MER01013,Education,Sydney,Odisha,6659.18,0.96,05-04-2023,No
+MER01014,Dining,Vancouver,Goa,2707.58,0.24,06-09-2024,No
+MER01015,Furniture,Bengaluru,Karnataka,217.09,0.2,02-08-2026,No
+MER01016,Healthcare,Los Angeles,Manipur,147.65,0.71,26-02-2024,No
+MER01017,Electronics,Singapore,Singapore,1406.3,0.7,18-02-2022,Yes
+MER01018,Grocery,Phoenix,Andhra Pradesh,16146.86,0.2,22-11-2023,No
+MER01019,Travel,Singapore,Singapore,4169.65,0.02,01-03-2023,Yes
+MER01020,Jewelry,Phoenix,Andhra Pradesh,5509.34,0.74,30-08-2024,No
+MER01021,Travel,New York,Rajasthan,2053.89,0.33,28-01-2024,No
+MER01022,Insurance,Pune,Goa,4019.76,0.03,07-12-2024,No
+MER01023,Jewelry,Pune,England,100.07,0.98,29-10-2021,Yes
+MER01024,Healthcare,London,England,155.49,0.91,24-04-2025,No
+MER01025,Dining,Mumbai,Maharashtra,5108.19,0.37,05-10-2025,Yes
+MER01026,Jewelry,Singapore,Singapore,592.9,0.03,10-07-2021,No
+MER01027,Fuel,Coimbatore,Tamil Nadu,100.07,0.2,20-10-2025,No
+MER01028,Fashion,Coimbatore,Tamil Nadu,2251.55,0.57,29-07-2025,No
+MER01029,Grocery,Coimbatore,Tamil Nadu,444.34,0.49,31-07-2024,Yes
+MER01030,Entertainment,Los Angeles,Manipur,535.76,0.72,26-08-2022,Yes
+MER01031,Healthcare,Bengaluru,Karnataka,898.19,0.02,28-04-2023,No
+MER01032,Dining,Pune,Maharashtra,2928.82,0.03,22-06-2022,No
+MER01033,Dining,London,England,180.07,0.41,07-01-2023,Yes
+MER01034,Grocery,Mumbai,Maharashtra,1145.35,0.4,28-06-2023,Yes
+MER01035,Entertainment,Delhi,Delhi,2287.93,0.7,10-04-2026,No
+MER01036,Electronics,Coimbatore,Tamil Nadu,476.21,0.4,14-10-2022,No
+MER01037,Insurance,Sydney,Odisha,354.34,0.96,27-10-2023,No
+MER01038,Fashion,Chicago,Punjab,1089.29,0.7,27-05-2023,No
+MER01039,Insurance,Melbourne,West Bengal,775.31,0.57,11-09-2022,No
+MER01040,Utilities,New York,Rajasthan,100.07,0.23,15-03-2021,No
+MER01041,Education,Chennai,Tamil Nadu,7084.56,0.89,11-05-2022,No
+MER01042,Insurance,Singapore,Singapore,108.96,0.12,10-03-2022,No
+MER01043,Fashion,Los Angeles,Manipur,4753.34,0.6,12-02-2022,Yes
+MER01044,Healthcare,Pune,England,1235.58,0.03,28-06-2025,No
+MER01045,Automobile,Melbourne,West Bengal,2281.33,0.52,18-07-2026,No
+MER01046,Automobile,New York,Rajasthan,3907.98,0.8,03-01-2026,No
+MER01047,Fuel,Pune,Maharashtra,1804.09,0.44,04-01-2024,Yes
+MER01048,Entertainment,Mumbai,Maharashtra,304.76,0.4,24-11-2024,No
+MER01049,Healthcare,Singapore,Singapore,403.03,0.91,05-08-2024,Yes
+MER01050,Fashion,Toronto,Ontario,3214.45,0.6,02-10-2025,No
+MER01051,Dining,New York,Rajasthan,620.39,0.03,24-06-2024,No
+MER01052,Fashion,Kolkata,West Bengal,1783.47,0.89,17-04-2021,No
+MER01053,Fashion,Kolkata,West Bengal,1217.51,0.03,23-09-2024,No
+MER01054,Online Shopping,New York,Rajasthan,823.77,0.62,04-10-2021,No
+MER01055,Furniture,Delhi,Delhi,100.07,0.53,15-10-2024,Yes
+MER01056,Education,Chicago,Punjab,2727.7,0.02,16-09-2021,No
+MER01057,Online Shopping,Mumbai,Maharashtra,2177.53,0.53,15-12-2023,No
+MER01058,Insurance,Pune,Nagaland,1032.57,0.77,17-04-2021,Yes
+MER01059,Electronics,Pune,Maharashtra,613.58,0.96,02-07-2022,No
+MER01060,Automobile,New York,Rajasthan,1550.91,0.96,22-10-2021,No
+MER01061,Jewelry,Houston,Telangana,3497.68,0.03,11-08-2022,Yes
+MER01062,Furniture,Chicago,Punjab,1814.46,0.27,19-07-2024,No
+MER01063,Fashion,London,England,7122.45,0.38,15-12-2024,No
+MER01064,Education,Coimbatore,Tamil Nadu,131.12,0.95,03-02-2021,No
+MER01065,Fashion,Manchester,England,12910.06,0.36,08-05-2024,Yes
+MER01066,Online Shopping,Melbourne,West Bengal,2451.48,0.04,31-01-2026,No
+MER01067,Automobile,Sydney,Odisha,3675.62,0.5,26-10-2023,Yes
+MER01068,Education,Delhi,Delhi,915.79,0.76,25-08-2025,Yes
+MER01069,Fashion,Phoenix,Andhra Pradesh,1519.94,0.1,10-05-2021,No
+MER01070,Automobile,Chicago,Punjab,3288.99,0.42,15-03-2024,Yes
+MER01071,Education,New York,Rajasthan,2959.65,0.91,21-06-2026,No
+MER01072,Travel,Vancouver,Goa,913.03,0.98,26-02-2022,No
+MER01073,Education,Kolkata,West Bengal,884.34,0.22,22-02-2023,No
+MER01074,Fashion,Sydney,Odisha,2274.22,0.56,08-04-2023,No
+MER01075,Fashion,Bengaluru,Karnataka,100.07,0.87,14-10-2023,No
+MER01076,Fuel,Singapore,Singapore,1255.31,0.38,03-01-2026,Yes
+MER01077,Entertainment,Delhi,Delhi,970.64,0.46,05-02-2021,No
+MER01078,Insurance,Coimbatore,Tamil Nadu,4601.64,0.45,19-05-2025,No
+MER01079,Furniture,Mumbai,Maharashtra,2398.06,0.22,10-09-2025,No
+MER01080,Fashion,Pune,West Bengal,1082.95,0.66,09-07-2021,No
+MER01081,Fashion,Houston,Telangana,217.96,0.35,09-09-2025,No
+MER01082,Fashion,Melbourne,West Bengal,2656.6,0.21,23-03-2023,No
+MER01083,Furniture,Manchester,England,970.47,0.22,18-09-2022,No
+MER01084,Dining,Dubai,Dubai,100.07,0.85,01-03-2025,Yes
+MER01085,Education,Pune,West Bengal,1994.99,0.76,28-06-2024,Yes
+MER01086,Dining,Bengaluru,Karnataka,880.19,0.71,11-10-2022,No
+MER01087,Fuel,Los Angeles,Manipur,100.07,0.06,08-04-2023,No
+MER01088,Utilities,Pune,Maharashtra,1404.66,0.2,29-01-2023,Yes
+MER01089,Furniture,Chennai,Tamil Nadu,2627.97,0.21,05-12-2024,Yes
+MER01090,Healthcare,Melbourne,West Bengal,746.84,0.47,09-10-2024,No
+MER01091,Jewelry,Houston,Telangana,268.82,0.01,26-12-2023,Yes
+MER01092,Utilities,Kolkata,West Bengal,1204.77,0.32,16-11-2023,No
+MER01093,Education,Toronto,Ontario,212.98,0.93,10-07-2023,Yes
+MER01094,Dining,Toronto,Ontario,2489.82,0.66,04-02-2026,Yes
+MER01095,Fashion,Los Angeles,Manipur,6500.28,0.93,24-08-2021,No
+MER01096,Grocery,Delhi,Delhi,2250.33,0.03,28-04-2022,No
+MER01097,Online Shopping,Phoenix,Andhra Pradesh,744.24,0.56,22-12-2025,No
+MER01098,Fashion,Melbourne,West Bengal,501.06,0.49,11-01-2021,No
+MER01099,Education,Los Angeles,Manipur,629.97,0.58,17-04-2026,Yes
+MER01100,Online Shopping,Manchester,England,601.06,0.12,01-11-2023,No
+MER01101,Insurance,Pune,Singapore,853.26,0.03,10-05-2023,Yes
+MER01102,Automobile,Phoenix,Andhra Pradesh,304.83,0.92,13-02-2021,Yes
+MER01103,Utilities,Los Angeles,Manipur,4621.33,0.98,24-03-2024,No
+MER01104,Entertainment,Delhi,Delhi,4427.74,0.56,08-04-2022,Yes
+MER01105,Insurance,Hyderabad,Telangana,2010.25,0.6,27-09-2023,No
+MER01106,Electronics,Toronto,Ontario,227.84,0.84,30-01-2024,No
+MER01107,Healthcare,Pune,West Bengal,3359.29,0.89,24-12-2022,No
+MER01108,Fuel,Houston,Telangana,227.56,0.15,22-05-2022,Yes
+MER01109,Education,Hyderabad,Telangana,325.04,0.47,12-03-2026,Yes
+MER01110,Automobile,Phoenix,Andhra Pradesh,886.96,0.25,07-03-2023,Yes
+MER01111,Fuel,Mumbai,Maharashtra,1229.4,0.77,10-06-2021,Yes
+MER01112,Automobile,Tokyo,Nagaland,973.57,0.08,30-06-2023,Yes
+MER01113,Healthcare,Pune,West Bengal,461.2,0.93,07-06-2023,No
+MER01114,Online Shopping,Tokyo,Nagaland,337.86,0.88,22-12-2025,No
+MER01115,Fuel,Hyderabad,Telangana,4023.89,0.82,07-07-2023,No
+MER01116,Education,Chennai,Tamil Nadu,1002.54,0.59,08-03-2026,No
+MER01117,Education,Los Angeles,Manipur,593.33,0.5,14-02-2024,No
+MER01118,Education,Chicago,Punjab,1434.93,0.44,21-01-2021,No
+MER01119,Furniture,Manchester,England,175.04,0.71,27-11-2022,No
+MER01120,Grocery,Sydney,Odisha,1933.99,0.03,30-06-2022,No
+MER01121,Furniture,Los Angeles,Manipur,671.34,0.81,12-12-2021,Yes
+MER01122,Education,Chennai,Tamil Nadu,1923.58,0.55,01-08-2023,No
+MER01123,Fashion,Toronto,Ontario,2004.48,0.85,07-12-2026,No
+MER01124,Grocery,Pune,Maharashtra,3413.31,0.03,05-09-2021,Yes
+MER01125,Utilities,Houston,Telangana,622.48,0.89,04-01-2026,No
+MER01126,Electronics,Houston,Telangana,1345.25,0.27,27-03-2021,Yes
+MER01127,Jewelry,Delhi,Delhi,6634.42,0.88,26-09-2022,No
+MER01128,Automobile,Vancouver,Goa,100.07,0.53,15-08-2022,No
+MER01129,Entertainment,Vancouver,Goa,7505.45,0.82,15-06-2024,Yes
+MER01130,Utilities,Phoenix,Andhra Pradesh,5344.64,0.18,13-01-2023,No
+MER01131,Automobile,Melbourne,West Bengal,100.07,0.83,25-08-2025,Yes
+MER01132,Insurance,Melbourne,West Bengal,712.86,0.54,16-02-2023,No
+MER01133,Utilities,Bengaluru,Karnataka,2928.76,0.6,13-10-2022,No
+MER01134,Furniture,Pune,Maharashtra,2495.45,0.86,09-08-2025,Yes
+MER01135,Fashion,Chennai,Tamil Nadu,1877.79,0.03,04-03-2025,Yes
+MER01136,Fashion,Chennai,Tamil Nadu,2493.53,0.66,07-09-2024,No
+MER01137,Fashion,London,England,2001.69,0.35,18-09-2024,Yes
+MER01138,Furniture,Phoenix,Andhra Pradesh,1565.35,0.79,15-12-2024,Yes
+MER01139,Entertainment,New York,Rajasthan,1175.56,0.01,02-09-2021,No
+MER01140,Jewelry,New York,Rajasthan,191.48,0.78,06-08-2022,No
+MER01141,Healthcare,Bengaluru,Karnataka,4115.18,0.28,04-09-2026,No
+MER01142,Education,Tokyo,Nagaland,4112.99,0.73,23-03-2023,No
+MER01143,Furniture,Chicago,Punjab,1903.04,0.22,13-07-2026,No
+MER01144,Online Shopping,Chicago,Punjab,723.63,0.57,06-01-2021,Yes
+MER01145,Furniture,Dubai,Dubai,157.07,0.29,02-09-2024,No
+MER01146,Utilities,Phoenix,Andhra Pradesh,102.86,0.85,24-02-2025,No
+MER01147,Insurance,Chicago,Punjab,251.4,0.81,17-11-2022,Yes
+MER01148,Insurance,Phoenix,Andhra Pradesh,992.22,0.78,23-12-2021,No
+MER01149,Fuel,Mumbai,Maharashtra,517.49,0.26,30-01-2023,Yes
+MER01150,Insurance,Toronto,Ontario,715.93,0.48,02-12-2023,No
+MER01151,Jewelry,London,England,2505.68,0.34,24-12-2025,No
+MER01152,Insurance,Bengaluru,Karnataka,6495.69,0.36,21-12-2022,No
+MER01153,Fuel,Chennai,Tamil Nadu,563.3,0.43,30-08-2025,No
+MER01154,Fashion,Tokyo,Nagaland,1353.39,0.03,30-07-2022,No
+MER01155,Electronics,Pune,Maharashtra,9630.54,0.85,23-03-2023,Yes
+MER01156,Automobile,Delhi,Delhi,5466.94,0.48,05-08-2025,Yes
+MER01157,Education,Coimbatore,Tamil Nadu,968.71,0.85,25-01-2026,Yes
+MER01158,Travel,Houston,Telangana,870.41,0.83,06-08-2025,No
+MER01159,Travel,Singapore,Singapore,654.59,0.69,10-01-2025,Yes
+MER01160,Healthcare,Los Angeles,Manipur,437.79,0.89,23-02-2021,No
+MER01161,Healthcare,Sydney,Odisha,1332.57,0.58,17-08-2022,No
+MER01162,Online Shopping,Kolkata,West Bengal,934.43,0.89,19-08-2026,No
+MER01163,Fashion,Manchester,England,2831.71,0.63,24-06-2021,No
+MER01164,Grocery,Tokyo,Nagaland,640.64,0.26,06-11-2022,Yes
+MER01165,Jewelry,Hyderabad,Telangana,2766.13,0.26,14-09-2024,Yes
+MER01166,Healthcare,Vancouver,Goa,779.77,0.8,13-11-2025,Yes
+MER01167,Education,Chennai,Tamil Nadu,1896.55,0.29,29-01-2022,No
+MER01168,Fashion,Mumbai,Maharashtra,2134.6,0.95,12-09-2023,No
+MER01169,Insurance,Singapore,Singapore,2328.15,0.42,07-10-2025,Yes
+MER01170,Fuel,Toronto,Ontario,485.57,0.03,26-10-2021,No
+MER01171,Automobile,Toronto,Ontario,764.55,0.93,20-05-2023,Yes
+MER01172,Entertainment,Pune,England,665.03,0.92,14-12-2023,Yes
+MER01173,Fuel,Pune,Odisha,1816.8,0.73,17-09-2022,No
+MER01174,Fuel,Melbourne,West Bengal,257.54,0.45,07-02-2026,No
+MER01175,Entertainment,Delhi,Delhi,1560.69,0.59,11-05-2023,No
+MER01176,Fuel,New York,Rajasthan,283.06,0.23,06-02-2023,No
+MER01177,Healthcare,Houston,Telangana,922.13,0.03,04-11-2021,Yes
+MER01178,Furniture,Melbourne,West Bengal,2421.23,0.06,10-01-2025,No
+MER01179,Fashion,Los Angeles,Manipur,1163.98,0.18,16-05-2022,No
+MER01180,Entertainment,Coimbatore,Tamil Nadu,757.96,0.01,17-07-2021,No
+MER01181,Jewelry,Toronto,Ontario,2013.48,0.79,24-03-2023,Yes
+MER01182,Healthcare,Delhi,Delhi,2796.22,0.7,16-10-2024,No
+MER01183,Jewelry,New York,Rajasthan,687.63,0.66,19-08-2026,No
+MER01184,Fashion,Manchester,England,811.64,0.07,12-05-2023,Yes
+MER01185,Automobile,Phoenix,Andhra Pradesh,2144.94,0.43,22-08-2022,No
+MER01186,Automobile,Hyderabad,Telangana,6817.61,0.64,23-01-2025,No
+MER01187,Entertainment,Chicago,Punjab,581.27,0.28,18-11-2024,Yes
+MER01188,Online Shopping,Pune,Dubai,2224.06,0.28,27-07-2025,Yes
+MER01189,Automobile,Bengaluru,Karnataka,4841.51,0.53,19-07-2026,No
+MER01190,Fuel,Pune,Tamil Nadu,1339.67,0.24,26-12-2025,No
+MER01191,Grocery,Mumbai,Maharashtra,862.06,0.79,03-03-2025,No
+MER01192,Travel,Vancouver,Goa,2298.45,0.3,18-12-2024,No
+MER01193,Fashion,Pune,Tamil Nadu,163.87,0.71,17-11-2024,Yes
+MER01194,Fuel,Tokyo,Nagaland,993.08,0.22,23-06-2022,No
+MER01195,Automobile,Sydney,Odisha,696.74,0.55,11-11-2022,No
+MER01196,Fuel,Pune,Telangana,608.81,0.98,04-10-2021,Yes
+MER01197,Automobile,Pune,Tamil Nadu,496.31,0.07,02-09-2026,Yes
+MER01198,Online Shopping,Kolkata,West Bengal,2771.68,0.96,18-11-2022,No
+MER01199,Electronics,Phoenix,Andhra Pradesh,6306.63,0.42,25-06-2021,No
+MER01200,Automobile,New York,Rajasthan,1071.52,0.2,26-04-2024,No
+MER01201,Insurance,Mumbai,Maharashtra,200.7,0.15,24-04-2024,No
+MER01202,Fashion,Pune,Maharashtra,2638.17,0.69,22-11-2023,No
+MER01203,Travel,Coimbatore,Tamil Nadu,1645.27,0.39,26-02-2021,No
+MER01204,Electronics,Vancouver,Goa,2672.14,0.58,03-01-2021,No
+MER01205,Furniture,Sydney,Odisha,2187.7,0.52,10-02-2025,No
+MER01206,Grocery,Bengaluru,Karnataka,4816.96,0.78,25-10-2025,No
+MER01207,Dining,Hyderabad,Telangana,100.07,0.11,02-02-2024,No
+MER01208,Furniture,Chicago,Punjab,470.64,0.94,09-08-2024,No
+MER01209,Travel,Phoenix,Andhra Pradesh,100.07,0.82,09-01-2024,No
+MER01210,Insurance,New York,Rajasthan,1452.14,0.47,24-09-2025,No
+MER01211,Utilities,London,England,5299.66,0.03,09-06-2023,No
+MER01212,Entertainment,Tokyo,Nagaland,4849.54,0.04,11-04-2022,No
+MER01213,Utilities,Pune,Karnataka,4209.45,0.58,18-08-2024,Yes
+MER01214,Fuel,Manchester,England,603.41,0.83,30-09-2021,No
+MER01215,Healthcare,Coimbatore,Tamil Nadu,2716.27,0.78,17-06-2023,No
+MER01216,Online Shopping,Houston,Telangana,1067.37,0.43,08-12-2024,No
+MER01217,Automobile,Melbourne,West Bengal,5452.61,0.27,10-07-2024,No
+MER01218,Fashion,Los Angeles,Manipur,582.96,0.03,27-06-2026,Yes
+MER01219,Fuel,Chennai,Tamil Nadu,404.57,0.86,20-11-2023,No
+MER01220,Utilities,Pune,Maharashtra,3795.2,0.68,11-09-2024,Yes
+MER01221,Insurance,Pune,Karnataka,100.07,0.63,22-01-2021,No
+MER01222,Grocery,Sydney,Odisha,3545.46,0.25,21-06-2025,No
+MER01223,Furniture,Phoenix,Andhra Pradesh,443.82,0.25,19-12-2025,Yes
+MER01224,Dining,Chennai,Tamil Nadu,4422.04,0.27,29-05-2021,No
+MER01225,Utilities,Sydney,Odisha,2364.05,0.71,12-01-2021,No
+MER01226,Grocery,London,England,2208.58,0.32,27-09-2021,Yes
+MER01227,Fashion,Delhi,Delhi,1847.34,0.03,15-09-2022,No
+MER01228,Insurance,Bengaluru,Karnataka,2995.29,0.8,26-05-2024,Yes
+MER01229,Fuel,Tokyo,Nagaland,1174.37,0.79,26-09-2024,No
+MER01230,Healthcare,Pune,Maharashtra,385.02,0.09,09-06-2025,No
+MER01231,Automobile,Pune,Odisha,1649.86,0.31,25-10-2024,Yes
+MER01232,Electronics,Chicago,Punjab,2857.46,0.33,18-07-2023,Yes
+MER01233,Grocery,Coimbatore,Tamil Nadu,433.64,0.07,16-07-2022,No
+MER01234,Entertainment,Los Angeles,Manipur,100.07,0.99,21-04-2022,No
+MER01235,Insurance,Melbourne,West Bengal,2485.05,0.73,31-12-2021,No
+MER01236,Fuel,Coimbatore,Tamil Nadu,728.47,0.3,17-02-2025,No
+MER01237,Furniture,Houston,Telangana,472.52,0.53,25-07-2022,No
+MER01238,Insurance,Pune,Maharashtra,4503.53,0.05,04-09-2024,No
+MER01239,Dining,Tokyo,Nagaland,450.84,0.61,19-09-2025,Yes
+MER01240,Education,Toronto,Ontario,943.64,0.39,25-03-2025,No
+MER01241,Electronics,Mumbai,Maharashtra,1218.74,0.02,10-10-2022,No
+MER01242,Grocery,Chennai,Tamil Nadu,1393.06,0.11,17-08-2023,No
+MER01243,Education,Pune,England,996.67,0.17,25-01-2021,No
+MER01244,Automobile,Sydney,Odisha,4973.11,0.02,28-06-2024,No
+MER01245,Fashion,Melbourne,West Bengal,2249.55,0.94,19-05-2025,No
+MER01246,Healthcare,Delhi,Delhi,991,0.33,10-05-2023,No
+MER01247,Healthcare,Manchester,England,985.46,0.44,21-02-2022,Yes
+MER01248,Education,Singapore,Singapore,1498.14,0.49,25-09-2021,Yes
+MER01249,Utilities,London,England,168.49,0.74,03-03-2024,No
+MER01250,Online Shopping,Pune,Goa,5324.83,0.64,16-10-2024,Yes
+MER01251,Furniture,Delhi,Delhi,605.43,0.65,22-09-2024,No
+MER01252,Education,Pune,Singapore,2491.96,0.03,09-03-2025,No
+MER01253,Utilities,Vancouver,Goa,3107.66,0.03,04-11-2021,Yes
+MER01254,Jewelry,Pune,Maharashtra,3613.36,0.16,27-04-2022,No
+MER01255,Electronics,Toronto,Ontario,462.19,0.6,05-11-2025,No
+MER01256,Furniture,Chennai,Tamil Nadu,1638.73,0.3,30-10-2023,No
+MER01257,Entertainment,Houston,Telangana,274.77,0.57,21-05-2022,No
+MER01258,Travel,Phoenix,Andhra Pradesh,3367.38,0.08,12-02-2024,Yes
+MER01259,Fuel,New York,Rajasthan,1432.82,0.59,20-09-2022,No
+MER01260,Fuel,Coimbatore,Tamil Nadu,445.11,0.18,19-01-2025,Yes
+MER01261,Jewelry,Chicago,Punjab,2636.52,0.08,21-05-2022,No
+MER01262,Furniture,Los Angeles,Manipur,904.45,0.06,28-11-2023,No
+MER01263,Insurance,Pune,Andhra Pradesh,343.22,0.77,03-01-2026,Yes
+MER01264,Fuel,Pune,Maharashtra,1336.35,0.82,30-01-2026,Yes
+MER01265,Fashion,Mumbai,Maharashtra,636.4,0.03,17-08-2021,No
+MER01266,Electronics,Pune,Dubai,6100.36,0.28,24-05-2025,Yes
+MER01267,Entertainment,Vancouver,Goa,996.83,0.18,18-02-2022,No
+MER01268,Travel,Singapore,Singapore,1799.38,0.37,09-02-2026,No
+MER01269,Jewelry,Phoenix,Andhra Pradesh,6026.96,0.01,20-07-2021,Yes
+MER01270,Grocery,Los Angeles,Manipur,1100.83,0.83,18-11-2023,Yes
+MER01271,Dining,Singapore,Singapore,986.73,0.61,17-05-2022,Yes
+MER01272,Entertainment,Pune,Telangana,454.44,0.63,11-07-2021,No
+MER01273,Furniture,Pune,Maharashtra,100.07,0.91,27-09-2022,No
+MER01274,Travel,Pune,Telangana,3326.34,0.47,17-12-2025,No
+MER01275,Grocery,Houston,Telangana,599.52,0.03,30-04-2022,Yes
+MER01276,Jewelry,Phoenix,Andhra Pradesh,908.95,0.49,10-09-2022,Yes
+MER01277,Insurance,Toronto,Ontario,5028.13,0.86,30-08-2021,No
+MER01278,Online Shopping,Dubai,Dubai,1641.26,0.64,05-05-2021,Yes
+MER01279,Entertainment,Houston,Telangana,1725.37,0.03,18-06-2026,No
+MER01280,Furniture,Pune,England,100.07,0.29,28-10-2022,No
+MER01281,Utilities,Houston,Telangana,2972.35,0.39,16-06-2022,No
+MER01282,Insurance,Houston,Telangana,5703.15,0.8,05-08-2024,No
+MER01283,Fuel,Pune,Karnataka,3341.25,0.3,13-03-2021,No
+MER01284,Electronics,Houston,Telangana,5552.91,0.03,14-04-2024,Yes
+MER01285,Insurance,Tokyo,Nagaland,3536.38,0.3,01-12-2021,No
+MER01286,Grocery,Chicago,Punjab,195.09,0.03,19-06-2025,No
+MER01287,Grocery,Dubai,Dubai,350.07,0.11,23-07-2026,Yes
+MER01288,Jewelry,Pune,Telangana,4423.79,0.81,21-08-2021,Yes
+MER01289,Entertainment,Hyderabad,Telangana,156.17,0.17,15-07-2022,No
+MER01290,Education,London,England,3261.45,0.82,16-05-2023,Yes
+MER01291,Utilities,Mumbai,Maharashtra,3892.16,0.22,14-02-2022,Yes
+MER01292,Electronics,Vancouver,Goa,1173.88,0.19,27-02-2022,No
+MER01293,Entertainment,Mumbai,Maharashtra,976.56,0.03,21-01-2021,Yes
+MER01294,Dining,Kolkata,West Bengal,532.35,0.1,03-09-2021,No
+MER01295,Online Shopping,Chicago,Punjab,200.31,0.27,16-12-2024,No
+MER01296,Utilities,Tokyo,Nagaland,2835.99,0.73,10-06-2024,Yes
+MER01297,Insurance,Delhi,Delhi,253.17,0.26,11-12-2022,Yes
+MER01298,Jewelry,Chennai,Tamil Nadu,100.07,0.21,29-03-2026,Yes
+MER01299,Automobile,Chennai,Tamil Nadu,804.07,0.99,18-12-2024,No
+MER01300,Fuel,Chicago,Punjab,3262.13,0.26,13-10-2022,No
+MER01301,Fashion,Chennai,Tamil Nadu,223.08,0.37,21-08-2025,Yes
+MER01302,Dining,Kolkata,West Bengal,1636.94,0.87,18-07-2024,Yes
+MER01303,Entertainment,Pune,West Bengal,958.8,0.36,26-10-2023,No
+MER01304,Insurance,Pune,Nagaland,160.92,0.73,02-04-2022,Yes
+MER01305,Fuel,Chennai,Tamil Nadu,2233.06,0.77,02-07-2021,Yes
+MER01306,Travel,Singapore,Singapore,5835.13,0.79,16-03-2022,Yes
+MER01307,Fashion,Los Angeles,Manipur,121.62,0.94,06-11-2023,Yes
+MER01308,Grocery,Melbourne,West Bengal,730.62,0.77,04-11-2025,Yes
+MER01309,Dining,Melbourne,West Bengal,2532.13,0.1,19-06-2025,No
+MER01310,Utilities,Pune,Maharashtra,4199.82,0.4,03-06-2024,Yes
+MER01311,Education,Hyderabad,Telangana,523.37,0.03,14-10-2023,Yes
+MER01312,Electronics,Pune,Maharashtra,246.68,0.81,10-04-2022,No
+MER01313,Education,Mumbai,Maharashtra,117.36,0.34,21-08-2024,No
+MER01314,Healthcare,Pune,Maharashtra,584.67,0.44,20-02-2026,No
+MER01315,Jewelry,Singapore,Singapore,247.98,0.48,05-09-2021,No
+MER01316,Furniture,New York,Rajasthan,100.07,0.33,08-06-2026,No
+MER01317,Grocery,Tokyo,Nagaland,1260.09,0.62,27-06-2023,No
+MER01318,Automobile,Chennai,Tamil Nadu,1407.56,0.58,10-07-2026,Yes
+MER01319,Insurance,Pune,Nagaland,407.07,0.03,11-06-2026,No
+MER01320,Jewelry,Los Angeles,Manipur,1347.2,0.58,19-01-2025,No
+MER01321,Travel,Pune,Rajasthan,118.19,0.63,06-02-2022,No
+MER01322,Healthcare,Delhi,Delhi,647.35,0.41,26-04-2021,Yes
+MER01323,Education,Vancouver,Goa,1021.17,0.04,07-05-2022,No
+MER01324,Fuel,Manchester,England,100.07,0.85,13-06-2024,No
+MER01325,Fuel,Hyderabad,Telangana,3464.07,0.34,12-07-2025,No
+MER01326,Fuel,London,England,549.32,0.99,09-01-2023,No
+MER01327,Insurance,Chicago,Punjab,2912.09,0.56,13-06-2025,Yes
+MER01328,Electronics,Melbourne,West Bengal,1384.5,0.03,14-09-2023,Yes
+MER01329,Entertainment,Chicago,Punjab,1406.87,0.05,21-01-2021,Yes
+MER01330,Entertainment,Coimbatore,Tamil Nadu,2172.37,0.99,20-02-2024,Yes
+MER01331,Travel,Singapore,Singapore,190.58,0.81,28-09-2025,Yes
+MER01332,Fashion,Singapore,Singapore,264.07,0.2,03-12-2025,No
+MER01333,Automobile,Pune,West Bengal,891.55,0.02,17-09-2025,No
+MER01334,Grocery,New York,Rajasthan,1178.53,0.96,28-06-2021,Yes
+MER01335,Jewelry,Dubai,Dubai,100.07,0.33,13-12-2021,No
+MER01336,Jewelry,Hyderabad,Telangana,2359.51,0.03,21-08-2024,No
+MER01337,Grocery,Chicago,Punjab,101.41,0.82,08-11-2023,No
+MER01338,Dining,Mumbai,Maharashtra,6493.5,0.37,12-07-2021,No
+MER01339,Grocery,Dubai,Dubai,483.5,0.8,23-04-2024,No
+MER01340,Travel,New York,Rajasthan,671.72,0.6,30-03-2021,No
+MER01341,Grocery,Tokyo,Nagaland,4821,0.03,14-05-2025,No
+MER01342,Electronics,Coimbatore,Tamil Nadu,111.01,0.22,24-07-2026,No
+MER01343,Fuel,London,England,9590.26,0.08,24-11-2021,Yes
+MER01344,Fashion,Tokyo,Nagaland,173.24,0.52,09-08-2023,Yes
+MER01345,Jewelry,Vancouver,Goa,356.91,0.64,03-01-2026,Yes
+MER01346,Fashion,Vancouver,Goa,649.15,0.44,29-05-2025,No
+MER01347,Utilities,Pune,Goa,1255.08,0.99,24-05-2024,No
+MER01348,Utilities,Coimbatore,Tamil Nadu,1561.5,0.39,05-03-2025,No
+MER01349,Entertainment,Pune,Maharashtra,321.23,0.78,13-04-2024,Yes
+MER01350,Grocery,Kolkata,West Bengal,253.06,0.18,19-05-2022,No
+MER01351,Entertainment,Pune,Odisha,164.76,0.23,21-03-2022,No
+MER01352,Entertainment,London,England,693.45,0.11,02-07-2021,Yes
+MER01353,Fashion,Pune,Maharashtra,5190.15,0.03,15-09-2024,Yes
+MER01354,Online Shopping,Phoenix,Andhra Pradesh,1088.08,0.9,19-09-2022,Yes
+MER01355,Jewelry,Manchester,England,2987.91,0.03,17-03-2024,Yes
+MER01356,Utilities,Pune,Punjab,521.91,0.71,11-10-2025,No
+MER01357,Grocery,Tokyo,Nagaland,233.73,0.03,02-10-2021,No
+MER01358,Fuel,Mumbai,Maharashtra,1716.13,0.14,31-08-2023,No
+MER01359,Furniture,Pune,Maharashtra,3552.98,0.51,15-12-2023,Yes
+MER01360,Fashion,Delhi,Delhi,4674.6,0.74,09-12-2021,Yes
+MER01361,Entertainment,Hyderabad,Telangana,1680.22,0.63,18-06-2023,No
+MER01362,Grocery,Hyderabad,Telangana,796.37,0.29,09-08-2024,Yes
+MER01363,Furniture,Toronto,Ontario,331.97,0.76,25-04-2021,No
+MER01364,Utilities,Toronto,Ontario,100.07,0,17-02-2022,No
+MER01365,Online Shopping,Pune,Delhi,758.22,0.25,20-01-2022,No
+MER01366,Dining,Toronto,Ontario,100.07,0.35,19-08-2025,Yes
+MER01367,Electronics,Chicago,Punjab,1958.35,0.45,17-07-2024,Yes
+MER01368,Automobile,Singapore,Singapore,4016.27,0.4,22-07-2026,Yes
+MER01369,Furniture,London,England,1772.43,0.68,02-03-2024,Yes
+MER01370,Insurance,Hyderabad,Telangana,100.07,0.38,14-08-2026,No
+MER01371,Travel,London,England,797.14,0.03,05-01-2024,No
+MER01372,Automobile,Pune,Maharashtra,1498.57,0.74,22-01-2023,No
+MER01373,Education,Vancouver,Goa,139.19,0.03,25-12-2023,Yes
+MER01374,Utilities,Tokyo,Nagaland,1972.13,0.66,07-03-2021,Yes
+MER01375,Electronics,Delhi,Delhi,100.07,0.03,14-04-2022,Yes
+MER01376,Insurance,Bengaluru,Karnataka,2915.3,0.03,26-05-2025,Yes
+MER01377,Electronics,Sydney,Odisha,2710.95,0.89,23-04-2023,Yes
+MER01378,Electronics,Dubai,Dubai,2075.66,0.69,02-10-2024,No
+MER01379,Jewelry,Vancouver,Goa,216.71,0.43,29-01-2025,No
+MER01380,Insurance,London,England,4766.29,0.48,06-07-2024,No
+MER01381,Grocery,Toronto,Ontario,136.37,0.98,25-08-2024,No
+MER01382,Online Shopping,Manchester,England,3351.82,0.87,08-07-2026,Yes
+MER01383,Healthcare,Manchester,England,1405.34,0.22,14-09-2022,Yes
+MER01384,Healthcare,Chicago,Punjab,3507.43,0.59,21-01-2024,No
+MER01385,Jewelry,Chicago,Punjab,1351.24,0.5,26-03-2024,Yes
+MER01386,Healthcare,Dubai,Dubai,2182.22,0.92,07-05-2022,Yes
+MER01387,Healthcare,Mumbai,Maharashtra,1002.81,0.49,05-06-2025,No
+MER01388,Jewelry,Delhi,Delhi,100.07,0.02,04-03-2025,Yes
+MER01389,Entertainment,Coimbatore,Tamil Nadu,686.53,0.16,31-01-2025,No
+MER01390,Automobile,Houston,Telangana,2641.34,0.02,01-11-2023,No
+MER01391,Online Shopping,Vancouver,Goa,529.81,0.06,30-04-2021,Yes
+MER01392,Insurance,New York,Rajasthan,2661.48,0.19,28-04-2023,Yes
+MER01393,Fashion,Dubai,Dubai,795.35,0.03,01-04-2023,No
+MER01394,Automobile,Chicago,Punjab,753.21,0.93,19-01-2023,No
+MER01395,Education,Melbourne,West Bengal,3437.25,0.99,10-03-2021,No
+MER01396,Education,Chennai,Tamil Nadu,3460.71,0.93,24-05-2022,Yes
+MER01397,Dining,Dubai,Dubai,2451.43,0.59,07-05-2023,No
+MER01398,Entertainment,Mumbai,Maharashtra,5251.64,0.06,26-12-2023,Yes
+MER01399,Electronics,Houston,Telangana,439.66,0.82,02-01-2026,No
+MER01400,Travel,Vancouver,Goa,727.56,0.37,15-04-2025,No
+MER01401,Jewelry,Melbourne,West Bengal,796.32,0.39,18-02-2022,No
+MER01402,Dining,London,England,828.51,0.85,20-01-2021,No
+MER01403,Travel,Chennai,Tamil Nadu,895.09,0.63,05-11-2025,No
+MER01404,Healthcare,New York,Rajasthan,2488.11,0.65,04-10-2026,No
+MER01405,Furniture,Pune,Karnataka,731.5,0.4,17-02-2022,Yes
+MER01406,Jewelry,Coimbatore,Tamil Nadu,100.07,0.18,26-08-2025,No
+MER01407,Utilities,Pune,Maharashtra,1789.87,0.78,30-03-2025,Yes
+MER01408,Dining,Melbourne,West Bengal,529.75,0.5,10-05-2021,No
+MER01409,Insurance,London,England,1007.91,0.09,31-01-2022,No
+MER01410,Travel,Singapore,Singapore,219.37,0.03,20-02-2023,Yes
+MER01411,Healthcare,Sydney,Odisha,6196.04,0.22,08-04-2022,No
+MER01412,Healthcare,Vancouver,Goa,863.42,0.19,14-08-2022,No
+MER01413,Dining,Coimbatore,Tamil Nadu,3894.8,0.03,26-08-2024,No
+MER01414,Fashion,New York,Rajasthan,1609.81,0.39,16-07-2021,Yes
+MER01415,Fashion,Mumbai,Maharashtra,618.09,0.77,20-08-2021,Yes
+MER01416,Dining,Hyderabad,Telangana,529.92,0.03,04-11-2024,Yes
+MER01417,Jewelry,Coimbatore,Tamil Nadu,2474.63,0.43,08-01-2021,No
+MER01418,Entertainment,Coimbatore,Tamil Nadu,6797.33,0.68,29-04-2025,Yes
+MER01419,Dining,Bengaluru,Karnataka,504.4,0.3,13-09-2022,No
+MER01420,Furniture,Toronto,Ontario,345.29,0.57,12-10-2021,Yes
+MER01421,Education,Kolkata,West Bengal,1079.1,0.65,17-02-2026,Yes
+MER01422,Healthcare,Sydney,Odisha,1101.13,0.83,30-04-2022,No
+MER01423,Fashion,Singapore,Singapore,3382.4,0.55,17-07-2025,Yes
+MER01424,Electronics,Houston,Telangana,1365.57,0.2,19-04-2025,Yes
+MER01425,Fuel,Chennai,Tamil Nadu,228.99,0.87,24-08-2023,No
+MER01426,Electronics,Pune,Maharashtra,5168.22,0.03,21-01-2023,No
+MER01427,Fashion,Los Angeles,Manipur,1034.22,0.89,08-03-2024,Yes
+MER01428,Dining,Pune,Tamil Nadu,2308.45,0.92,18-04-2022,No
+MER01429,Furniture,Pune,Nagaland,2302.16,0.72,02-02-2023,No
+MER01430,Insurance,Vancouver,Goa,215.98,0.09,08-06-2022,Yes
+MER01431,Education,Pune,Maharashtra,107.22,0.01,08-05-2025,No
+MER01432,Fuel,Coimbatore,Tamil Nadu,284.31,0.41,09-06-2024,Yes
+MER01433,Jewelry,Delhi,Delhi,6371.42,0.95,25-04-2026,Yes
+MER01434,Travel,Pune,Singapore,3259.69,0.46,08-10-2022,No
+MER01435,Furniture,Delhi,Delhi,383.16,0.74,13-09-2021,No
+MER01436,Fuel,Hyderabad,Telangana,2008.35,0.94,08-02-2025,No
+MER01437,Fashion,Los Angeles,Manipur,1993.36,0.13,28-07-2021,Yes
+MER01438,Healthcare,Manchester,England,101.12,0.12,03-07-2021,Yes
+MER01439,Entertainment,Melbourne,West Bengal,1220.96,0.58,16-02-2023,No
+MER01440,Grocery,Mumbai,Maharashtra,2588.03,0.05,27-01-2026,No
+MER01441,Healthcare,Chicago,Punjab,513.54,0.67,15-08-2024,No
+MER01442,Furniture,New York,Rajasthan,3906.33,0.03,04-12-2025,No
+MER01443,Insurance,Pune,Maharashtra,2259.41,0.78,30-11-2022,No
+MER01444,Utilities,Phoenix,Andhra Pradesh,113.9,0.49,17-12-2025,No
+MER01445,Online Shopping,Houston,Telangana,3960.86,0.26,23-04-2024,Yes
+MER01446,Entertainment,Pune,Rajasthan,139.18,0.68,04-12-2025,No
+MER01447,Fashion,Pune,Nagaland,4477.24,0.16,02-01-2024,No
+MER01448,Fashion,Singapore,Singapore,912.09,0.14,11-09-2022,No
+MER01449,Entertainment,New York,Rajasthan,2498.97,0.93,15-11-2021,No
+MER01450,Education,Pune,Maharashtra,3196.98,0.6,28-10-2023,No
+MER01451,Travel,Toronto,Ontario,760.54,0.49,17-09-2021,No
+MER01452,Utilities,Chicago,Punjab,981.47,0.91,19-06-2023,No
+MER01453,Entertainment,Phoenix,Andhra Pradesh,1524.83,0.85,03-11-2025,Yes
+MER01454,Electronics,Dubai,Dubai,1847.86,0.4,03-08-2024,Yes
+MER01455,Entertainment,Chennai,Tamil Nadu,790.74,0.03,01-03-2021,Yes
+MER01456,Travel,Delhi,Delhi,100.07,0.77,06-05-2022,No
+MER01457,Electronics,Singapore,Singapore,2771.24,0.03,22-02-2023,Yes
+MER01458,Insurance,London,England,740.83,1,15-02-2025,No
+MER01459,Entertainment,Toronto,Ontario,2145.71,0.6,20-08-2021,Yes
+MER01460,Fashion,Houston,Telangana,1243.17,0.41,02-05-2023,No
+MER01461,Grocery,Chennai,Tamil Nadu,4036.93,0.11,29-05-2021,Yes
+MER01462,Utilities,London,England,897.82,0.48,02-05-2022,Yes
+MER01463,Entertainment,Chicago,Punjab,516.15,0.03,30-04-2024,No
+MER01464,Healthcare,Sydney,Odisha,194.47,0.18,29-05-2024,Yes
+MER01465,Fashion,Phoenix,Andhra Pradesh,8409.37,0.6,09-12-2021,No
+MER01466,Grocery,Houston,Telangana,990.14,0.55,19-10-2021,No
+MER01467,Fashion,Dubai,Dubai,598.25,0.66,02-12-2025,No
+MER01468,Fashion,Hyderabad,Telangana,1453.64,0.03,21-05-2023,No
+MER01469,Electronics,Kolkata,West Bengal,789.6,0.12,05-05-2022,No
+MER01470,Fashion,Kolkata,West Bengal,630.28,0.61,28-05-2023,No
+MER01471,Fuel,London,England,2016.23,0.38,27-03-2023,No
+MER01472,Fashion,Sydney,Odisha,255.6,0.36,29-03-2023,No
+MER01473,Jewelry,Sydney,Odisha,1522.59,0.8,23-07-2024,No
+MER01474,Education,Vancouver,Goa,1080.19,0.42,01-03-2024,Yes
+MER01475,Automobile,Tokyo,Nagaland,1620.84,0.81,07-06-2025,Yes
+MER01476,Fashion,Chennai,Tamil Nadu,872.62,0.11,25-01-2022,Yes
+MER01477,Furniture,Coimbatore,Tamil Nadu,100.07,0.65,25-02-2025,Yes
+MER01478,Fashion,Chicago,Punjab,270.72,0.64,18-05-2021,No
+MER01479,Online Shopping,Phoenix,Andhra Pradesh,1043.72,0.31,28-12-2022,Yes
+MER01480,Entertainment,Chennai,Tamil Nadu,642.3,0.57,13-10-2025,No
+MER01481,Furniture,Singapore,Singapore,1252.83,0.5,20-02-2023,Yes
+MER01482,Fashion,Mumbai,Maharashtra,1116.11,0.45,23-12-2024,Yes
+MER01483,Fashion,Chicago,Punjab,2094.91,0.87,05-04-2023,No
+MER01484,Online Shopping,Pune,Telangana,2081.8,0.03,17-12-2021,No
+MER01485,Fashion,Kolkata,West Bengal,1166.7,0.11,16-05-2022,Yes
+MER01486,Insurance,Houston,Telangana,500.86,0.03,03-12-2021,No
+MER01487,Furniture,Chicago,Punjab,1844.13,0.92,18-06-2026,No
+MER01488,Healthcare,Bengaluru,Karnataka,6893.34,0.03,19-07-2021,No
+MER01489,Grocery,Pune,Maharashtra,510.22,0.9,02-10-2023,No
+MER01490,Jewelry,Kolkata,West Bengal,243.12,0.22,20-05-2024,No
+MER01491,Entertainment,Mumbai,Maharashtra,714.58,0.52,09-09-2023,No
+MER01492,Entertainment,Toronto,Ontario,1165.19,0.36,20-06-2025,Yes
+MER01493,Online Shopping,Bengaluru,Karnataka,831.11,0.08,26-05-2025,No
+MER01494,Insurance,Singapore,Singapore,3700.1,0.03,20-03-2026,No
+MER01495,Education,Los Angeles,Manipur,1458.6,0.12,25-07-2022,Yes
+MER01496,Grocery,Tokyo,Nagaland,665.07,0.89,06-02-2023,Yes
+MER01497,Fuel,Kolkata,West Bengal,6099.44,0.38,22-03-2021,No
+MER01498,Dining,Vancouver,Goa,367.21,0.03,15-05-2025,No
+MER01499,Education,Toronto,Ontario,362.29,0.92,17-12-2025,No
+MER01500,Furniture,Phoenix,Andhra Pradesh,662.83,0.03,13-05-2025,No
+MER01501,Fashion,Coimbatore,Tamil Nadu,259.76,0.57,21-01-2024,Yes
+MER01502,Fuel,Chennai,Tamil Nadu,2885.85,0.74,09-10-2021,No
+MER01503,Jewelry,Sydney,Odisha,850.29,0.6,11-08-2024,Yes
+MER01504,Jewelry,Sydney,Odisha,2717.47,0.16,14-02-2022,Yes
+MER01505,Entertainment,London,England,100.07,0.03,07-04-2025,Yes
+MER01506,Jewelry,Coimbatore,Tamil Nadu,642.35,0.26,01-11-2021,No
+MER01507,Insurance,Vancouver,Goa,1561.13,0.45,25-12-2022,No
+MER01508,Insurance,Melbourne,West Bengal,1566.24,0.03,08-03-2026,No
+MER01509,Entertainment,Pune,Maharashtra,4201.54,0.45,18-01-2024,No
+MER01510,Entertainment,Sydney,Odisha,151.93,0,10-10-2021,Yes
+MER01511,Furniture,Houston,Telangana,861.94,0.9,18-11-2024,No
+MER01512,Furniture,Phoenix,Andhra Pradesh,4382.45,0.33,16-02-2025,No
+MER01513,Furniture,London,England,640.48,0.75,17-11-2021,No
+MER01514,Fuel,Phoenix,Andhra Pradesh,394.4,0.6,25-03-2021,Yes
+MER01515,Furniture,Hyderabad,Telangana,1816.7,0.4,10-06-2021,No
+MER01516,Fashion,Tokyo,Nagaland,830.21,0.69,28-02-2024,No
+MER01517,Grocery,Pune,Manipur,1359.57,0.62,03-12-2024,Yes
+MER01518,Online Shopping,Hyderabad,Telangana,3529.74,0.28,24-02-2024,No
+MER01519,Travel,London,England,1570.84,0.78,25-02-2026,Yes
+MER01520,Utilities,Pune,Maharashtra,1550.89,0.63,04-11-2022,Yes
+MER01521,Travel,Chicago,Punjab,751.97,0.71,11-02-2021,Yes
+MER01522,Electronics,Hyderabad,Telangana,3248.77,0.57,31-12-2024,No
+MER01523,Furniture,Pune,Tamil Nadu,2792.72,0.89,02-05-2021,Yes
+MER01524,Grocery,Singapore,Singapore,633.46,0.39,02-06-2024,No
+MER01525,Insurance,Kolkata,West Bengal,871.34,0.01,29-09-2023,No
+MER01526,Travel,Coimbatore,Tamil Nadu,3208.27,0.49,06-05-2021,No
+MER01527,Fuel,Toronto,Ontario,985.46,0.06,17-12-2025,Yes
+MER01528,Fuel,Tokyo,Nagaland,1133.55,0.2,16-10-2023,No
+MER01529,Fashion,Los Angeles,Manipur,1006.41,0.24,26-03-2026,No
+MER01530,Fashion,Coimbatore,Tamil Nadu,452.6,0.75,27-04-2021,No
+MER01531,Education,Melbourne,West Bengal,933.75,0.66,26-09-2024,Yes
+MER01532,Electronics,Tokyo,Nagaland,3348.45,0.12,22-12-2025,No
+MER01533,Online Shopping,Los Angeles,Manipur,1450.91,0.69,08-05-2022,Yes
+MER01534,Utilities,Hyderabad,Telangana,1325.78,0.03,21-10-2023,Yes
+MER01535,Entertainment,Dubai,Dubai,440.04,0.23,27-10-2024,No
+MER01536,Automobile,Toronto,Ontario,490.98,0.03,23-10-2021,Yes
+MER01537,Entertainment,Vancouver,Goa,187.8,0.28,22-05-2022,No
+MER01538,Fuel,Manchester,England,128.11,0.76,09-02-2025,No
+MER01539,Electronics,Manchester,England,1438.92,0.86,08-04-2025,Yes
+MER01540,Fashion,Dubai,Dubai,1152.66,0.74,19-02-2023,No
+MER01541,Entertainment,Hyderabad,Telangana,744.21,0.26,13-04-2024,Yes
+MER01542,Healthcare,Toronto,Ontario,9319.67,0.71,23-05-2022,No
+MER01543,Travel,Mumbai,Maharashtra,1114.98,0.04,20-10-2024,No
+MER01544,Entertainment,Hyderabad,Telangana,3210.34,0.77,29-06-2023,Yes
+MER01545,Electronics,Pune,Tamil Nadu,572.83,0.31,14-08-2023,No
+MER01546,Education,Coimbatore,Tamil Nadu,667.49,0.29,29-03-2025,No
+MER01547,Entertainment,Tokyo,Nagaland,1780.47,0.03,21-01-2024,Yes
+MER01548,Online Shopping,Sydney,Odisha,108.07,0.29,09-04-2021,No
+MER01549,Travel,Singapore,Singapore,135.16,0.47,18-09-2024,Yes
+MER01550,Education,Pune,Tamil Nadu,406.81,0.33,20-06-2024,No
+MER01551,Travel,Mumbai,Maharashtra,604.94,0.15,29-08-2022,No
+MER01552,Fashion,Singapore,Singapore,1600.92,0.33,28-10-2023,No
+MER01553,Healthcare,Melbourne,West Bengal,2418.19,0.94,12-08-2022,No
+MER01554,Utilities,Coimbatore,Tamil Nadu,847.58,0.03,09-01-2025,No
+MER01555,Entertainment,Pune,Ontario,646.43,0.08,23-10-2024,No
+MER01556,Fashion,New York,Rajasthan,3561.08,0.81,25-07-2021,No
+MER01557,Fashion,Bengaluru,Karnataka,455.33,0.25,02-03-2024,No
+MER01558,Fuel,Manchester,England,2368.44,0.8,24-02-2022,Yes
+MER01559,Fashion,Singapore,Singapore,5456.9,0.87,09-09-2025,Yes
+MER01560,Automobile,Pune,Andhra Pradesh,628.48,0.1,30-03-2021,No
+MER01561,Dining,Vancouver,Goa,281.96,0.19,27-11-2021,Yes
+MER01562,Entertainment,Hyderabad,Telangana,7900.08,0.3,20-09-2023,No
+MER01563,Grocery,Delhi,Delhi,731.54,0.5,28-10-2022,Yes
+MER01564,Entertainment,Chicago,Punjab,745,0.36,29-11-2021,No
+MER01565,Dining,Delhi,Delhi,1422.41,0.09,05-05-2022,No
+MER01566,Electronics,New York,Rajasthan,625.48,0.17,17-03-2026,Yes
+MER01567,Automobile,Melbourne,West Bengal,9987.55,0.21,06-06-2021,No
+MER01568,Fashion,Hyderabad,Telangana,187.83,0.99,05-07-2023,Yes
+MER01569,Dining,Sydney,Odisha,1301.04,0.18,28-11-2024,No
+MER01570,Furniture,London,England,1689.68,0.09,11-09-2022,Yes
+MER01571,Furniture,Dubai,Dubai,1358.28,0.82,08-10-2025,No
+MER01572,Fashion,Pune,Maharashtra,1570.12,0.11,17-11-2024,No
+MER01573,Fashion,London,England,8876.76,0.62,23-12-2022,Yes
+MER01574,Education,Manchester,England,4289.54,0.25,04-02-2026,No
+MER01575,Jewelry,Coimbatore,Tamil Nadu,837.62,0.63,01-03-2023,No
+MER01576,Healthcare,Los Angeles,Manipur,1703.59,0.07,20-10-2023,Yes
+MER01577,Automobile,Hyderabad,Telangana,100.62,0.17,01-02-2021,No
+MER01578,Jewelry,Delhi,Delhi,1153.81,0.57,11-11-2021,No
+MER01579,Entertainment,Singapore,Singapore,457.95,0.98,30-11-2022,No
+MER01580,Online Shopping,Dubai,Dubai,2585.15,0.09,20-10-2022,No
+MER01581,Dining,Bengaluru,Karnataka,599.72,0.97,20-03-2024,No
+MER01582,Jewelry,London,England,2863.77,0.02,03-10-2021,Yes
+MER01583,Electronics,Pune,Maharashtra,851.31,0.03,11-04-2021,No
+MER01584,Furniture,Kolkata,West Bengal,5302.75,0.11,30-07-2024,No
+MER01585,Dining,Phoenix,Andhra Pradesh,1279.08,0.92,02-05-2022,No
+MER01586,Jewelry,Coimbatore,Tamil Nadu,3759.14,0.03,04-05-2024,Yes
+MER01587,Jewelry,Vancouver,Goa,2078.62,0.05,08-02-2022,No
+MER01588,Online Shopping,Dubai,Dubai,7679.45,0.59,07-11-2026,No
+MER01589,Insurance,Chennai,Tamil Nadu,2815.2,0.4,16-04-2021,No
+MER01590,Education,Vancouver,Goa,2701.73,0.48,12-07-2022,Yes
+MER01591,Insurance,Mumbai,Maharashtra,715.4,0.07,15-08-2025,Yes
+MER01592,Electronics,Dubai,Dubai,1505.83,0.03,12-05-2023,No
+MER01593,Healthcare,Mumbai,Maharashtra,785.3,0.22,20-10-2022,Yes
+MER01594,Travel,Mumbai,Maharashtra,138.96,0.38,13-06-2026,No
+MER01595,Travel,Tokyo,Nagaland,2579.79,0.56,20-03-2023,No
+MER01596,Dining,Toronto,Ontario,637.95,0.82,11-07-2024,No
+MER01597,Entertainment,Chicago,Punjab,1112.75,0.03,15-12-2023,Yes
+MER01598,Furniture,Coimbatore,Tamil Nadu,769.94,0.34,21-01-2026,Yes
+MER01599,Healthcare,Mumbai,Maharashtra,545.38,0.7,28-07-2021,Yes
+MER01600,Education,Tokyo,Nagaland,238.96,0.79,15-05-2021,No
+MER01601,Entertainment,Toronto,Ontario,924.65,0.43,17-04-2026,Yes
+MER01602,Automobile,Houston,Telangana,270.56,0.03,15-08-2026,Yes
+MER01603,Travel,Houston,Telangana,1654.45,0.72,21-04-2023,No
+MER01604,Education,Tokyo,Nagaland,139.64,0.22,14-09-2022,Yes
+MER01605,Furniture,Sydney,Odisha,5727.48,0.76,13-03-2024,Yes
+MER01606,Fuel,Houston,Telangana,6890.93,0.48,26-05-2025,No
+MER01607,Automobile,Hyderabad,Telangana,826.69,0.74,29-06-2024,Yes
+MER01608,Fashion,Tokyo,Nagaland,702.74,0.76,23-09-2021,Yes
+MER01609,Insurance,Kolkata,West Bengal,320.53,0.98,21-06-2026,No
+MER01610,Entertainment,Hyderabad,Telangana,4806.05,0.55,27-03-2022,Yes
+MER01611,Jewelry,Chennai,Tamil Nadu,1867.96,0.93,25-04-2022,No
+MER01612,Utilities,Vancouver,Goa,1983.86,0.97,18-03-2026,Yes
+MER01613,Dining,Pune,England,4623.97,0.77,03-09-2023,No
+MER01614,Automobile,New York,Rajasthan,4933.45,0.23,18-03-2021,Yes
+MER01615,Education,Sydney,Odisha,3624.5,0.93,05-01-2021,No
+MER01616,Automobile,Bengaluru,Karnataka,3069.5,0.67,10-03-2021,No
+MER01617,Furniture,London,England,4295.07,0.91,29-06-2024,Yes
+MER01618,Fashion,Manchester,England,4274.47,0.17,13-05-2026,No
+MER01619,Grocery,Dubai,Dubai,1019.77,0.18,18-03-2021,No
+MER01620,Furniture,Tokyo,Nagaland,7353.03,0.72,12-06-2023,Yes
+MER01621,Utilities,Sydney,Odisha,2569.77,0.5,17-08-2023,No
+MER01622,Automobile,Phoenix,Andhra Pradesh,1024.74,0.9,23-02-2025,Yes
+MER01623,Insurance,Hyderabad,Telangana,100.07,0.33,26-10-2025,No
+MER01624,Utilities,Vancouver,Goa,100.07,0.57,27-08-2025,No
+MER01625,Healthcare,Chicago,Punjab,996.01,0.53,07-09-2021,No
+MER01626,Dining,Houston,Telangana,3603.82,0.34,12-02-2022,Yes
+MER01627,Online Shopping,Melbourne,West Bengal,420.49,0.74,12-04-2023,Yes
+MER01628,Grocery,Tokyo,Nagaland,100.07,0.79,21-05-2025,Yes
+MER01629,Dining,Melbourne,West Bengal,816.77,0.29,21-01-2025,No
+MER01630,Grocery,Melbourne,West Bengal,431.43,0.97,06-06-2021,No
+MER01631,Healthcare,Coimbatore,Tamil Nadu,4004.2,0.49,26-03-2026,Yes
+MER01632,Grocery,Hyderabad,Telangana,647.46,0.09,09-08-2022,No
+MER01633,Utilities,Toronto,Ontario,3808.07,0.41,26-02-2023,Yes
+MER01634,Utilities,Chicago,Punjab,100.07,0.67,07-02-2021,No
+MER01635,Fuel,Manchester,England,5532.09,0.9,18-05-2026,No
+MER01636,Grocery,New York,Rajasthan,594.56,0.96,05-10-2022,No
+MER01637,Grocery,Chennai,Tamil Nadu,244.39,0.98,22-11-2021,Yes
+MER01638,Healthcare,Tokyo,Nagaland,5614.41,0.53,07-05-2024,No
+MER01639,Healthcare,Delhi,Delhi,462.15,0.34,13-07-2025,Yes
+MER01640,Automobile,Chennai,Tamil Nadu,5869.55,0.26,25-05-2025,No
+MER01641,Furniture,Pune,Maharashtra,3574.29,0.03,30-06-2025,No
+MER01642,Online Shopping,Coimbatore,Tamil Nadu,270.95,0.93,05-07-2022,Yes
+MER01643,Utilities,Dubai,Dubai,1278.06,0.78,04-11-2023,Yes
+MER01644,Electronics,Singapore,Singapore,252.47,0.6,12-06-2022,No
+MER01645,Entertainment,Hyderabad,Telangana,900.32,0.2,04-02-2024,No
+MER01646,Entertainment,Chennai,Tamil Nadu,966.2,0.21,18-02-2026,No
+MER01647,Grocery,Vancouver,Goa,1930.75,0.1,30-01-2024,No
+MER01648,Fashion,Bengaluru,Karnataka,7550.72,0.65,06-10-2026,No
+MER01649,Fashion,Los Angeles,Manipur,472.09,0.26,24-09-2023,No
+MER01650,Grocery,Bengaluru,Karnataka,898.42,0.41,22-07-2022,No
+MER01651,Healthcare,Coimbatore,Tamil Nadu,1869.11,0.58,07-12-2024,No
+MER01652,Entertainment,Tokyo,Nagaland,476.09,0.03,06-06-2021,No
+MER01653,Grocery,Singapore,Singapore,2580.65,0.26,20-05-2022,No
+MER01654,Fashion,Delhi,Delhi,1133.89,0.76,03-02-2026,No
+MER01655,Fuel,Hyderabad,Telangana,6074.43,0.79,24-05-2024,No
+MER01656,Insurance,Pune,England,2087.81,0.62,05-06-2022,Yes
+MER01657,Fashion,Chennai,Tamil Nadu,1002.22,0.55,26-06-2025,Yes
+MER01658,Jewelry,Manchester,England,100.07,0.32,25-06-2026,Yes
+MER01659,Fashion,Toronto,Ontario,3749.66,0.55,03-11-2024,No
+MER01660,Fashion,London,England,3323.68,0.53,21-08-2023,Yes
+MER01661,Fashion,Chennai,Tamil Nadu,709.7,0.64,04-08-2022,Yes
+MER01662,Jewelry,Phoenix,Andhra Pradesh,1179.08,0.17,22-03-2021,No
+MER01663,Entertainment,Tokyo,Nagaland,1303.61,0.32,30-06-2021,Yes
+MER01664,Jewelry,Dubai,Dubai,1083.3,0.29,14-10-2025,No
+MER01665,Furniture,Coimbatore,Tamil Nadu,844.63,0.8,02-05-2021,Yes
+MER01666,Education,Hyderabad,Telangana,2894.69,0.84,29-08-2021,No
+MER01667,Jewelry,Pune,Maharashtra,124.6,0.95,05-11-2021,No
+MER01668,Education,Phoenix,Andhra Pradesh,100.07,0.1,26-08-2025,No
+MER01669,Grocery,Tokyo,Nagaland,100.07,0.43,28-06-2024,No
+MER01670,Online Shopping,Los Angeles,Manipur,375.7,0.2,08-04-2023,No
+MER01671,Online Shopping,Phoenix,Andhra Pradesh,100.07,0.13,20-03-2026,No
+MER01672,Healthcare,Los Angeles,Manipur,2972.26,0.64,25-06-2021,Yes
+MER01673,Online Shopping,Mumbai,Maharashtra,7074.94,0.03,13-01-2021,Yes
+MER01674,Healthcare,Mumbai,Maharashtra,1545.64,0.7,10-02-2022,No
+MER01675,Furniture,Pune,Maharashtra,927.92,0.03,28-12-2023,No
+MER01676,Entertainment,Houston,Telangana,3634.18,0.15,05-07-2023,Yes
+MER01677,Online Shopping,Singapore,Singapore,238.92,0.56,12-08-2026,Yes
+MER01678,Grocery,Melbourne,West Bengal,295.6,0.29,02-01-2021,No
+MER01679,Healthcare,Delhi,Delhi,947.36,0.52,28-09-2021,No
+MER01680,Fashion,Melbourne,West Bengal,1289.9,0.66,08-04-2026,No
+MER01681,Fuel,Bengaluru,Karnataka,3297.37,0.75,27-09-2024,No
+MER01682,Fashion,Tokyo,Nagaland,5287.59,0.9,06-11-2024,No
+MER01683,Grocery,Los Angeles,Manipur,1615.48,0.74,14-02-2026,No
+MER01684,Furniture,Toronto,Ontario,1468.95,0.94,17-10-2024,No
+MER01685,Electronics,Vancouver,Goa,579.08,0.46,21-04-2025,No
+MER01686,Online Shopping,Sydney,Odisha,1299.98,0.13,10-06-2025,No
+MER01687,Jewelry,Coimbatore,Tamil Nadu,5244.7,0.57,14-01-2023,No
+MER01688,Fashion,Delhi,Delhi,1098.12,0.74,20-03-2024,No
+MER01689,Entertainment,Pune,Maharashtra,573.17,0.03,11-10-2024,Yes
+MER01690,Online Shopping,Hyderabad,Telangana,922.85,0.03,28-06-2023,No
+MER01691,Automobile,Coimbatore,Tamil Nadu,1545.54,0.47,17-10-2023,Yes
+MER01692,Fashion,Chennai,Tamil Nadu,1925.52,0.45,21-11-2022,No
+MER01693,Utilities,Phoenix,Andhra Pradesh,1232.78,0.99,20-04-2022,Yes
+MER01694,Dining,Phoenix,Andhra Pradesh,2942.07,0.84,01-01-2024,Yes
+MER01695,Electronics,Delhi,Delhi,1856.32,0.86,26-08-2023,Yes
+MER01696,Utilities,London,England,2287.54,0.3,16-12-2022,Yes
+MER01697,Fashion,Tokyo,Nagaland,4074.37,0.49,31-08-2022,Yes
+MER01698,Utilities,Dubai,Dubai,4115.19,0.66,07-09-2022,Yes
+MER01699,Healthcare,Dubai,Dubai,555.08,0.92,19-07-2022,No
+MER01700,Electronics,Toronto,Ontario,2052.85,0.74,19-01-2026,No
+MER01701,Online Shopping,Hyderabad,Telangana,2622.08,0.64,26-02-2024,No
+MER01702,Entertainment,Toronto,Ontario,415.3,0.47,26-08-2022,No
+MER01703,Automobile,Chicago,Punjab,3800.09,0.2,11-07-2026,No
+MER01704,Electronics,Sydney,Odisha,498.05,0.96,20-08-2025,Yes
+MER01705,Healthcare,Houston,Telangana,3311.68,0.03,19-12-2025,No
+MER01706,Fashion,Pune,Maharashtra,452.2,0.65,28-04-2022,No
+MER01707,Online Shopping,Chennai,Tamil Nadu,100.07,0.28,17-11-2023,Yes
+MER01708,Travel,Melbourne,West Bengal,420.68,0.53,03-05-2022,No
+MER01709,Education,Pune,Maharashtra,1052.3,0.57,14-01-2026,No
+MER01710,Utilities,Coimbatore,Tamil Nadu,409.84,0.46,23-04-2022,No
+MER01711,Grocery,Mumbai,Maharashtra,731.38,0.77,23-12-2025,No
+MER01712,Education,Los Angeles,Manipur,8435.74,0.87,04-11-2024,Yes
+MER01713,Dining,Tokyo,Nagaland,327.85,0.86,08-07-2024,Yes
+MER01714,Electronics,Vancouver,Goa,1143.32,0.52,18-01-2024,No
+MER01715,Fuel,Chicago,Punjab,2359.71,0.51,16-06-2021,No
+MER01716,Dining,Delhi,Delhi,298.75,0.37,03-07-2024,No
+MER01717,Entertainment,Pune,Maharashtra,330.9,0.15,19-07-2021,Yes
+MER01718,Dining,Pune,Rajasthan,409.25,0.31,13-06-2023,No
+MER01719,Education,Sydney,Odisha,2171.2,0.66,15-11-2025,No
+MER01720,Automobile,Chicago,Punjab,4901.21,0.6,06-07-2024,No
+MER01721,Education,Mumbai,Maharashtra,3597.28,0.76,14-07-2022,No
+MER01722,Grocery,Tokyo,Nagaland,8255.59,0.03,25-03-2021,No
+MER01723,Fuel,Coimbatore,Tamil Nadu,1826.15,0.78,03-06-2025,No
+MER01724,Utilities,Coimbatore,Tamil Nadu,6613.02,0.03,27-02-2022,No
+MER01725,Dining,Pune,Maharashtra,827.5,0.41,09-03-2023,Yes
+MER01726,Entertainment,London,England,1194.65,0.02,01-07-2026,No
+MER01727,Furniture,Bengaluru,Karnataka,1108.5,0.68,29-03-2026,No
+MER01728,Dining,Tokyo,Nagaland,197.03,0.99,09-05-2024,Yes
+MER01729,Grocery,Pune,Tamil Nadu,3640.45,0.37,05-01-2022,No
+MER01730,Travel,Bengaluru,Karnataka,150.06,0.54,08-02-2025,Yes
+MER01731,Online Shopping,Kolkata,West Bengal,2717.75,0.4,25-09-2021,Yes
+MER01732,Entertainment,Kolkata,West Bengal,1145.34,0.04,12-06-2025,Yes
+MER01733,Entertainment,Los Angeles,Manipur,112.53,0.55,07-12-2021,No
+MER01734,Education,Tokyo,Nagaland,784.83,0.59,13-05-2024,No
+MER01735,Fuel,Hyderabad,Telangana,949.69,0.99,07-09-2023,No
+MER01736,Jewelry,Melbourne,West Bengal,6787.88,0.63,06-06-2025,No
+MER01737,Healthcare,New York,Rajasthan,2263.98,0.2,08-08-2026,Yes
+MER01738,Fashion,Kolkata,West Bengal,1668.65,0.76,21-08-2024,Yes
+MER01739,Grocery,Singapore,Singapore,371.76,0.12,05-02-2021,Yes
+MER01740,Dining,Dubai,Dubai,1092.22,0.06,09-04-2026,No
+MER01741,Fuel,Chicago,Punjab,172.84,0.29,07-04-2022,No
+MER01742,Fuel,Coimbatore,Tamil Nadu,2968.33,0.35,06-02-2025,No
+MER01743,Insurance,Pune,Manipur,455.33,0.98,07-10-2022,No
+MER01744,Dining,Singapore,Singapore,1904.95,0.52,28-02-2023,Yes
+MER01745,Online Shopping,Chennai,Tamil Nadu,2503.89,0.24,09-01-2024,No
+MER01746,Travel,Pune,Manipur,1013.02,0.07,09-03-2023,Yes
+MER01747,Jewelry,Delhi,Delhi,2102.57,0.71,11-07-2026,No
+MER01748,Fashion,Pune,Maharashtra,2989.82,0.4,25-07-2023,Yes
+MER01749,Education,Melbourne,West Bengal,506.99,0.8,26-09-2022,No
+MER01750,Healthcare,Delhi,Delhi,1936.89,0.52,17-12-2022,No
+MER01751,Travel,Manchester,England,2747.64,0.15,13-06-2025,No
+MER01752,Healthcare,Pune,Maharashtra,983.37,0.01,20-03-2024,No
+MER01753,Electronics,Coimbatore,Tamil Nadu,454.65,0.51,11-02-2025,No
+MER01754,Jewelry,Chennai,Tamil Nadu,774.07,0.62,03-03-2021,Yes
+MER01755,Electronics,Melbourne,West Bengal,5508.36,0.4,24-02-2023,No
+MER01756,Dining,Dubai,Dubai,984.61,0.08,16-02-2025,No
+MER01757,Automobile,Phoenix,Andhra Pradesh,327.91,0.2,21-04-2026,No
+MER01758,Online Shopping,Pune,Karnataka,272.7,0.5,07-02-2023,Yes
+MER01759,Automobile,Dubai,Dubai,498.11,0.05,13-10-2021,No
+MER01760,Fashion,Los Angeles,Manipur,372.81,0.73,25-01-2021,No
+MER01761,Jewelry,Los Angeles,Manipur,1466.57,0.03,16-03-2022,No
+MER01762,Insurance,Dubai,Dubai,954.05,0.29,29-06-2024,No
+MER01763,Travel,Delhi,Delhi,3782.81,0.91,19-08-2024,No
+MER01764,Education,Toronto,Ontario,4358.58,0.16,01-05-2021,Yes
+MER01765,Furniture,Pune,Maharashtra,1382.17,0.91,11-04-2021,No
+MER01766,Healthcare,Pune,Maharashtra,4487.95,0.52,25-04-2025,No
+MER01767,Jewelry,Hyderabad,Telangana,1297.35,0.27,20-12-2025,No
+MER01768,Online Shopping,Los Angeles,Manipur,2154.23,0.95,29-06-2022,Yes
+MER01769,Furniture,Sydney,Odisha,454.75,0.76,02-03-2023,No
+MER01770,Grocery,Dubai,Dubai,208.03,0.54,14-06-2026,No
+MER01771,Fuel,Melbourne,West Bengal,448.91,0.44,21-02-2025,Yes
+MER01772,Electronics,Toronto,Ontario,680.29,0.7,29-02-2024,No
+MER01773,Electronics,New York,Rajasthan,2880.46,0.47,08-02-2022,Yes
+MER01774,Electronics,Pune,Telangana,481.12,0.02,11-05-2025,No
+MER01775,Insurance,Singapore,Singapore,380.03,0.39,11-03-2024,No
+MER01776,Online Shopping,Pune,Manipur,100.07,0.39,26-10-2023,No
+MER01777,Insurance,Melbourne,West Bengal,2434.65,0.63,25-01-2026,No
+MER01778,Insurance,Phoenix,Andhra Pradesh,1382.27,0.2,31-08-2024,No
+MER01779,Fashion,Coimbatore,Tamil Nadu,299.57,0.78,01-08-2022,No
+MER01780,Electronics,Hyderabad,Telangana,3918.26,0.76,25-08-2023,No
+MER01781,Fashion,Toronto,Ontario,329.16,0.39,04-10-2024,No
+MER01782,Jewelry,Coimbatore,Tamil Nadu,1988.59,0.44,30-08-2025,Yes
+MER01783,Fashion,Vancouver,Goa,2303.29,0.86,20-09-2023,No
+MER01784,Entertainment,Pune,West Bengal,1122.11,0.53,17-09-2023,Yes
+MER01785,Grocery,Singapore,Singapore,4943.11,0.54,29-07-2025,No
+MER01786,Insurance,Kolkata,West Bengal,204.06,0.06,08-07-2024,Yes
+MER01787,Dining,Sydney,Odisha,3508.78,0.06,26-01-2021,No
+MER01788,Utilities,Hyderabad,Telangana,1713.95,0.29,20-09-2024,Yes
+MER01789,Furniture,Coimbatore,Tamil Nadu,1989.4,0.2,17-07-2026,No
+MER01790,Dining,Tokyo,Nagaland,8758.95,0.31,13-06-2023,No
+MER01791,Entertainment,Bengaluru,Karnataka,1847.65,0.61,21-10-2021,No
+MER01792,Utilities,Sydney,Odisha,3289.37,0.27,25-09-2024,No
+MER01793,Fashion,Vancouver,Goa,433.36,0.33,14-09-2022,Yes
+MER01794,Education,Melbourne,West Bengal,3414,0.41,26-01-2022,Yes
+MER01795,Utilities,Tokyo,Nagaland,2963.19,0.03,21-12-2023,No
+MER01796,Furniture,Hyderabad,Telangana,6990.93,0.61,08-01-2025,No
+MER01797,Fashion,Pune,West Bengal,5588.72,0.81,25-12-2023,No
+MER01798,Travel,London,England,581.56,0.48,02-02-2024,No
+MER01799,Entertainment,Phoenix,Andhra Pradesh,1350.73,0.28,12-03-2024,No
+MER01800,Fashion,Mumbai,Maharashtra,4949.13,0.54,20-12-2021,No
+MER01801,Online Shopping,Dubai,Dubai,2147.56,0.83,14-07-2021,No
+MER01802,Travel,Sydney,Odisha,100.07,0.67,07-01-2022,Yes
+MER01803,Fashion,Los Angeles,Manipur,330.68,0.15,22-08-2025,Yes
+MER01804,Grocery,Hyderabad,Telangana,966.98,0.42,23-01-2021,No
+MER01805,Entertainment,Vancouver,Goa,2288.68,0.03,23-08-2025,No
+MER01806,Travel,London,England,3100.4,0.21,11-09-2022,Yes
+MER01807,Dining,Coimbatore,Tamil Nadu,1285.4,0.78,13-12-2022,Yes
+MER01808,Fashion,Tokyo,Nagaland,214.93,0.03,04-06-2023,Yes
+MER01809,Healthcare,Dubai,Dubai,2105.73,0.2,18-02-2026,No
+MER01810,Online Shopping,Kolkata,West Bengal,5191.52,0.53,26-06-2023,Yes
+MER01811,Fuel,New York,Rajasthan,1471.99,0.99,16-03-2024,No
+MER01812,Education,Chicago,Punjab,5374.01,0.64,20-07-2021,No
+MER01813,Jewelry,Pune,Telangana,974.22,0.16,05-06-2024,No
+MER01814,Electronics,Pune,Telangana,4449.54,0.86,17-05-2021,No
+MER01815,Fuel,Melbourne,West Bengal,3186.74,0.49,22-02-2022,No
+MER01816,Travel,Kolkata,West Bengal,6626.78,0.84,30-06-2024,Yes
+MER01817,Grocery,Singapore,Singapore,3231.05,0.79,05-08-2026,No
+MER01818,Dining,Chennai,Tamil Nadu,875.68,0.71,17-12-2024,Yes
+MER01819,Healthcare,Vancouver,Goa,4716.55,0.42,13-04-2025,No
+MER01820,Fashion,Tokyo,Nagaland,2315.7,0.24,23-07-2022,No
+MER01821,Education,Pune,Dubai,453.64,0.46,24-03-2024,No
+MER01822,Education,Pune,Manipur,194.11,0.16,03-04-2024,No
+MER01823,Fashion,Coimbatore,Tamil Nadu,1010.93,0.03,04-12-2023,No
+MER01824,Grocery,Chennai,Tamil Nadu,3191.65,0.54,09-02-2026,Yes
+MER01825,Utilities,Delhi,Delhi,2025.79,0.91,18-10-2024,Yes
+MER01826,Automobile,Coimbatore,Tamil Nadu,1597.86,0.53,01-02-2021,No
+MER01827,Utilities,Coimbatore,Tamil Nadu,107.47,0.97,12-01-2023,No
+MER01828,Furniture,London,England,1243.63,0.74,04-02-2026,Yes
+MER01829,Utilities,Bengaluru,Karnataka,443.29,0.36,23-08-2021,Yes
+MER01830,Fashion,Coimbatore,Tamil Nadu,1312.35,0.28,02-04-2021,Yes
+MER01831,Online Shopping,Phoenix,Andhra Pradesh,9700.02,0.71,06-02-2023,No
+MER01832,Furniture,Melbourne,West Bengal,4332.86,0.97,03-09-2023,No
+MER01833,Fashion,Pune,Manipur,843.96,0.69,16-05-2025,No
+MER01834,Online Shopping,Vancouver,Goa,1900.38,0.03,01-04-2026,No
+MER01835,Utilities,Chicago,Punjab,1494.69,0.96,03-10-2021,Yes
+MER01836,Automobile,Manchester,England,378.63,0.29,20-05-2024,No
+MER01837,Electronics,Phoenix,Andhra Pradesh,9272.01,0.73,12-12-2023,No
+MER01838,Entertainment,Pune,Telangana,1207.38,0.1,19-09-2023,No
+MER01839,Fashion,Toronto,Ontario,1509.06,0.97,27-04-2024,No
+MER01840,Grocery,Delhi,Delhi,2185.97,0.98,21-07-2022,No
+MER01841,Utilities,Sydney,Odisha,525.26,0.03,22-09-2024,No
+MER01842,Automobile,Hyderabad,Telangana,602.64,0.8,17-06-2022,No
+MER01843,Dining,Chicago,Punjab,527.77,0.03,09-07-2023,No
+MER01844,Entertainment,Delhi,Delhi,1070.53,0.44,12-02-2023,No
+MER01845,Electronics,Chicago,Punjab,545.48,0.83,08-04-2024,Yes
+MER01846,Healthcare,Pune,Maharashtra,5318.11,0.5,24-12-2024,No
+MER01847,Jewelry,Kolkata,West Bengal,2605.72,0.81,24-01-2021,Yes
+MER01848,Entertainment,Chennai,Tamil Nadu,4662.34,0.62,02-05-2023,Yes
+MER01849,Utilities,Delhi,Delhi,3874.13,0.26,23-03-2025,Yes
+MER01850,Entertainment,Bengaluru,Karnataka,2529.07,0.49,07-11-2021,No
+MER01851,Healthcare,Vancouver,Goa,656.11,0.03,19-07-2025,No
+MER01852,Entertainment,Coimbatore,Tamil Nadu,2010.68,0.04,11-08-2024,No
+MER01853,Automobile,New York,Rajasthan,512.32,0.76,17-11-2025,No
+MER01854,Utilities,Dubai,Dubai,384.22,0.7,20-04-2022,No
+MER01855,Entertainment,Phoenix,Andhra Pradesh,100.07,0.03,25-04-2022,No
+MER01856,Travel,Bengaluru,Karnataka,2059.66,0.7,08-10-2024,No
+MER01857,Fuel,New York,Rajasthan,440.68,0.05,09-11-2022,Yes
+MER01858,Dining,Pune,Telangana,969.05,0.91,18-10-2024,No
+MER01859,Healthcare,Los Angeles,Manipur,237.16,0.59,29-04-2023,No
+MER01860,Healthcare,Phoenix,Andhra Pradesh,2615.68,0.77,09-07-2022,No
+MER01861,Jewelry,Toronto,Ontario,8863.36,0.21,04-08-2023,No
+MER01862,Utilities,Coimbatore,Tamil Nadu,2793.43,0.23,12-05-2026,No
+MER01863,Grocery,Vancouver,Goa,3817.75,0.44,06-07-2026,Yes
+MER01864,Jewelry,Houston,Telangana,100.07,0.63,13-03-2025,No
+MER01865,Healthcare,Sydney,Odisha,300.93,0.76,13-09-2022,No
+MER01866,Automobile,Mumbai,Maharashtra,2693.69,0.42,14-09-2025,No
+MER01867,Electronics,Pune,Maharashtra,692.83,0.03,14-04-2025,No
+MER01868,Insurance,Pune,Ontario,1083.01,0.79,06-11-2021,No
+MER01869,Dining,London,England,2528.71,0.46,11-10-2024,No
+MER01870,Utilities,Houston,Telangana,4803.23,0.4,27-11-2021,No
+MER01871,Dining,Pune,West Bengal,1432.03,0.11,01-08-2023,Yes
+MER01872,Fuel,Sydney,Odisha,100.07,0.66,11-07-2022,No
+MER01873,Insurance,New York,Rajasthan,1567.54,0.78,28-09-2021,Yes
+MER01874,Automobile,Manchester,England,361.38,0.03,23-11-2024,Yes
+MER01875,Travel,Houston,Telangana,1561.42,0.64,17-06-2024,No
+MER01876,Jewelry,Chicago,Punjab,4041.21,0.76,13-01-2024,No
+MER01877,Utilities,Bengaluru,Karnataka,1644.58,0.28,25-01-2024,No
+MER01878,Fashion,Vancouver,Goa,2854.71,0.78,11-10-2024,No
+MER01879,Utilities,Chicago,Punjab,1687.96,0.69,22-08-2022,No
+MER01880,Electronics,Coimbatore,Tamil Nadu,1679.56,0.03,11-10-2024,Yes
+MER01881,Insurance,Toronto,Ontario,770.28,0.08,05-06-2023,No
+MER01882,Electronics,Tokyo,Nagaland,549.44,0.96,01-10-2026,Yes
+MER01883,Fuel,New York,Rajasthan,754.01,0.99,28-03-2025,Yes
+MER01884,Electronics,Bengaluru,Karnataka,1262.63,0.63,24-06-2026,No
+MER01885,Online Shopping,Vancouver,Goa,3417.15,0.03,20-01-2023,No
+MER01886,Healthcare,Pune,Maharashtra,3632.08,0.08,24-06-2026,Yes
+MER01887,Fuel,Melbourne,West Bengal,456.77,0.89,13-11-2023,No
+MER01888,Grocery,London,England,1709.74,0.35,26-09-2025,Yes
+MER01889,Dining,Manchester,England,1175.8,0.39,06-04-2021,No
+MER01890,Online Shopping,Pune,Delhi,1792.3,0.03,23-10-2022,Yes
+MER01891,Utilities,Pune,Maharashtra,2186.11,0.74,14-02-2025,No
+MER01892,Furniture,Coimbatore,Tamil Nadu,755.93,0.42,02-07-2022,No
+MER01893,Furniture,New York,Rajasthan,5132.61,0.47,19-06-2025,Yes
+MER01894,Online Shopping,Coimbatore,Tamil Nadu,5580.57,0.4,01-02-2021,No
+MER01895,Dining,Sydney,Odisha,100.07,0.22,29-09-2024,No
+MER01896,Fashion,Pune,Andhra Pradesh,2528.17,0.5,18-08-2024,Yes
+MER01897,Furniture,Melbourne,West Bengal,167.59,0.11,23-07-2025,No
+MER01898,Grocery,Vancouver,Goa,195.37,0.31,22-02-2022,Yes
+MER01899,Fuel,Delhi,Delhi,6430.67,0.39,02-06-2021,No
+MER01900,Fashion,Mumbai,Maharashtra,2473.92,0.42,23-11-2021,No
+MER01901,Insurance,Pune,Maharashtra,884.73,0.03,07-04-2026,No
+MER01902,Insurance,Delhi,Delhi,2316.58,0.63,29-10-2022,Yes
+MER01903,Automobile,Kolkata,West Bengal,3839.46,0.6,05-10-2025,Yes
+MER01904,Electronics,Delhi,Delhi,4194.39,0.92,11-01-2022,Yes
+MER01905,Fashion,Coimbatore,Tamil Nadu,141.47,0.17,25-04-2025,No
+MER01906,Travel,Dubai,Dubai,3510,0.18,21-02-2024,No
+MER01907,Grocery,Dubai,Dubai,3937.41,0.7,31-12-2025,Yes
+MER01908,Electronics,Pune,Maharashtra,1910.55,0.05,18-04-2023,No
+MER01909,Online Shopping,Hyderabad,Telangana,1407.48,0.19,23-03-2021,No
+MER01910,Online Shopping,Vancouver,Goa,335.31,0.09,03-06-2026,No
+MER01911,Fuel,Kolkata,West Bengal,647.86,0.97,11-01-2022,No
+MER01912,Dining,New York,Rajasthan,1448.59,0.16,06-07-2025,No
+MER01913,Travel,Bengaluru,Karnataka,4106.14,0.29,18-04-2021,No
+MER01914,Fashion,Phoenix,Andhra Pradesh,100.07,0.79,20-08-2023,Yes
+MER01915,Utilities,Tokyo,Nagaland,1470.08,0.04,28-12-2024,Yes
+MER01916,Automobile,Toronto,Ontario,3180.08,0.67,20-02-2026,No
+MER01917,Insurance,Pune,Manipur,3002.59,0.77,21-01-2024,No
+MER01918,Fuel,Los Angeles,Manipur,1830.32,0.03,24-09-2024,No
+MER01919,Travel,Delhi,Delhi,597.76,0.95,29-09-2025,Yes
+MER01920,Education,Delhi,Delhi,100.07,0.05,20-01-2023,No
+MER01921,Entertainment,Chennai,Tamil Nadu,458.41,0.6,02-03-2021,No
+MER01922,Travel,Mumbai,Maharashtra,114.35,0.87,26-09-2022,No
+MER01923,Electronics,Phoenix,Andhra Pradesh,267.91,0.49,04-02-2023,No
+MER01924,Jewelry,Coimbatore,Tamil Nadu,2951.12,0.28,02-04-2022,Yes
+MER01925,Travel,Singapore,Singapore,168.12,0.68,18-02-2023,No
+MER01926,Education,Los Angeles,Manipur,1121.16,0.03,27-09-2024,Yes
+MER01927,Grocery,Vancouver,Goa,8606.26,0.99,23-01-2021,No
+MER01928,Dining,New York,Rajasthan,3271.83,0.77,24-03-2021,Yes
+MER01929,Fashion,Houston,Telangana,2877.54,0.03,10-11-2024,No
+MER01930,Entertainment,Los Angeles,Manipur,742.36,0.31,07-01-2021,Yes
+MER01931,Automobile,Houston,Telangana,2152.94,0.03,03-01-2021,No
+MER01932,Automobile,Chicago,Punjab,1481.15,0.45,21-05-2025,No
+MER01933,Healthcare,Pune,Maharashtra,100.07,0.18,26-05-2025,No
+MER01934,Dining,Pune,Maharashtra,1244.75,0.03,20-06-2024,No
+MER01935,Fuel,Melbourne,West Bengal,1614.15,0.38,10-12-2023,No
+MER01936,Dining,New York,Rajasthan,9012.85,0.29,22-01-2025,No
+MER01937,Education,Sydney,Odisha,898.91,0.38,12-05-2025,Yes
+MER01938,Fashion,London,England,587.85,0.71,31-10-2021,No
+MER01939,Automobile,Singapore,Singapore,1290.21,0.03,01-09-2024,No
+MER01940,Fashion,Singapore,Singapore,1586.02,0.03,21-03-2025,No
+MER01941,Online Shopping,Chicago,Punjab,279.04,0.89,19-10-2024,No
+MER01942,Education,Hyderabad,Telangana,3379.51,0.12,14-06-2021,No
+MER01943,Insurance,Vancouver,Goa,1196.55,0.33,12-09-2022,No
+MER01944,Jewelry,Pune,Maharashtra,1166.1,0.15,11-11-2023,Yes
+MER01945,Fashion,Chicago,Punjab,2250.81,0.22,11-08-2024,Yes
+MER01946,Electronics,Mumbai,Maharashtra,3067.76,0.01,09-03-2025,No
+MER01947,Entertainment,Pune,Odisha,100.07,0.84,04-02-2021,No
+MER01948,Online Shopping,Kolkata,West Bengal,481.16,0.03,23-03-2025,No
+MER01949,Insurance,New York,Rajasthan,947.94,0.21,20-07-2023,No
+MER01950,Furniture,Pune,Singapore,100.07,0.6,15-08-2023,Yes
+MER01951,Dining,Manchester,England,4354.83,0.29,14-01-2026,No
+MER01952,Entertainment,Houston,Telangana,1690.33,0.08,03-03-2026,No
+MER01953,Fashion,Melbourne,West Bengal,3927.04,0.49,17-01-2023,No
+MER01954,Insurance,Tokyo,Nagaland,8529.68,0.22,17-01-2026,No
+MER01955,Online Shopping,Melbourne,West Bengal,1697.93,0.79,29-04-2024,No
+MER01956,Fashion,Tokyo,Nagaland,351.47,0.79,17-10-2024,No
+MER01957,Fashion,Pune,Telangana,996.54,0.36,09-02-2021,No
+MER01958,Online Shopping,Singapore,Singapore,173.72,0.76,20-12-2021,No
+MER01959,Utilities,Dubai,Dubai,3884.94,0.75,30-07-2022,Yes
+MER01960,Education,Sydney,Odisha,136.1,0.95,26-11-2023,Yes
+MER01961,Entertainment,Bengaluru,Karnataka,100.07,0.29,23-09-2024,No
+MER01962,Online Shopping,Singapore,Singapore,100.07,0.31,03-02-2021,No
+MER01963,Grocery,Chicago,Punjab,100.07,0.75,01-05-2023,No
+MER01964,Healthcare,Pune,England,691.83,0.7,30-10-2025,No
+MER01965,Insurance,Bengaluru,Karnataka,1705.26,0.29,26-01-2023,Yes
+MER01966,Fuel,Pune,West Bengal,256.11,0.32,11-05-2022,No
+MER01967,Furniture,Coimbatore,Tamil Nadu,2008.44,0.51,06-01-2023,Yes
+MER01968,Electronics,Melbourne,West Bengal,2329.44,0.5,17-08-2024,No
+MER01969,Fashion,Delhi,Delhi,100.07,0.16,18-12-2021,No
+MER01970,Electronics,Hyderabad,Telangana,4695.93,0.78,29-03-2025,No
+MER01971,Automobile,London,England,1773.07,0.82,21-11-2021,Yes
+MER01972,Fashion,Mumbai,Maharashtra,3253.6,0.17,01-09-2023,No
+MER01973,Jewelry,Hyderabad,Telangana,1003.99,0.86,07-04-2024,Yes
+MER01974,Healthcare,Singapore,Singapore,1862.39,0.76,16-03-2025,No
+MER01975,Insurance,Toronto,Ontario,1132.86,0.88,02-07-2023,No
+MER01976,Fuel,Vancouver,Goa,922.09,0.96,14-02-2025,No
+MER01977,Automobile,Houston,Telangana,2701.26,0.88,17-09-2021,No
+MER01978,Healthcare,Mumbai,Maharashtra,803.86,0.15,11-07-2025,No
+MER01979,Automobile,London,England,1057.85,0.47,15-10-2021,Yes
+MER01980,Entertainment,Chicago,Punjab,1015.11,0.71,19-07-2022,No
+MER01981,Automobile,Kolkata,West Bengal,4186.66,0.03,10-07-2022,No
+MER01982,Furniture,Melbourne,West Bengal,473.63,0.09,21-07-2022,Yes
+MER01983,Utilities,Sydney,Odisha,1060.84,0.31,19-05-2023,No
+MER01984,Fuel,Coimbatore,Tamil Nadu,4476.19,0.1,24-12-2023,Yes
+MER01985,Furniture,Bengaluru,Karnataka,130.85,0.59,21-05-2022,No
+MER01986,Healthcare,Delhi,Delhi,6007.91,0.14,01-01-2021,No
+MER01987,Education,Delhi,Delhi,4683.3,0.81,06-02-2023,No
+MER01988,Automobile,Pune,Maharashtra,1182.05,0.5,11-10-2023,No
+MER01989,Dining,Singapore,Singapore,2217.01,0.03,24-04-2023,Yes
+MER01990,Automobile,Toronto,Ontario,9535.93,0.21,10-01-2025,Yes
+MER01991,Furniture,Los Angeles,Manipur,1719.13,0.02,28-03-2021,Yes
+MER01992,Furniture,Pune,Maharashtra,303.84,0.96,25-01-2023,No
+MER01993,Jewelry,Hyderabad,Telangana,100.07,0.03,07-12-2024,No
+MER01994,Fashion,Phoenix,Andhra Pradesh,388.09,0.79,16-12-2023,No
+MER01995,Utilities,Melbourne,West Bengal,694.85,0.51,27-02-2023,No
+MER01996,Education,Manchester,England,4235.27,0.03,02-08-2026,No
+MER01997,Automobile,Coimbatore,Tamil Nadu,691.51,0.03,27-11-2022,No
+MER01998,Entertainment,Hyderabad,Telangana,2833.66,0.73,21-08-2025,No
+MER01999,Healthcare,Chicago,Punjab,1287.23,0.88,16-12-2024,Yes
+MER02000,Grocery,New York,Rajasthan,2952.14,0.87,24-01-2022,No
+MER02001,Electronics,Vancouver,Goa,628.85,0.19,13-10-2023,No
+MER02002,Furniture,Mumbai,Maharashtra,1187.96,0.03,19-02-2025,Yes
+MER02003,Fashion,Sydney,Odisha,865.92,0.94,07-11-2021,Yes
+MER02004,Fashion,Phoenix,Andhra Pradesh,672.82,0.14,01-09-2022,No
+MER02005,Utilities,Mumbai,Maharashtra,855.01,0.08,27-09-2025,No
+MER02006,Utilities,Sydney,Odisha,880.14,0.03,28-05-2026,No
+MER02007,Entertainment,Pune,Maharashtra,6319.07,0.03,16-06-2021,No
+MER02008,Utilities,Los Angeles,Manipur,1623.84,0.94,19-07-2022,Yes
+MER02009,Automobile,Delhi,Delhi,1339.99,0.94,30-12-2025,No
+MER02010,Fashion,Chennai,Tamil Nadu,1499.61,0.08,25-04-2022,No
+MER02011,Utilities,Pune,Maharashtra,11209.51,0.34,24-03-2024,Yes
+MER02012,Dining,Tokyo,Nagaland,2220.26,0.6,29-10-2023,No
+MER02013,Insurance,Vancouver,Goa,2531.33,0.23,08-01-2021,No
+MER02014,Healthcare,Chennai,Tamil Nadu,852.65,0.99,02-01-2025,No
+MER02015,Insurance,Singapore,Singapore,1375.57,0.03,04-02-2026,No
+MER02016,Fashion,Pune,Maharashtra,506.84,0.39,28-11-2022,No
+MER02017,Fuel,Bengaluru,Karnataka,2411.57,0.03,14-11-2023,Yes
+MER02018,Insurance,London,England,944.7,0.72,12-05-2024,Yes
+MER02019,Fashion,Tokyo,Nagaland,2858.94,0.5,10-09-2023,No
+MER02020,Entertainment,Houston,Telangana,100.07,0.87,07-08-2022,Yes
+MER02021,Utilities,Toronto,Ontario,1133.36,0.88,14-01-2021,Yes
+MER02022,Jewelry,Manchester,England,1374.23,0.3,18-07-2022,Yes
+MER02023,Entertainment,Chicago,Punjab,464.3,0.02,12-02-2025,Yes
+MER02024,Fashion,Hyderabad,Telangana,244.26,0.71,13-07-2026,No
+MER02025,Grocery,Los Angeles,Manipur,862.72,0.75,21-10-2021,No
+MER02026,Utilities,Tokyo,Nagaland,1674.44,0.03,26-11-2021,No
+MER02027,Grocery,Houston,Telangana,2215.01,0.32,25-01-2021,No
+MER02028,Utilities,Chicago,Punjab,1207.71,0.29,20-05-2024,Yes
+MER02029,Fuel,Pune,Maharashtra,1487.41,0.34,15-02-2021,No
+MER02030,Electronics,Dubai,Dubai,1666.99,0.79,28-05-2026,No
+MER02031,Insurance,Delhi,Delhi,1534.51,0.83,17-07-2025,Yes
+MER02032,Automobile,Phoenix,Andhra Pradesh,289.34,0.03,30-11-2024,No
+MER02033,Utilities,Singapore,Singapore,1138.39,0.35,27-01-2026,No
+MER02034,Fashion,Kolkata,West Bengal,100.07,0.52,03-10-2021,No
+MER02035,Jewelry,Coimbatore,Tamil Nadu,100.07,0.06,28-05-2026,No
+MER02036,Grocery,Houston,Telangana,2938.27,0.09,27-07-2026,No
+MER02037,Fuel,Tokyo,Nagaland,1832.56,0.09,17-03-2022,Yes
+MER02038,Insurance,Toronto,Ontario,601.6,0.53,03-02-2022,No
+MER02039,Healthcare,Sydney,Odisha,565.77,0.93,11-06-2022,No
+MER02040,Healthcare,Los Angeles,Manipur,175.4,0.91,08-10-2025,No
+MER02041,Automobile,Los Angeles,Manipur,1211.58,0.13,08-10-2023,Yes
+MER02042,Travel,Mumbai,Maharashtra,1234.3,0.26,14-09-2023,No
+MER02043,Healthcare,London,England,639.52,0.3,14-07-2025,No
+MER02044,Healthcare,Melbourne,West Bengal,2990.04,0.99,14-03-2026,Yes
+MER02045,Education,Mumbai,Maharashtra,1077.11,0.03,08-08-2023,No
+MER02046,Fuel,Coimbatore,Tamil Nadu,2313.7,0.65,18-11-2025,Yes
+MER02047,Automobile,Tokyo,Nagaland,2143.69,0.8,24-09-2025,Yes
+MER02048,Utilities,Phoenix,Andhra Pradesh,1956.43,0.82,05-04-2025,No
+MER02049,Furniture,Mumbai,Maharashtra,4873.37,0.07,25-01-2025,No
+MER02050,Fuel,Melbourne,West Bengal,132.04,0.24,08-08-2023,No
+MER02051,Insurance,Delhi,Delhi,240.92,0.13,31-10-2024,No
+MER02052,Utilities,Tokyo,Nagaland,2661.28,0.03,20-07-2023,No
+MER02053,Furniture,Bengaluru,Karnataka,972.44,0.79,11-04-2021,No
+MER02054,Utilities,Toronto,Ontario,8713.45,0.88,07-10-2021,Yes
+MER02055,Jewelry,Los Angeles,Manipur,100.07,0.7,18-10-2025,Yes
+MER02056,Education,Dubai,Dubai,505.26,0.29,07-03-2026,No
+MER02057,Jewelry,Pune,Maharashtra,1874.54,0.64,07-08-2026,No
+MER02058,Utilities,New York,Rajasthan,755.41,0.05,13-08-2022,Yes
+MER02059,Fashion,Hyderabad,Telangana,932.53,0.19,12-01-2024,Yes
+MER02060,Travel,Singapore,Singapore,5177.23,0.61,01-08-2024,No
+MER02061,Education,Houston,Telangana,153.19,0.17,18-05-2026,Yes
+MER02062,Online Shopping,Hyderabad,Telangana,1615.41,0.03,20-06-2024,No
+MER02063,Furniture,New York,Rajasthan,915.63,0.05,25-11-2023,No
+MER02064,Furniture,Phoenix,Andhra Pradesh,949.27,0.03,21-05-2024,Yes
+MER02065,Automobile,Kolkata,West Bengal,669.53,0.82,27-06-2025,No
+MER02066,Entertainment,Houston,Telangana,389.7,0.81,18-03-2025,Yes
+MER02067,Furniture,Delhi,Delhi,170.18,0.4,08-03-2025,No
+MER02068,Jewelry,Melbourne,West Bengal,8895.58,0.96,13-12-2025,No
+MER02069,Online Shopping,Manchester,England,2259.77,0.52,27-03-2021,No
+MER02070,Dining,Melbourne,West Bengal,3103.01,0.83,07-04-2023,No
+MER02071,Electronics,Chennai,Tamil Nadu,234.42,0.25,24-02-2022,No
+MER02072,Jewelry,Kolkata,West Bengal,129.9,0.03,28-08-2023,No
+MER02073,Fuel,Phoenix,Andhra Pradesh,1934.03,0.62,09-05-2023,Yes
+MER02074,Entertainment,Toronto,Ontario,2673.49,0.49,09-03-2021,No
+MER02075,Insurance,Chennai,Tamil Nadu,1104.61,0.89,21-12-2024,Yes
+MER02076,Travel,Tokyo,Nagaland,1081.25,0.38,15-02-2023,No
+MER02077,Jewelry,Mumbai,Maharashtra,1070.57,0.74,28-01-2025,No
+MER02078,Furniture,Manchester,England,431.53,0.49,24-09-2024,No
+MER02079,Travel,Pune,Dubai,2904.14,0.88,20-12-2024,No
+MER02080,Automobile,Melbourne,West Bengal,584.63,0.22,20-04-2026,Yes
+MER02081,Travel,Phoenix,Andhra Pradesh,884.34,0.95,26-06-2022,Yes
+MER02082,Automobile,Houston,Telangana,2324.97,0.14,11-09-2022,No
+MER02083,Travel,Mumbai,Maharashtra,100.21,0.2,30-06-2024,No
+MER02084,Fashion,Pune,West Bengal,3007.07,0.94,12-10-2022,Yes
+MER02085,Online Shopping,Melbourne,West Bengal,4687.15,0.9,29-08-2021,Yes
+MER02086,Fashion,Chennai,Tamil Nadu,205.99,0.84,03-06-2022,No
+MER02087,Travel,Pune,West Bengal,1891.13,0.65,13-11-2021,Yes
+MER02088,Healthcare,Pune,Andhra Pradesh,100.07,0.75,19-05-2023,No
+MER02089,Travel,Hyderabad,Telangana,263.43,0.03,01-09-2023,Yes
+MER02090,Dining,Houston,Telangana,2392.86,0.18,09-04-2021,No
+MER02091,Travel,Pune,Punjab,1995.14,0.69,19-03-2024,No
+MER02092,Online Shopping,Singapore,Singapore,2158.14,0.56,04-02-2022,No
+MER02093,Online Shopping,Pune,Ontario,3458.6,0.03,22-12-2023,No
+MER02094,Grocery,Pune,Punjab,776.32,0.74,24-04-2021,Yes
+MER02095,Electronics,Mumbai,Maharashtra,100.07,0.43,19-02-2025,Yes
+MER02096,Fuel,Phoenix,Andhra Pradesh,2819.83,0.71,24-07-2025,No
+MER02097,Entertainment,Dubai,Dubai,469.81,0.5,16-07-2026,No
+MER02098,Education,Chicago,Punjab,6396.22,0.22,29-09-2022,No
+MER02099,Automobile,Manchester,England,930.97,0.85,25-04-2026,No
+MER02100,Furniture,Delhi,Delhi,2601.49,0.96,07-11-2024,No
+MER02101,Insurance,Toronto,Ontario,2905.01,0.95,21-05-2024,Yes
+MER02102,Grocery,Pune,Maharashtra,1502.48,0.05,05-04-2026,No
+MER02103,Furniture,Tokyo,Nagaland,375.58,0.45,16-06-2026,No
+MER02104,Education,Delhi,Delhi,745,0.03,05-03-2024,No
+MER02105,Jewelry,Chennai,Tamil Nadu,633.79,0.18,01-02-2026,No
+MER02106,Insurance,Chicago,Punjab,1562.29,0.53,30-12-2024,No
+MER02107,Grocery,Phoenix,Andhra Pradesh,705.64,0.63,08-12-2024,Yes
+MER02108,Insurance,Singapore,Singapore,1682.71,0.27,03-08-2022,No
+MER02109,Furniture,Manchester,England,100.07,0.55,15-12-2021,No
+MER02110,Entertainment,Kolkata,West Bengal,101.96,0.74,16-03-2026,Yes
+MER02111,Healthcare,Pune,Goa,1002.78,0.41,06-01-2022,Yes
+MER02112,Insurance,New York,Rajasthan,1967.13,0.89,16-02-2025,No
+MER02113,Fashion,Delhi,Delhi,3071.76,0.55,22-11-2025,No
+MER02114,Automobile,Sydney,Odisha,157.55,0.23,01-02-2024,No
+MER02115,Automobile,Sydney,Odisha,697.66,0.03,05-02-2024,No
+MER02116,Jewelry,Kolkata,West Bengal,8562,0.87,16-04-2023,No
+MER02117,Grocery,Manchester,England,707.12,0.51,30-07-2024,No
+MER02118,Fuel,Kolkata,West Bengal,3102.94,0.66,13-03-2023,Yes
+MER02119,Jewelry,Dubai,Dubai,1524.14,0.72,02-11-2023,Yes
+MER02120,Fashion,Sydney,Odisha,360.61,0.13,02-01-2023,Yes
+MER02121,Education,Chicago,Punjab,2162.28,0.93,02-05-2021,No
+MER02122,Travel,Hyderabad,Telangana,6882.94,0.75,26-09-2022,No
+MER02123,Automobile,Vancouver,Goa,4457.71,0.51,10-06-2025,No
+MER02124,Grocery,Kolkata,West Bengal,2444.26,0.74,09-04-2022,No
+MER02125,Healthcare,Vancouver,Goa,1535.49,0.23,29-09-2023,No
+MER02126,Healthcare,Hyderabad,Telangana,869.36,0.14,24-11-2022,No
+MER02127,Automobile,Dubai,Dubai,983.12,0.75,17-12-2023,Yes
+MER02128,Grocery,Pune,Goa,949.93,0.23,04-07-2026,Yes
+MER02129,Fuel,Pune,Singapore,5204.2,0.13,24-02-2022,No
+MER02130,Travel,Manchester,England,574.77,0.53,18-09-2023,No
+MER02131,Dining,London,England,1049.73,0,15-06-2026,No
+MER02132,Travel,Bengaluru,Karnataka,1231.14,0.16,27-05-2025,No
+MER02133,Automobile,Dubai,Dubai,1151.54,0.03,22-04-2022,No
+MER02134,Travel,Coimbatore,Tamil Nadu,108.41,0.61,01-01-2021,Yes
+MER02135,Jewelry,Toronto,Ontario,732.09,0.58,08-01-2026,Yes
+MER02136,Automobile,Los Angeles,Manipur,1480.58,0.2,08-07-2022,No
+MER02137,Fuel,Los Angeles,Manipur,2958.35,0.59,07-12-2023,No
+MER02138,Fuel,Delhi,Delhi,1785.5,0.45,14-03-2023,Yes
+MER02139,Education,Sydney,Odisha,1071.82,0.85,04-05-2024,No
+MER02140,Healthcare,Vancouver,Goa,2288.09,0.96,05-03-2023,No
+MER02141,Healthcare,Melbourne,West Bengal,100.07,0.86,26-05-2026,No
+MER02142,Fashion,Sydney,Odisha,669.84,0.61,07-08-2025,Yes
+MER02143,Electronics,London,England,100.07,0.35,11-05-2022,No
+MER02144,Automobile,London,England,3350.97,0.17,15-08-2021,No
+MER02145,Education,Bengaluru,Karnataka,1609.12,0.72,22-08-2021,No
+MER02146,Entertainment,Delhi,Delhi,488.44,0.18,02-02-2021,No
+MER02147,Utilities,Sydney,Odisha,707.82,0.35,04-11-2024,Yes
+MER02148,Education,Los Angeles,Manipur,3008.5,1,17-06-2026,No
+MER02149,Fashion,New York,Rajasthan,2218.43,0.9,03-11-2024,No
+MER02150,Entertainment,Dubai,Dubai,5906.91,0.32,03-04-2022,No
+MER02151,Education,Hyderabad,Telangana,1350.78,0.62,07-10-2022,No
+MER02152,Electronics,Pune,Maharashtra,207.2,0.03,22-04-2021,No
+MER02153,Furniture,New York,Rajasthan,2510.77,0.26,05-07-2024,Yes
+MER02154,Electronics,Coimbatore,Tamil Nadu,688.5,0.66,13-05-2026,Yes
+MER02155,Healthcare,Dubai,Dubai,882.69,0.03,06-09-2021,No
+MER02156,Fashion,Sydney,Odisha,537.93,0.64,21-03-2022,No
+MER02157,Education,Hyderabad,Telangana,839.04,0.94,02-08-2025,No
+MER02158,Dining,Pune,Maharashtra,3637.81,0.89,16-12-2024,No
+MER02159,Furniture,Toronto,Ontario,1819.41,0.19,09-10-2022,Yes
+MER02160,Jewelry,Toronto,Ontario,331.17,0.38,01-11-2024,No
+MER02161,Furniture,Coimbatore,Tamil Nadu,1866.7,0.46,22-04-2021,No
+MER02162,Furniture,Pune,Maharashtra,2107.86,0.86,28-07-2025,No
+MER02163,Fashion,Tokyo,Nagaland,4422.58,0.33,06-01-2021,No
+MER02164,Online Shopping,Chicago,Punjab,4027.17,0.66,23-05-2024,Yes
+MER02165,Grocery,Mumbai,Maharashtra,229.88,0.6,22-09-2023,Yes
+MER02166,Fashion,Los Angeles,Manipur,4130.28,0.89,03-07-2024,No
+MER02167,Entertainment,New York,Rajasthan,204.45,0.03,10-06-2026,No
+MER02168,Dining,Pune,Nagaland,434.76,0.03,03-05-2026,Yes
+MER02169,Electronics,Coimbatore,Tamil Nadu,336.55,0.24,30-12-2024,No
+MER02170,Fashion,Vancouver,Goa,501.05,0.01,05-08-2022,No
+MER02171,Online Shopping,London,England,3351.76,0.03,08-11-2021,No
+MER02172,Dining,Delhi,Delhi,2417.48,0.03,10-08-2023,Yes
+MER02173,Education,Vancouver,Goa,2422.86,0.26,23-02-2024,No
+MER02174,Fuel,London,England,5205.37,0.12,08-10-2022,No
+MER02175,Jewelry,Pune,Maharashtra,1094.67,0.95,09-08-2023,No
+MER02176,Grocery,Manchester,England,106.59,0,11-01-2021,No
+MER02177,Jewelry,Sydney,Odisha,2142.02,0.21,17-05-2022,No
+MER02178,Electronics,Los Angeles,Manipur,4151.03,0.61,10-05-2021,Yes
+MER02179,Fuel,Pune,Maharashtra,7581.2,0.48,19-01-2025,No
+MER02180,Electronics,Los Angeles,Manipur,100.07,0.05,31-07-2023,No
+MER02181,Education,Tokyo,Nagaland,3553.65,0.56,04-01-2024,Yes
+MER02182,Fuel,Singapore,Singapore,3883.97,0.57,17-01-2023,Yes
+MER02183,Healthcare,Los Angeles,Manipur,411.99,0.54,01-07-2023,No
+MER02184,Electronics,Pune,Tamil Nadu,2096.62,0.13,06-10-2025,No
+MER02185,Online Shopping,New York,Rajasthan,480.24,0.34,23-03-2024,Yes
+MER02186,Grocery,Chennai,Tamil Nadu,1283.46,0.03,27-11-2022,No
+MER02187,Electronics,Pune,Nagaland,4328.35,0.34,22-07-2023,No
+MER02188,Grocery,Dubai,Dubai,3216.23,0.22,04-04-2024,Yes
+MER02189,Automobile,Los Angeles,Manipur,1789.52,0.56,01-08-2022,No
+MER02190,Education,Hyderabad,Telangana,3407.92,0.29,17-01-2021,No
+MER02191,Dining,Chicago,Punjab,431.7,0.48,07-11-2026,Yes
+MER02192,Fashion,London,England,533.63,0.23,11-06-2022,Yes
+MER02193,Education,Houston,Telangana,568.57,0.02,04-05-2022,Yes
+MER02194,Automobile,Mumbai,Maharashtra,3092.34,0.03,06-11-2023,Yes
+MER02195,Fashion,Pune,Tamil Nadu,4532.18,0.03,01-05-2025,Yes
+MER02196,Fuel,Mumbai,Maharashtra,1754.9,0.33,26-10-2024,No
+MER02197,Grocery,Toronto,Ontario,100.07,0.12,06-10-2023,Yes
+MER02198,Education,Chennai,Tamil Nadu,2704.13,0.08,11-05-2023,No
+MER02199,Utilities,Bengaluru,Karnataka,1758.78,0.03,19-04-2026,No
+MER02200,Dining,Sydney,Odisha,100.07,0.51,17-05-2021,No
+MER02201,Jewelry,Melbourne,West Bengal,3888.04,0.03,30-05-2021,No
+MER02202,Automobile,New York,Rajasthan,289.02,0.22,04-02-2022,No
+MER02203,Fuel,Bengaluru,Karnataka,467.89,0.03,06-01-2025,No
+MER02204,Electronics,Chicago,Punjab,719.3,0.2,07-10-2024,Yes
+MER02205,Education,Singapore,Singapore,100.07,0.64,17-06-2023,No
+MER02206,Utilities,Mumbai,Maharashtra,5898.84,0.44,28-06-2024,No
+MER02207,Jewelry,Mumbai,Maharashtra,980.64,0.56,27-01-2021,No
+MER02208,Furniture,Pune,Maharashtra,5250.29,0.38,11-08-2024,No
+MER02209,Education,Manchester,England,1683.05,0.8,13-08-2023,Yes
+MER02210,Insurance,Toronto,Ontario,1382.15,0.08,01-05-2026,No
+MER02211,Insurance,Tokyo,Nagaland,3676.71,0.16,17-07-2022,No
+MER02212,Grocery,Kolkata,West Bengal,1679.68,0.03,05-05-2024,No
+MER02213,Automobile,Melbourne,West Bengal,1312.04,0.76,14-01-2022,No
+MER02214,Utilities,Bengaluru,Karnataka,132.18,0.87,11-03-2022,No
+MER02215,Entertainment,Delhi,Delhi,125.96,0.38,20-07-2025,No
+MER02216,Healthcare,Manchester,England,2075.53,0.31,22-06-2025,Yes
+MER02217,Electronics,Mumbai,Maharashtra,252.5,0.61,27-01-2024,No
+MER02218,Entertainment,Los Angeles,Manipur,2770.79,0.83,02-06-2023,No
+MER02219,Entertainment,Manchester,England,2047.53,0.03,24-02-2022,Yes
+MER02220,Travel,Sydney,Odisha,1323.98,0.53,13-12-2023,No
+MER02221,Healthcare,Tokyo,Nagaland,2574.39,0.69,07-05-2023,Yes
+MER02222,Utilities,Kolkata,West Bengal,10044.18,0.03,21-04-2025,Yes
+MER02223,Furniture,London,England,665.67,0.79,07-06-2021,No
+MER02224,Insurance,Toronto,Ontario,1728.62,0.96,16-03-2026,Yes
+MER02225,Fuel,Pune,Andhra Pradesh,3801.18,0.72,04-10-2021,No
+MER02226,Fuel,Pune,Tamil Nadu,134.04,0.82,15-05-2026,No
+MER02227,Insurance,Dubai,Dubai,555.08,0.07,17-04-2022,No
+MER02228,Fashion,Los Angeles,Manipur,1571.94,0.93,06-04-2026,No
+MER02229,Grocery,Delhi,Delhi,1707.02,0.51,14-12-2021,Yes
+MER02230,Dining,Dubai,Dubai,280.58,0.37,02-03-2025,No
+MER02231,Grocery,Singapore,Singapore,1146.57,0.95,17-05-2025,No
+MER02232,Entertainment,Pune,Manipur,1567.04,0.72,21-10-2024,No
+MER02233,Insurance,Houston,Telangana,1199.74,0.56,27-04-2024,No
+MER02234,Jewelry,Vancouver,Goa,2511.92,0.32,04-08-2024,No
+MER02235,Fashion,Chicago,Punjab,3051.25,0.03,13-01-2021,Yes
+MER02236,Entertainment,Chicago,Punjab,1333.34,0.86,16-10-2023,No
+MER02237,Grocery,Delhi,Delhi,1209.07,0.75,28-04-2022,No
+MER02238,Electronics,Dubai,Dubai,2544.03,0.02,24-10-2025,No
+MER02239,Furniture,Dubai,Dubai,1720.72,0.03,18-11-2023,Yes
+MER02240,Furniture,Tokyo,Nagaland,4187.21,0.65,03-12-2025,Yes
+MER02241,Insurance,Kolkata,West Bengal,1412.27,0.96,11-03-2021,No
+MER02242,Dining,Hyderabad,Telangana,1808.17,0.01,02-08-2025,Yes
+MER02243,Electronics,Dubai,Dubai,375.78,0.61,01-10-2024,Yes
+MER02244,Education,London,England,100.07,0.12,05-05-2023,Yes
+MER02245,Automobile,New York,Rajasthan,1197.37,0.1,03-11-2024,No
+MER02246,Utilities,Hyderabad,Telangana,2639.25,0.68,29-12-2022,No
+MER02247,Education,Bengaluru,Karnataka,1222.42,0.67,22-06-2023,No
+MER02248,Healthcare,Delhi,Delhi,100.07,0.97,18-04-2021,No
+MER02249,Travel,Vancouver,Goa,1123.02,0.03,25-09-2025,No
+MER02250,Utilities,New York,Rajasthan,419.17,0.31,15-05-2021,Yes
+MER02251,Jewelry,Manchester,England,1117.04,0.24,10-03-2021,No
+MER02252,Travel,Pune,Maharashtra,875.28,0.31,04-08-2021,No
+MER02253,Furniture,Delhi,Delhi,552.67,0.71,20-02-2025,No
+MER02254,Education,Toronto,Ontario,364.26,0.52,09-12-2024,No
+MER02255,Dining,Los Angeles,Manipur,2708.04,0.25,23-11-2022,Yes
+MER02256,Fashion,Singapore,Singapore,2911.85,0.83,01-06-2023,Yes
+MER02257,Education,Delhi,Delhi,715.76,0.2,31-01-2021,No
+MER02258,Travel,New York,Rajasthan,1467.15,0.61,19-05-2022,No
+MER02259,Fuel,Manchester,England,1347.51,0.99,05-04-2022,Yes
+MER02260,Automobile,Pune,Telangana,977.78,0.23,06-10-2023,No
+MER02261,Healthcare,Toronto,Ontario,750.46,0.48,05-04-2025,Yes
+MER02262,Online Shopping,Chicago,Punjab,511.67,0.03,03-09-2022,No
+MER02263,Insurance,Pune,Maharashtra,4225.45,0.02,03-03-2026,No
+MER02264,Education,Tokyo,Nagaland,3683.27,0.44,28-05-2025,No
+MER02265,Online Shopping,Chicago,Punjab,1179.75,0.07,20-11-2022,Yes
+MER02266,Entertainment,Chicago,Punjab,2654.53,0.39,10-03-2025,No
+MER02267,Education,Pune,Maharashtra,1479.63,0.11,24-03-2023,No
+MER02268,Online Shopping,Toronto,Ontario,278.5,0.71,22-12-2022,Yes
+MER02269,Dining,Melbourne,West Bengal,3556.34,0.68,02-10-2024,Yes
+MER02270,Furniture,Manchester,England,595.06,0.16,18-03-2025,No
+MER02271,Fashion,Tokyo,Nagaland,2553.92,0.07,26-08-2025,Yes
+MER02272,Jewelry,Chennai,Tamil Nadu,1599,0.32,18-08-2023,Yes
+MER02273,Electronics,Bengaluru,Karnataka,2445.85,0.35,09-08-2025,No
+MER02274,Jewelry,Delhi,Delhi,1374.3,0.89,22-05-2023,No
+MER02275,Dining,Vancouver,Goa,2525.09,0.38,07-06-2026,Yes
+MER02276,Fashion,Dubai,Dubai,166.73,0.4,09-04-2021,No
+MER02277,Dining,Hyderabad,Telangana,183.42,0.23,05-10-2021,No
+MER02278,Travel,Los Angeles,Manipur,4633.28,0.51,07-08-2025,Yes
+MER02279,Fuel,Mumbai,Maharashtra,2870.14,0.68,30-04-2023,No
+MER02280,Online Shopping,Pune,Maharashtra,3625.97,0.95,04-07-2022,Yes
+MER02281,Fuel,New York,Rajasthan,1319.77,0.2,21-01-2025,No
+MER02282,Furniture,Hyderabad,Telangana,1331.06,0.15,15-07-2022,Yes
+MER02283,Fashion,Coimbatore,Tamil Nadu,1627.16,0.03,03-03-2021,Yes
+MER02284,Electronics,New York,Rajasthan,658.53,0.99,20-08-2022,No
+MER02285,Dining,Chennai,Tamil Nadu,2744.78,0.22,24-01-2023,No
+MER02286,Travel,Houston,Telangana,3637.51,0.47,03-01-2025,Yes
+MER02287,Healthcare,Delhi,Delhi,4855.14,0.41,12-02-2023,Yes
+MER02288,Entertainment,Mumbai,Maharashtra,1555.62,0.43,07-04-2025,Yes
+MER02289,Insurance,Sydney,Odisha,1170.84,0.39,29-07-2022,No
+MER02290,Fashion,Pune,Maharashtra,3654.92,0.33,03-02-2025,No
+MER02291,Education,Vancouver,Goa,100.07,0.03,27-04-2026,No
+MER02292,Travel,Hyderabad,Telangana,4138.93,0.06,20-09-2021,No
+MER02293,Fashion,Pune,Maharashtra,2232.66,0.03,07-11-2023,No
+MER02294,Healthcare,Pune,Manipur,4396.53,0.21,06-02-2023,Yes
+MER02295,Fashion,New York,Rajasthan,286.52,0.34,23-08-2025,No
+MER02296,Travel,Toronto,Ontario,2376.13,0.48,03-12-2025,No
+MER02297,Electronics,Hyderabad,Telangana,285.97,0.9,15-06-2025,Yes
+MER02298,Electronics,Singapore,Singapore,2863.87,0.36,26-07-2023,No
+MER02299,Travel,New York,Rajasthan,2080.11,0.37,20-09-2022,No
+MER02300,Fuel,Mumbai,Maharashtra,132.24,0.62,04-03-2022,No
+MER02301,Online Shopping,London,England,1928.89,0.86,22-08-2025,Yes
+MER02302,Furniture,Vancouver,Goa,416.3,0.23,16-11-2021,Yes
+MER02303,Education,Phoenix,Andhra Pradesh,407.26,0.35,14-10-2022,No
+MER02304,Fashion,Coimbatore,Tamil Nadu,426.13,0.36,21-04-2024,No
+MER02305,Jewelry,London,England,1422.61,0.86,02-02-2022,Yes
+MER02306,Fuel,Coimbatore,Tamil Nadu,345.51,0.03,28-04-2024,No
+MER02307,Insurance,Pune,Maharashtra,368.56,0.82,02-01-2023,Yes
+MER02308,Furniture,Pune,Tamil Nadu,691.88,0.55,27-07-2024,No
+MER02309,Automobile,Dubai,Dubai,100.07,0.87,27-01-2022,No
+MER02310,Fashion,Chicago,Punjab,745.35,0.7,03-12-2023,No
+MER02311,Furniture,Kolkata,West Bengal,2026.81,0.07,04-02-2024,No
+MER02312,Utilities,Manchester,England,1940.45,0.72,14-06-2022,No
+MER02313,Insurance,Houston,Telangana,100.07,0.04,22-04-2025,No
+MER02314,Fashion,Sydney,Odisha,354.83,0.91,25-04-2025,No
+MER02315,Travel,Sydney,Odisha,4113.44,0.03,17-03-2023,No
+MER02316,Jewelry,Manchester,England,1092.5,1,22-01-2025,No
+MER02317,Insurance,Manchester,England,1078.9,0.3,03-08-2025,No
+MER02318,Dining,Sydney,Odisha,957.91,0.68,16-08-2025,Yes
+MER02319,Dining,Toronto,Ontario,366.46,0.05,05-07-2025,No
+MER02320,Education,Toronto,Ontario,1402.11,0,25-05-2022,No
+MER02321,Education,Hyderabad,Telangana,3196.48,0.11,25-07-2024,No
+MER02322,Utilities,London,England,100.07,0.53,11-01-2025,No
+MER02323,Healthcare,Chennai,Tamil Nadu,6686.08,0.77,23-11-2024,No
+MER02324,Fashion,Toronto,Ontario,3176.96,0.36,15-05-2026,No
+MER02325,Furniture,Kolkata,West Bengal,2051.51,0.74,09-09-2022,Yes
+MER02326,Automobile,Singapore,Singapore,1476.45,0.51,02-11-2024,No
+MER02327,Furniture,Coimbatore,Tamil Nadu,4257.24,0.37,24-08-2024,No
+MER02328,Jewelry,London,England,2790.41,0.64,03-02-2026,No
+MER02329,Utilities,Tokyo,Nagaland,451.7,0.42,16-04-2024,No
+MER02330,Fashion,Pune,Maharashtra,2394.87,0.7,30-04-2026,Yes
+MER02331,Online Shopping,Melbourne,West Bengal,1227.89,0.94,27-12-2025,No
+MER02332,Furniture,Vancouver,Goa,1911.69,0.56,06-03-2024,Yes
+MER02333,Utilities,Pune,West Bengal,4672.5,0.08,17-11-2023,No
+MER02334,Jewelry,Tokyo,Nagaland,2214.39,0.03,23-06-2023,No
+MER02335,Furniture,Tokyo,Nagaland,5684.74,0.13,06-06-2023,No
+MER02336,Utilities,Delhi,Delhi,4125.36,0.54,02-09-2026,No
+MER02337,Utilities,Pune,Maharashtra,376,0.03,18-10-2024,No
+MER02338,Online Shopping,Coimbatore,Tamil Nadu,123.44,0.7,08-04-2023,Yes
+MER02339,Insurance,Singapore,Singapore,1070.35,0.59,23-09-2023,No
+MER02340,Entertainment,Vancouver,Goa,4109.86,0.29,06-02-2026,Yes
+MER02341,Automobile,Melbourne,West Bengal,623.06,0.87,27-01-2022,No
+MER02342,Electronics,Chicago,Punjab,2451.42,0.95,20-06-2025,No
+MER02343,Jewelry,Mumbai,Maharashtra,1392.51,0.51,03-10-2024,Yes
+MER02344,Fuel,Coimbatore,Tamil Nadu,2841.45,0.22,22-11-2023,No
+MER02345,Grocery,London,England,460.59,0.03,23-03-2021,Yes
+MER02346,Travel,Coimbatore,Tamil Nadu,646.48,0.03,26-09-2023,No
+MER02347,Healthcare,New York,Rajasthan,655.53,0.04,26-05-2022,No
+MER02348,Electronics,Pune,Maharashtra,100.07,0.03,06-06-2025,No
+MER02349,Fashion,Pune,Maharashtra,783.92,0.5,13-03-2026,Yes
+MER02350,Entertainment,Toronto,Ontario,3439.68,0.65,26-07-2022,Yes
+MER02351,Dining,Sydney,Odisha,951.73,0.96,15-10-2024,No
+MER02352,Jewelry,Mumbai,Maharashtra,100.07,0.74,30-10-2025,No
+MER02353,Grocery,Coimbatore,Tamil Nadu,100.07,0.15,08-03-2023,No
+MER02354,Education,Pune,Rajasthan,1967.5,0.64,12-04-2022,Yes
+MER02355,Online Shopping,Phoenix,Andhra Pradesh,654.55,0.01,26-01-2026,No
+MER02356,Fashion,Bengaluru,Karnataka,3649.29,0.05,25-03-2026,No
+MER02357,Utilities,London,England,125.24,0.76,14-01-2021,No
+MER02358,Fashion,Pune,Tamil Nadu,692.87,0.44,09-06-2022,No
+MER02359,Online Shopping,Phoenix,Andhra Pradesh,1080.38,0.6,12-07-2022,No
+MER02360,Education,Manchester,England,536.26,0.89,14-06-2021,No
+MER02361,Grocery,Chennai,Tamil Nadu,1952.77,0.03,03-05-2022,Yes
+MER02362,Utilities,Coimbatore,Tamil Nadu,1732.89,0.03,29-06-2025,No
+MER02363,Automobile,Chennai,Tamil Nadu,1143.42,0.35,01-04-2025,No
+MER02364,Entertainment,Chennai,Tamil Nadu,797.36,0.58,18-07-2021,No
+MER02365,Furniture,Hyderabad,Telangana,1237.99,0.37,14-05-2023,No
+MER02366,Automobile,Pune,Tamil Nadu,788.37,0.77,28-04-2021,No
+MER02367,Insurance,Toronto,Ontario,600.15,0.25,10-06-2025,No
+MER02368,Travel,Kolkata,West Bengal,965.48,0.35,19-03-2026,Yes
+MER02369,Insurance,Hyderabad,Telangana,1944.29,0.03,09-02-2024,No
+MER02370,Fashion,Pune,Maharashtra,2190.47,0.03,26-02-2022,No
+MER02371,Online Shopping,London,England,805.78,0.94,20-02-2025,No
+MER02372,Insurance,Pune,Maharashtra,5990,0.59,12-02-2026,No
+MER02373,Insurance,London,England,707.51,0.47,22-06-2025,No
+MER02374,Education,Dubai,Dubai,2590.51,0.03,21-04-2022,No
+MER02375,Automobile,Kolkata,West Bengal,269.98,0.03,09-03-2025,Yes
+MER02376,Online Shopping,Manchester,England,2286.32,0.29,09-06-2025,Yes
+MER02377,Jewelry,Tokyo,Nagaland,1332.18,0.32,30-01-2023,Yes
+MER02378,Automobile,Kolkata,West Bengal,1783.79,0.52,09-08-2021,No
+MER02379,Dining,Los Angeles,Manipur,506.86,0.78,11-02-2025,No
+MER02380,Travel,Coimbatore,Tamil Nadu,1236.78,0.03,23-12-2024,No
+MER02381,Automobile,Phoenix,Andhra Pradesh,3007.24,0.32,12-07-2025,No
+MER02382,Automobile,Pune,Maharashtra,3014.16,0.56,04-08-2024,No
+MER02383,Electronics,Phoenix,Andhra Pradesh,642.45,0.22,25-02-2022,No
+MER02384,Fashion,Pune,Ontario,969.58,0.03,12-07-2025,Yes
+MER02385,Fashion,Melbourne,West Bengal,107.64,0.48,02-07-2021,Yes
+MER02386,Travel,Phoenix,Andhra Pradesh,288.54,0.03,05-03-2021,Yes
+MER02387,Fuel,Pune,Odisha,371.02,0.14,21-05-2026,No
+MER02388,Fashion,Manchester,England,795.29,0.33,28-08-2023,No
+MER02389,Entertainment,Mumbai,Maharashtra,2946.05,0.36,21-05-2021,Yes
+MER02390,Online Shopping,Kolkata,West Bengal,1527.72,0.11,04-10-2024,Yes
+MER02391,Furniture,Mumbai,Maharashtra,3246.29,0.99,10-08-2025,Yes
+MER02392,Automobile,Coimbatore,Tamil Nadu,2912.22,0.42,18-12-2025,No
+MER02393,Online Shopping,Kolkata,West Bengal,1869.28,0.13,11-06-2025,No
+MER02394,Automobile,Coimbatore,Tamil Nadu,1485.74,0.59,19-07-2023,No
+MER02395,Insurance,Vancouver,Goa,5456.62,0.08,23-04-2022,No
+MER02396,Dining,Kolkata,West Bengal,100.07,0.65,04-02-2026,Yes
+MER02397,Automobile,Bengaluru,Karnataka,1418.74,0.65,27-03-2021,No
+MER02398,Automobile,Manchester,England,4166.96,0.03,16-01-2022,Yes
+MER02399,Education,Hyderabad,Telangana,248.24,0.47,23-03-2023,No
+MER02400,Furniture,Chicago,Punjab,2234.38,0.03,24-09-2021,No
+MER02401,Utilities,Singapore,Singapore,339.88,0.03,25-10-2023,No
+MER02402,Online Shopping,Hyderabad,Telangana,3527.62,0.08,23-12-2024,No
+MER02403,Education,Melbourne,West Bengal,3246.85,0.67,24-03-2024,No
+MER02404,Insurance,Phoenix,Andhra Pradesh,1500.75,0.26,23-03-2022,No
+MER02405,Education,Pune,Dubai,2263.77,0.03,19-09-2022,No
+MER02406,Entertainment,Kolkata,West Bengal,3062.28,0.99,27-02-2023,Yes
+MER02407,Dining,Coimbatore,Tamil Nadu,1420.6,0.6,27-02-2024,No
+MER02408,Travel,Coimbatore,Tamil Nadu,4828.03,0.46,08-02-2022,No
+MER02409,Utilities,Pune,Maharashtra,1249.06,0.76,25-09-2023,Yes
+MER02410,Fashion,Vancouver,Goa,4551.67,0.74,21-01-2024,No
+MER02411,Travel,Mumbai,Maharashtra,1848.11,0.26,27-01-2024,No
+MER02412,Insurance,Dubai,Dubai,1211.1,0.36,31-08-2022,No
+MER02413,Healthcare,Kolkata,West Bengal,108.21,0.46,25-04-2026,No
+MER02414,Grocery,Pune,Manipur,800.69,0.75,11-11-2025,No
+MER02415,Jewelry,Melbourne,West Bengal,4148.72,0.25,13-07-2022,No
+MER02416,Utilities,Manchester,England,1219.73,0.42,07-09-2025,No
+MER02417,Travel,Houston,Telangana,1194.52,0.31,16-07-2024,Yes
+MER02418,Grocery,Pune,Maharashtra,1444.38,0.35,24-03-2025,No
+MER02419,Education,Los Angeles,Manipur,774.6,0.83,02-02-2025,No
+MER02420,Healthcare,Toronto,Ontario,1452.78,0.28,09-04-2021,Yes
+MER02421,Furniture,Toronto,Ontario,1042.45,0.33,02-11-2024,No
+MER02422,Travel,Houston,Telangana,4903.54,0.06,23-08-2025,No
+MER02423,Education,Dubai,Dubai,1760.07,0.21,07-03-2023,No
+MER02424,Fashion,Delhi,Delhi,3693.35,0.33,31-07-2023,No
+MER02425,Healthcare,Mumbai,Maharashtra,2422.3,0.05,02-11-2021,No
+MER02426,Fashion,Vancouver,Goa,578.05,0.61,11-09-2022,Yes
+MER02427,Insurance,New York,Rajasthan,4144.85,0.43,14-07-2022,Yes
+MER02428,Utilities,Houston,Telangana,282.63,0.01,17-02-2025,No
+MER02429,Entertainment,Pune,Ontario,1290.73,0.84,28-09-2022,No
+MER02430,Entertainment,Tokyo,Nagaland,646.65,0.38,29-08-2024,No
+MER02431,Online Shopping,Dubai,Dubai,1642.46,0.19,18-06-2021,Yes
+MER02432,Utilities,Coimbatore,Tamil Nadu,813.49,0.03,31-12-2025,No
+MER02433,Utilities,Chicago,Punjab,2666.22,0.67,02-02-2021,Yes
+MER02434,Jewelry,Mumbai,Maharashtra,5626.66,0.82,28-02-2024,Yes
+MER02435,Fuel,Kolkata,West Bengal,2569.48,0.13,03-07-2024,Yes
+MER02436,Jewelry,Mumbai,Maharashtra,977.97,0.56,13-02-2022,No
+MER02437,Grocery,Pune,Dubai,1932.93,0.12,05-08-2024,Yes
+MER02438,Education,Chicago,Punjab,4487.93,0.07,04-05-2024,No
+MER02439,Automobile,Kolkata,West Bengal,729.5,0.48,27-08-2023,No
+MER02440,Insurance,Tokyo,Nagaland,351.59,0.26,04-08-2022,Yes
+MER02441,Insurance,Delhi,Delhi,380.28,0.24,28-08-2021,Yes
+MER02442,Dining,Vancouver,Goa,1465.81,0.66,28-05-2026,No
+MER02443,Electronics,Hyderabad,Telangana,2734.55,0.96,23-04-2024,No
+MER02444,Travel,Singapore,Singapore,2241.55,0.67,20-04-2022,Yes
+MER02445,Education,London,England,1309.87,0.67,23-01-2026,Yes
+MER02446,Automobile,Mumbai,Maharashtra,100.07,0.21,16-08-2022,No
+MER02447,Healthcare,Singapore,Singapore,2110.08,0.39,06-12-2022,Yes
+MER02448,Healthcare,Coimbatore,Tamil Nadu,2078.96,0.61,25-07-2024,No
+MER02449,Grocery,Pune,Telangana,552.24,0.03,30-05-2025,Yes
+MER02450,Travel,Coimbatore,Tamil Nadu,849.63,0.44,10-07-2023,Yes
+MER02451,Entertainment,Pune,Rajasthan,944.48,0.44,15-03-2023,No
+MER02452,Fashion,Pune,Nagaland,3402.51,0.23,19-08-2024,No
+MER02453,Fashion,London,England,3084.29,0.84,09-01-2021,Yes
+MER02454,Education,Chennai,Tamil Nadu,682.5,0.56,19-01-2024,No
+MER02455,Electronics,Hyderabad,Telangana,213.46,0.49,04-01-2022,No
+MER02456,Entertainment,Manchester,England,3020.17,0.4,23-01-2026,No
+MER02457,Grocery,New York,Rajasthan,1154.81,0.32,14-11-2023,No
+MER02458,Furniture,Kolkata,West Bengal,596.42,0.33,08-06-2023,No
+MER02459,Utilities,Pune,England,348.9,0.41,13-05-2026,No
+MER02460,Fashion,Toronto,Ontario,125.79,0.08,12-04-2021,No
+MER02461,Grocery,Mumbai,Maharashtra,1216.29,0.4,22-07-2023,No
+MER02462,Healthcare,Melbourne,West Bengal,930.32,0.71,21-02-2025,No
+MER02463,Travel,Singapore,Singapore,2484.55,0.14,19-05-2021,No
+MER02464,Fashion,Coimbatore,Tamil Nadu,7615.64,0.03,06-03-2023,No
+MER02465,Automobile,Los Angeles,Manipur,563.32,0.86,17-10-2024,Yes
+MER02466,Fuel,New York,Rajasthan,656.88,0.03,16-12-2021,No
+MER02467,Electronics,Chicago,Punjab,922.87,0.03,22-09-2025,No
+MER02468,Furniture,Hyderabad,Telangana,1354.49,0.92,06-12-2025,Yes
+MER02469,Dining,Hyderabad,Telangana,2492.66,0.83,28-07-2025,No
+MER02470,Dining,Houston,Telangana,967.83,0.34,02-06-2025,Yes
+MER02471,Automobile,Delhi,Delhi,100.07,0.03,27-04-2024,No
+MER02472,Fashion,Hyderabad,Telangana,2721.2,0.42,22-03-2021,Yes
+MER02473,Healthcare,Tokyo,Nagaland,3266,0.83,13-06-2024,No
+MER02474,Travel,Chicago,Punjab,669.1,0.28,15-10-2023,Yes
+MER02475,Utilities,Tokyo,Nagaland,394.12,0.03,18-12-2025,Yes
+MER02476,Utilities,Manchester,England,1600.71,0.39,26-05-2024,No
+MER02477,Fuel,Vancouver,Goa,567.18,0.07,16-08-2023,No
+MER02478,Online Shopping,Dubai,Dubai,1037.33,0.24,04-08-2025,No
+MER02479,Fuel,Hyderabad,Telangana,3104.41,0.35,10-06-2022,No
+MER02480,Online Shopping,Coimbatore,Tamil Nadu,595.92,0.9,05-08-2022,Yes
+MER02481,Insurance,Mumbai,Maharashtra,3382.47,0.51,28-09-2021,No
+MER02482,Entertainment,Dubai,Dubai,2341.84,0.65,22-10-2022,No
+MER02483,Education,Pune,Rajasthan,596.22,0.03,16-11-2025,No
+MER02484,Grocery,Tokyo,Nagaland,1594.8,0.62,21-08-2022,Yes
+MER02485,Electronics,Chennai,Tamil Nadu,2004.2,0.23,22-08-2024,No
+MER02486,Utilities,Kolkata,West Bengal,546.98,0.03,04-06-2023,No
+MER02487,Dining,Pune,Maharashtra,413.19,0.25,02-10-2021,No
+MER02488,Electronics,Pune,Maharashtra,1615.02,0.72,05-03-2024,Yes
+MER02489,Automobile,Manchester,England,2467.3,0.35,03-09-2023,No
+MER02490,Fashion,Chicago,Punjab,1351.23,0.54,21-10-2021,No
+MER02491,Fashion,Vancouver,Goa,245.23,0.05,11-07-2026,No
+MER02492,Fashion,Los Angeles,Manipur,5286.21,0.03,21-07-2025,No
+MER02493,Fashion,Pune,Ontario,2474.66,0.73,28-04-2025,Yes
+MER02494,Entertainment,Mumbai,Maharashtra,2041.47,0.58,31-07-2022,No
+MER02495,Automobile,Pune,Maharashtra,2163.55,0.14,23-05-2026,No
+MER02496,Healthcare,New York,Rajasthan,100.07,0.45,04-06-2024,No
+MER02497,Fashion,Pune,England,8421.03,0.35,15-01-2025,No
+MER02498,Dining,Sydney,Odisha,384.69,0.74,15-02-2023,No
+MER02499,Fashion,Pune,Maharashtra,2787.55,0.68,09-10-2021,Yes
+MER02500,Healthcare,Pune,West Bengal,1192.48,0.06,10-06-2025,Yes
+MER02501,Fuel,Delhi,Delhi,4358.88,0.49,05-06-2023,No
+MER02502,Grocery,Sydney,Odisha,2626.46,0.03,28-03-2024,No
+MER02503,Utilities,Bengaluru,Karnataka,1752.22,0.48,04-03-2025,Yes
+MER02504,Fuel,Bengaluru,Karnataka,5651.38,0.03,28-03-2026,No
+MER02505,Fuel,Hyderabad,Telangana,4970.94,0.84,26-12-2024,No
+MER02506,Insurance,Bengaluru,Karnataka,207.51,0.57,18-02-2024,Yes
+MER02507,Education,London,England,527.84,0.21,22-08-2021,No
+MER02508,Travel,Kolkata,West Bengal,2354.31,0.11,06-02-2025,No
+MER02509,Travel,Pune,Goa,5197.98,0.74,09-11-2022,Yes
+MER02510,Automobile,Bengaluru,Karnataka,1225.4,0.55,23-06-2025,Yes
+MER02511,Electronics,Kolkata,West Bengal,178.12,0.27,21-11-2023,No
+MER02512,Entertainment,Pune,West Bengal,2161.71,0.17,25-01-2024,No
+MER02513,Healthcare,Pune,West Bengal,533.05,0.91,17-12-2024,Yes
+MER02514,Insurance,New York,Rajasthan,1707.36,0.77,03-03-2022,Yes
+MER02515,Electronics,Los Angeles,Manipur,1071.24,0.83,27-09-2023,Yes
+MER02516,Entertainment,Pune,Telangana,1733.01,0.87,07-09-2025,Yes
+MER02517,Insurance,Coimbatore,Tamil Nadu,5489.37,0.05,09-06-2022,No
+MER02518,Entertainment,Phoenix,Andhra Pradesh,1430.29,0.03,10-11-2024,No
+MER02519,Online Shopping,Kolkata,West Bengal,170.28,0.8,06-11-2023,No
+MER02520,Utilities,Phoenix,Andhra Pradesh,1839.38,0.45,16-10-2024,Yes
+MER02521,Fashion,Dubai,Dubai,888.3,0.99,18-08-2024,Yes
+MER02522,Fashion,Phoenix,Andhra Pradesh,100.07,0.58,12-01-2025,No
+MER02523,Jewelry,Pune,Delhi,1369.49,0.62,15-12-2021,Yes
+MER02524,Furniture,Tokyo,Nagaland,100.07,0.27,16-10-2023,Yes
+MER02525,Jewelry,Delhi,Delhi,4889.86,0.03,21-12-2022,Yes
+MER02526,Automobile,Tokyo,Nagaland,999.69,0.21,18-06-2022,Yes
+MER02527,Electronics,Chennai,Tamil Nadu,9189.64,0.2,11-05-2023,No
+MER02528,Fuel,Singapore,Singapore,424.6,0.01,03-12-2021,Yes
+MER02529,Fuel,London,England,2165.27,0.13,10-12-2024,Yes
+MER02530,Insurance,Chicago,Punjab,170.77,0.31,20-07-2021,No
+MER02531,Jewelry,Delhi,Delhi,579.2,0.32,19-03-2024,No
+MER02532,Fashion,Chicago,Punjab,2109.03,0.06,10-10-2021,Yes
+MER02533,Automobile,New York,Rajasthan,194.59,0.47,13-07-2022,No
+MER02534,Fuel,Bengaluru,Karnataka,314.7,0.99,08-10-2026,No
+MER02535,Education,Dubai,Dubai,787.83,0.74,24-03-2024,No
+MER02536,Dining,Manchester,England,1814.33,0.03,06-04-2024,No
+MER02537,Travel,Delhi,Delhi,132.22,0.85,24-07-2021,Yes
+MER02538,Furniture,Pune,Maharashtra,100.07,0.9,24-03-2023,Yes
+MER02539,Automobile,Coimbatore,Tamil Nadu,2065.63,0.83,27-02-2025,Yes
+MER02540,Travel,Vancouver,Goa,1130.08,0.87,10-02-2022,No
+MER02541,Fashion,Mumbai,Maharashtra,240.07,0.94,03-07-2025,No
+MER02542,Online Shopping,Sydney,Odisha,1987.71,0.52,19-11-2021,Yes
+MER02543,Fashion,Houston,Telangana,1961.97,0.01,27-08-2023,No
+MER02544,Insurance,Los Angeles,Manipur,1510.61,0.22,02-04-2021,Yes
+MER02545,Furniture,Chennai,Tamil Nadu,2462.76,0.41,06-02-2022,Yes
+MER02546,Online Shopping,Phoenix,Andhra Pradesh,565.89,0.03,26-03-2024,Yes
+MER02547,Travel,Houston,Telangana,2369.77,0.83,14-09-2022,No
+MER02548,Healthcare,Kolkata,West Bengal,100.07,0.62,19-06-2024,No
+MER02549,Online Shopping,Chennai,Tamil Nadu,1097.44,0.03,01-08-2024,No
+MER02550,Grocery,Sydney,Odisha,239.92,0.85,09-07-2021,No
+MER02551,Education,Houston,Telangana,3519.92,0.84,19-05-2026,No
+MER02552,Electronics,Phoenix,Andhra Pradesh,1645.39,0.77,20-02-2023,No
+MER02553,Travel,Tokyo,Nagaland,7184.32,0.89,12-02-2024,Yes
+MER02554,Dining,Pune,Maharashtra,5805.92,0.61,16-11-2022,Yes
+MER02555,Automobile,Pune,Dubai,13187.8,0.02,03-09-2021,Yes
+MER02556,Travel,Pune,Tamil Nadu,313.54,0.09,02-06-2025,Yes
+MER02557,Fashion,Chennai,Tamil Nadu,1965.76,0.08,25-07-2026,No
+MER02558,Grocery,Phoenix,Andhra Pradesh,1147.06,0.03,09-02-2022,Yes
+MER02559,Electronics,Mumbai,Maharashtra,1621.42,0.3,26-09-2021,Yes
+MER02560,Utilities,Los Angeles,Manipur,838.56,0.93,28-06-2026,No
+MER02561,Travel,Toronto,Ontario,198.53,0.8,19-09-2023,No
+MER02562,Insurance,Singapore,Singapore,2560.29,0.26,06-12-2026,Yes
+MER02563,Fashion,Kolkata,West Bengal,6852.06,0.6,23-06-2021,No
+MER02564,Grocery,Pune,Punjab,1620.21,0.11,11-05-2021,Yes
+MER02565,Entertainment,Chicago,Punjab,899.7,0.6,12-05-2021,Yes
+MER02566,Utilities,Chicago,Punjab,5670.24,0.09,07-10-2026,No
+MER02567,Travel,Houston,Telangana,1007.21,0.78,25-04-2026,No
+MER02568,Utilities,Chennai,Tamil Nadu,5019.16,0.04,10-12-2023,No
+MER02569,Electronics,Bengaluru,Karnataka,3971.59,0.66,29-07-2026,No
+MER02570,Automobile,Houston,Telangana,1604.57,0.55,06-07-2022,Yes
+MER02571,Utilities,Pune,West Bengal,2359.42,0.79,15-05-2024,No
+MER02572,Electronics,London,England,2510.06,0.92,27-03-2022,Yes
+MER02573,Automobile,Kolkata,West Bengal,2149.38,0.33,09-08-2024,No
+MER02574,Electronics,Phoenix,Andhra Pradesh,450.49,0.27,31-07-2023,No
+MER02575,Furniture,Coimbatore,Tamil Nadu,2460.36,0.92,27-10-2024,Yes
+MER02576,Furniture,Chennai,Tamil Nadu,106.45,0.45,09-09-2022,No
+MER02577,Utilities,Singapore,Singapore,100.07,0.22,13-04-2022,No
+MER02578,Fashion,Houston,Telangana,1718.63,0.4,16-03-2025,No
+MER02579,Fuel,Delhi,Delhi,701.56,1,19-02-2024,Yes
+MER02580,Jewelry,Chennai,Tamil Nadu,3356.88,0.83,24-03-2024,No
+MER02581,Healthcare,Coimbatore,Tamil Nadu,1139.33,0.03,27-01-2021,No
+MER02582,Dining,Melbourne,West Bengal,1430.2,0.7,13-09-2021,Yes
+MER02583,Entertainment,Houston,Telangana,156.13,0.94,19-10-2024,No
+MER02584,Electronics,Singapore,Singapore,1126.06,0.39,12-09-2024,No
+MER02585,Jewelry,Pune,Rajasthan,466.31,0.57,25-07-2023,Yes
+MER02586,Furniture,Delhi,Delhi,746.32,0.67,08-11-2024,No
+MER02587,Fuel,Mumbai,Maharashtra,681.08,0.79,04-01-2022,Yes
+MER02588,Jewelry,Kolkata,West Bengal,194.23,0.55,20-05-2026,No
+MER02589,Online Shopping,Los Angeles,Manipur,1334.2,0.03,06-05-2023,Yes
+MER02590,Dining,Houston,Telangana,1578.77,0.84,04-08-2023,Yes
+MER02591,Insurance,Pune,Telangana,1792.89,0.55,21-07-2023,No
+MER02592,Electronics,Vancouver,Goa,1340.61,0.54,24-02-2021,No
+MER02593,Dining,London,England,4173.18,0.83,18-06-2024,Yes
+MER02594,Fashion,Kolkata,West Bengal,176.82,0.84,03-05-2025,Yes
+MER02595,Utilities,Chicago,Punjab,2002.84,0.39,04-01-2024,No
+MER02596,Electronics,Vancouver,Goa,4121.8,0.03,29-12-2022,No
+MER02597,Fuel,Coimbatore,Tamil Nadu,183.81,0.64,06-09-2021,No
+MER02598,Fashion,Mumbai,Maharashtra,1471.58,0.91,06-10-2023,No
+MER02599,Furniture,New York,Rajasthan,1878.46,0.2,08-07-2021,No
+MER02600,Insurance,Bengaluru,Karnataka,523.68,0.52,05-10-2025,Yes
+MER02601,Grocery,Chicago,Punjab,682.04,0.91,23-01-2022,Yes
+MER02602,Entertainment,Mumbai,Maharashtra,3179.76,0.68,04-01-2026,No
+MER02603,Electronics,Vancouver,Goa,1775.87,0.95,20-05-2022,Yes
+MER02604,Utilities,Manchester,England,100.07,0.05,02-06-2025,No
+MER02605,Dining,Kolkata,West Bengal,2994.26,0.03,16-05-2026,Yes
+MER02606,Jewelry,Chennai,Tamil Nadu,2846.48,0.98,15-06-2022,No
+MER02607,Automobile,Phoenix,Andhra Pradesh,947.47,0.88,17-05-2022,No
+MER02608,Fashion,Manchester,England,1441.39,0.44,27-04-2021,Yes
+MER02609,Dining,Sydney,Odisha,2284.38,0.3,31-01-2021,No
+MER02610,Travel,Chicago,Punjab,940.9,0.45,28-11-2023,No
+MER02611,Fashion,New York,Rajasthan,2083.16,0.11,16-05-2023,Yes
+MER02612,Furniture,Houston,Telangana,678.23,0.11,10-11-2023,No
+MER02613,Education,Coimbatore,Tamil Nadu,790.68,0.31,05-03-2023,No
+MER02614,Insurance,Mumbai,Maharashtra,844.08,0.02,19-10-2025,No
+MER02615,Electronics,Pune,Maharashtra,5599.46,0.02,10-08-2026,Yes
+MER02616,Dining,Manchester,England,3687.59,0.93,21-04-2025,No
+MER02617,Fuel,Melbourne,West Bengal,1765.58,0.6,03-06-2024,No
+MER02618,Utilities,Kolkata,West Bengal,1759.64,0.14,02-02-2024,Yes
+MER02619,Grocery,Singapore,Singapore,215.57,0.03,18-06-2024,No
+MER02620,Online Shopping,Manchester,England,2196.84,0.84,19-02-2025,Yes
+MER02621,Electronics,Chicago,Punjab,895.35,0.45,31-07-2023,Yes
+MER02622,Entertainment,Mumbai,Maharashtra,1995.04,0.03,23-09-2024,No
+MER02623,Healthcare,New York,Rajasthan,3768.09,0.7,25-07-2026,No
+MER02624,Fuel,Pune,Andhra Pradesh,193.13,0.03,05-02-2021,No
+MER02625,Entertainment,Chennai,Tamil Nadu,1968.21,0.69,27-06-2023,No
+MER02626,Online Shopping,Kolkata,West Bengal,1761.15,0.08,09-01-2026,No
+MER02627,Dining,Pune,Andhra Pradesh,563.28,0.98,22-02-2025,Yes
+MER02628,Furniture,Bengaluru,Karnataka,2179.36,0.48,24-01-2026,No
+MER02629,Dining,Pune,Maharashtra,1718.62,0.89,15-08-2024,No
+MER02630,Dining,Los Angeles,Manipur,3016.18,0.99,09-01-2023,No
+MER02631,Online Shopping,Toronto,Ontario,334.46,0.03,16-08-2025,No
+MER02632,Online Shopping,Delhi,Delhi,1272.56,0.03,29-12-2023,No
+MER02633,Fashion,Coimbatore,Tamil Nadu,12463.25,0.01,09-01-2021,No
+MER02634,Education,Hyderabad,Telangana,2437.73,0.03,06-06-2025,Yes
+MER02635,Fashion,Kolkata,West Bengal,2405.91,0.6,26-02-2025,No
+MER02636,Utilities,Pune,England,865.07,0.74,09-07-2021,No
+MER02637,Online Shopping,Chennai,Tamil Nadu,297.18,0.68,28-05-2025,No
+MER02638,Fashion,Bengaluru,Karnataka,6071.34,0.65,25-09-2023,Yes
+MER02639,Fashion,Houston,Telangana,322.92,0.88,09-01-2021,No
+MER02640,Fuel,New York,Rajasthan,9941.49,0.87,07-09-2025,No
+MER02641,Insurance,Tokyo,Nagaland,368.85,0.84,31-07-2021,No
+MER02642,Insurance,Hyderabad,Telangana,474.85,0.39,14-08-2026,No
+MER02643,Entertainment,Sydney,Odisha,837.4,0.1,04-12-2023,No
+MER02644,Furniture,London,England,1536.42,0.9,10-03-2025,No
+MER02645,Automobile,Kolkata,West Bengal,3225.12,0.58,27-04-2021,No
+MER02646,Education,Chicago,Punjab,100.07,0.62,05-03-2026,No
+MER02647,Travel,Pune,Maharashtra,988.91,0.03,06-12-2025,No
+MER02648,Insurance,Los Angeles,Manipur,100.07,0.23,09-09-2022,No
+MER02649,Furniture,Dubai,Dubai,2017.77,0.08,30-08-2022,No
+MER02650,Utilities,Manchester,England,2581.2,0.21,01-01-2026,No
+MER02651,Travel,Phoenix,Andhra Pradesh,1113.15,0.32,02-06-2024,No
+MER02652,Fashion,Dubai,Dubai,505.4,0.02,10-09-2025,Yes
+MER02653,Insurance,Chennai,Tamil Nadu,830.61,0.25,11-10-2022,No
+MER02654,Insurance,Pune,Maharashtra,2233.06,0.44,25-09-2021,No
+MER02655,Jewelry,London,England,1463.16,0.59,07-07-2024,Yes
+MER02656,Fuel,Phoenix,Andhra Pradesh,2820.66,0.03,07-02-2024,Yes
+MER02657,Grocery,London,England,592.24,0.15,18-02-2024,Yes
+MER02658,Grocery,Pune,Maharashtra,3790.14,0.27,20-02-2022,No
+MER02659,Travel,Toronto,Ontario,438.93,0.84,17-01-2021,No
+MER02660,Dining,Tokyo,Nagaland,900.7,0.03,16-07-2022,No
+MER02661,Grocery,Los Angeles,Manipur,1889.1,0.03,09-06-2024,No
+MER02662,Fuel,Chicago,Punjab,2770.16,0.27,07-09-2022,No
+MER02663,Electronics,Pune,England,718.99,0.41,08-08-2022,No
+MER02664,Education,Hyderabad,Telangana,6017.63,0.34,16-04-2023,No
+MER02665,Fuel,Mumbai,Maharashtra,2549.11,0.63,26-08-2024,No
+MER02666,Education,Toronto,Ontario,590.97,0.26,22-08-2024,No
+MER02667,Utilities,Mumbai,Maharashtra,2687.54,0.03,14-05-2023,Yes
+MER02668,Automobile,London,England,2483.65,0.03,28-08-2021,No
+MER02669,Automobile,Mumbai,Maharashtra,2894.18,0.79,17-09-2025,Yes
+MER02670,Utilities,Hyderabad,Telangana,5051.04,0.05,26-12-2024,No
+MER02671,Healthcare,Delhi,Delhi,2587.63,0.76,14-09-2023,No
+MER02672,Fuel,Mumbai,Maharashtra,967.45,0.65,24-09-2021,Yes
+MER02673,Jewelry,Los Angeles,Manipur,3226.23,0.41,28-03-2024,No
+MER02674,Dining,Pune,Delhi,100.07,0.35,25-07-2025,No
+MER02675,Furniture,Vancouver,Goa,1807.85,0.29,22-09-2021,Yes
+MER02676,Insurance,Pune,Punjab,973.39,0.45,11-09-2023,No
+MER02677,Jewelry,Tokyo,Nagaland,5177.86,0.55,04-12-2023,No
+MER02678,Travel,New York,Rajasthan,1537.98,0.82,23-01-2022,No
+MER02679,Online Shopping,Vancouver,Goa,2078.28,0.2,29-12-2021,No
+MER02680,Fashion,Kolkata,West Bengal,1173.53,0.78,05-12-2023,No
+MER02681,Online Shopping,Manchester,England,3135.68,0.26,25-01-2021,No
+MER02682,Fuel,Toronto,Ontario,934.18,0.03,01-11-2022,No
+MER02683,Travel,Sydney,Odisha,3428.15,0.85,06-04-2025,Yes
+MER02684,Automobile,Los Angeles,Manipur,328.45,0.1,15-07-2025,No
+MER02685,Automobile,Houston,Telangana,2568.6,0.88,20-12-2022,No
+MER02686,Fuel,Phoenix,Andhra Pradesh,1395.9,0.54,15-01-2024,Yes
+MER02687,Healthcare,Pune,Maharashtra,2499.65,0.64,24-01-2022,No
+MER02688,Automobile,Vancouver,Goa,1615.99,0.11,07-11-2025,No
+MER02689,Utilities,Pune,Rajasthan,388.45,0.81,25-05-2024,Yes
+MER02690,Entertainment,Chicago,Punjab,1396.32,0.61,03-12-2021,Yes
+MER02691,Jewelry,Tokyo,Nagaland,6779.77,0.67,07-05-2023,No
+MER02692,Utilities,London,England,2911.69,0.89,16-04-2021,Yes
+MER02693,Dining,Dubai,Dubai,813.89,0.43,30-06-2023,No
+MER02694,Insurance,Dubai,Dubai,5868.89,0.05,13-07-2026,No
+MER02695,Automobile,Tokyo,Nagaland,3118.7,0.59,04-04-2023,No
+MER02696,Dining,Bengaluru,Karnataka,1006.52,0.03,17-02-2025,No
+MER02697,Travel,Manchester,England,100.07,0.54,12-02-2021,Yes
+MER02698,Insurance,Pune,Maharashtra,1212.64,0.01,29-11-2021,Yes
+MER02699,Utilities,Mumbai,Maharashtra,303.38,0.31,16-04-2021,No
+MER02700,Fashion,Mumbai,Maharashtra,3380.1,0.05,13-01-2023,No
+MER02701,Dining,Singapore,Singapore,524.11,0.47,14-03-2024,Yes
+MER02702,Online Shopping,Singapore,Singapore,1325.12,0.58,18-05-2025,Yes
+MER02703,Fuel,Mumbai,Maharashtra,2525.61,0.69,22-08-2025,No
+MER02704,Fuel,Kolkata,West Bengal,5482.79,0.44,21-10-2025,No
+MER02705,Entertainment,Pune,Maharashtra,229.56,0.53,04-12-2022,Yes
+MER02706,Grocery,Dubai,Dubai,1099.22,0.13,01-06-2025,Yes
+MER02707,Online Shopping,Chicago,Punjab,2007.19,0.94,10-12-2021,No
+MER02708,Fashion,Toronto,Ontario,3121.99,0.57,28-03-2021,No
+MER02709,Education,Dubai,Dubai,5174.87,0.2,04-04-2023,Yes
+MER02710,Entertainment,Delhi,Delhi,100.99,0.03,13-02-2024,No
+MER02711,Jewelry,Los Angeles,Manipur,2076.45,0.43,19-01-2021,No
+MER02712,Utilities,London,England,100.07,0.32,10-06-2025,Yes
+MER02713,Fuel,Melbourne,West Bengal,3195.32,0.8,07-09-2021,No
+MER02714,Electronics,Toronto,Ontario,424.25,0.83,16-02-2026,No
+MER02715,Healthcare,Mumbai,Maharashtra,4600.38,0.03,15-03-2025,No
+MER02716,Online Shopping,Houston,Telangana,437.13,0.54,08-04-2023,No
+MER02717,Education,Chennai,Tamil Nadu,2990.64,0.34,25-05-2021,Yes
+MER02718,Grocery,Bengaluru,Karnataka,783.02,0.38,09-03-2024,No
+MER02719,Electronics,Houston,Telangana,1729.52,0.36,14-08-2024,No
+MER02720,Fuel,Kolkata,West Bengal,1975.2,0.92,02-05-2022,No
+MER02721,Fuel,New York,Rajasthan,563.26,0.01,29-12-2021,Yes
+MER02722,Online Shopping,Hyderabad,Telangana,809.63,0.7,18-06-2023,No
+MER02723,Grocery,Singapore,Singapore,327.47,0.6,06-05-2022,Yes
+MER02724,Furniture,Delhi,Delhi,110.61,0.02,08-12-2022,No
+MER02725,Entertainment,London,England,647.47,0.95,25-12-2022,No
+MER02726,Automobile,Coimbatore,Tamil Nadu,1551.35,0.39,10-12-2021,No
+MER02727,Entertainment,London,England,2600.71,0.04,14-06-2021,Yes
+MER02728,Healthcare,Mumbai,Maharashtra,3255.49,0.08,27-06-2022,Yes
+MER02729,Online Shopping,Pune,Maharashtra,244.64,0.06,24-01-2025,No
+MER02730,Fashion,Toronto,Ontario,736.04,0.87,19-05-2021,No
+MER02731,Dining,Bengaluru,Karnataka,3041.3,0.75,15-09-2024,Yes
+MER02732,Fashion,Mumbai,Maharashtra,1411.2,0.85,31-01-2023,No
+MER02733,Utilities,Pune,Telangana,502.24,0.95,06-08-2026,No
+MER02734,Healthcare,Singapore,Singapore,1095.86,0.94,02-01-2024,No
+MER02735,Automobile,Pune,England,729.52,0.03,26-03-2024,No
+MER02736,Fashion,Pune,Goa,203.96,0.85,12-01-2024,Yes
+MER02737,Education,Melbourne,West Bengal,2984.69,0.54,07-09-2023,No
+MER02738,Electronics,Delhi,Delhi,789.76,0.35,18-05-2024,No
+MER02739,Travel,Vancouver,Goa,5905.63,0.82,16-09-2023,No
+MER02740,Fuel,Toronto,Ontario,4480.75,0.42,21-07-2023,No
+MER02741,Online Shopping,Pune,Telangana,2619.52,0.06,15-09-2023,No
+MER02742,Dining,Singapore,Singapore,890.93,0.12,23-05-2025,No
+MER02743,Fuel,Sydney,Odisha,756.8,0.6,09-06-2022,No
+MER02744,Fashion,Houston,Telangana,100.07,0.42,02-01-2022,No
+MER02745,Grocery,Singapore,Singapore,100.07,0.64,24-04-2026,Yes
+MER02746,Insurance,Pune,Maharashtra,4728.47,0.2,10-11-2023,No
+MER02747,Travel,Hyderabad,Telangana,363.63,0.77,11-10-2023,No
+MER02748,Utilities,Coimbatore,Tamil Nadu,2678.1,0.67,01-03-2026,Yes
+MER02749,Dining,Sydney,Odisha,1987.82,0,16-03-2021,No
+MER02750,Furniture,Vancouver,Goa,3382.9,0.83,15-01-2026,No
+MER02751,Furniture,Singapore,Singapore,1663.9,0.04,10-08-2026,No
+MER02752,Dining,Pune,Nagaland,2086.02,0.42,21-12-2023,Yes
+MER02753,Online Shopping,Vancouver,Goa,6679.7,0.2,12-10-2023,Yes
+MER02754,Insurance,Dubai,Dubai,292.94,0.26,03-12-2021,No
+MER02755,Fashion,Chennai,Tamil Nadu,321.56,0.2,07-04-2024,Yes
+MER02756,Education,Sydney,Odisha,1100.46,0.65,23-04-2026,Yes
+MER02757,Healthcare,Toronto,Ontario,1380.1,0.36,26-05-2026,No
+MER02758,Utilities,Phoenix,Andhra Pradesh,545.97,0.48,16-03-2026,No
+MER02759,Fashion,Vancouver,Goa,272.57,0.03,08-01-2023,No
+MER02760,Entertainment,Coimbatore,Tamil Nadu,144.85,0.23,04-05-2022,No
+MER02761,Education,Dubai,Dubai,2992.87,0.1,25-03-2023,Yes
+MER02762,Utilities,Coimbatore,Tamil Nadu,1427.4,0.85,21-02-2022,No
+MER02763,Automobile,Houston,Telangana,3808.16,0.77,31-03-2021,No
+MER02764,Automobile,Melbourne,West Bengal,995.19,0.98,09-07-2022,No
+MER02765,Online Shopping,London,England,2531.05,0.03,02-04-2021,No
+MER02766,Healthcare,Bengaluru,Karnataka,1440.9,0.03,31-08-2022,No
+MER02767,Travel,Pune,Ontario,1993.86,0.04,18-10-2021,No
+MER02768,Jewelry,London,England,1024.7,0.43,04-11-2026,Yes
+MER02769,Education,Pune,Maharashtra,269.31,0.89,22-10-2024,No
+MER02770,Travel,Toronto,Ontario,5989.07,0.02,05-08-2021,No
+MER02771,Dining,Coimbatore,Tamil Nadu,100.07,0.9,03-06-2025,No
+MER02772,Education,Dubai,Dubai,847.62,0.57,17-06-2026,Yes
+MER02773,Automobile,Toronto,Ontario,6473.93,0.2,08-11-2021,No
+MER02774,Electronics,Coimbatore,Tamil Nadu,814.75,0.67,14-08-2026,No
+MER02775,Grocery,Sydney,Odisha,1270.34,0.9,13-04-2023,Yes
+MER02776,Grocery,London,England,100.07,0.4,28-05-2022,No
+MER02777,Electronics,Tokyo,Nagaland,839.24,0.44,27-03-2025,Yes
+MER02778,Fuel,Pune,West Bengal,884.63,0.99,02-07-2023,Yes
+MER02779,Dining,Mumbai,Maharashtra,1155.54,0.11,07-08-2025,Yes
+MER02780,Utilities,Pune,Maharashtra,100.07,0.45,05-11-2022,No
+MER02781,Utilities,Los Angeles,Manipur,363.9,0.6,19-08-2021,No
+MER02782,Dining,Kolkata,West Bengal,135.29,0.03,11-12-2021,Yes
+MER02783,Education,Vancouver,Goa,5130.5,0.76,06-09-2021,Yes
+MER02784,Dining,Pune,Odisha,971.4,1,24-08-2025,No
+MER02785,Furniture,Tokyo,Nagaland,314.48,0.11,04-02-2023,No
+MER02786,Education,Tokyo,Nagaland,2947.34,0.51,09-11-2021,Yes
+MER02787,Dining,Hyderabad,Telangana,799.29,0.94,21-02-2021,Yes
+MER02788,Grocery,Pune,Maharashtra,500.96,0.11,22-10-2022,No
+MER02789,Travel,Pune,Maharashtra,6672.76,0.03,22-10-2025,Yes
+MER02790,Healthcare,Tokyo,Nagaland,5165.08,0.65,01-05-2026,No
+MER02791,Fashion,Coimbatore,Tamil Nadu,323.53,0.15,01-03-2024,Yes
+MER02792,Fashion,Bengaluru,Karnataka,4690.93,0.46,09-02-2024,No
+MER02793,Jewelry,Melbourne,West Bengal,4530.39,0.91,11-07-2024,Yes
+MER02794,Utilities,Toronto,Ontario,100.07,0.54,09-03-2026,Yes
+MER02795,Online Shopping,Los Angeles,Manipur,1608.93,0.67,07-10-2022,No
+MER02796,Jewelry,Mumbai,Maharashtra,590.37,0.39,19-05-2022,No
+MER02797,Grocery,Hyderabad,Telangana,358.82,0.42,10-07-2021,Yes
+MER02798,Automobile,Pune,Punjab,1964.68,0.58,17-08-2022,No
+MER02799,Fashion,Singapore,Singapore,3551.46,0.39,23-05-2021,Yes
+MER02800,Dining,New York,Rajasthan,2433.64,0.33,05-09-2024,No
+MER02801,Education,Mumbai,Maharashtra,498.86,0.06,18-05-2026,No
+MER02802,Healthcare,Manchester,England,785.03,0.03,13-08-2023,No
+MER02803,Insurance,New York,Rajasthan,1681.16,0.11,23-02-2021,Yes
+MER02804,Fashion,Pune,Maharashtra,2061.62,0.57,20-06-2023,No
+MER02805,Utilities,Sydney,Odisha,249.99,0.32,06-12-2022,No
+MER02806,Jewelry,Melbourne,West Bengal,2004.1,0.81,20-05-2021,No
+MER02807,Dining,Vancouver,Goa,2766.03,0.11,24-02-2023,No
+MER02808,Online Shopping,Manchester,England,500.22,0.93,25-12-2023,No
+MER02809,Fashion,London,England,665.31,0.79,30-01-2023,Yes
+MER02810,Fashion,Toronto,Ontario,100.07,0.74,16-05-2024,No
+MER02811,Dining,Coimbatore,Tamil Nadu,100.07,0.37,29-06-2026,Yes
+MER02812,Grocery,New York,Rajasthan,1145.18,0.32,14-09-2024,No
+MER02813,Dining,London,England,1612.48,0.43,03-06-2026,Yes
+MER02814,Utilities,Vancouver,Goa,2676.99,0.39,16-02-2026,No
+MER02815,Grocery,Chennai,Tamil Nadu,1028.71,0.98,18-10-2021,Yes
+MER02816,Automobile,Hyderabad,Telangana,323.1,0.07,09-06-2025,No
+MER02817,Electronics,Singapore,Singapore,2224.49,0.25,18-10-2024,No
+MER02818,Education,Manchester,England,2300.87,0.03,22-05-2022,No
+MER02819,Furniture,Pune,Maharashtra,703.69,0.5,27-09-2023,No
+MER02820,Travel,Phoenix,Andhra Pradesh,171.73,0.59,20-02-2022,Yes
+MER02821,Fashion,Vancouver,Goa,2289.36,0.45,05-06-2026,Yes
+MER02822,Education,Singapore,Singapore,2530.91,0.86,14-01-2021,No
+MER02823,Dining,Coimbatore,Tamil Nadu,152.82,0.83,08-02-2023,No
+MER02824,Utilities,Melbourne,West Bengal,2463.01,0.26,09-08-2024,No
+MER02825,Education,Melbourne,West Bengal,5691.42,0.82,21-05-2025,No
+MER02826,Electronics,Sydney,Odisha,493.94,0.98,08-12-2023,No
+MER02827,Travel,New York,Rajasthan,1573.46,0.69,30-03-2025,No
+MER02828,Travel,Melbourne,West Bengal,2486.57,0.8,12-10-2021,Yes
+MER02829,Education,Pune,West Bengal,622.94,0.34,17-08-2026,Yes
+MER02830,Furniture,Tokyo,Nagaland,2885.02,0.17,04-12-2021,No
+MER02831,Jewelry,Tokyo,Nagaland,4151.25,0.65,28-04-2023,No
+MER02832,Utilities,London,England,3469.95,0.23,24-03-2021,No
+MER02833,Education,Pune,Maharashtra,699.24,0.33,05-05-2022,Yes
+MER02834,Automobile,Hyderabad,Telangana,3361.49,0.34,06-04-2025,Yes
+MER02835,Grocery,Los Angeles,Manipur,1166.63,0.59,24-03-2021,No
+MER02836,Grocery,Bengaluru,Karnataka,719.76,0.7,14-08-2026,No
+MER02837,Fashion,Toronto,Ontario,467.78,0.54,29-03-2022,Yes
+MER02838,Online Shopping,Singapore,Singapore,100.07,0.04,28-04-2025,No
+MER02839,Jewelry,Toronto,Ontario,1213.38,0.7,07-06-2022,No
+MER02840,Healthcare,Tokyo,Nagaland,4115.82,0.01,08-03-2021,No
+MER02841,Automobile,Pune,Maharashtra,100.07,0.85,22-12-2021,No
+MER02842,Travel,Sydney,Odisha,100.07,0,16-06-2023,No
+MER02843,Insurance,Vancouver,Goa,333.1,0.6,23-06-2022,Yes
+MER02844,Electronics,Mumbai,Maharashtra,135.44,0.36,28-06-2025,No
+MER02845,Online Shopping,Hyderabad,Telangana,10716.46,0.33,07-07-2023,No
+MER02846,Online Shopping,Coimbatore,Tamil Nadu,252.76,0.03,06-06-2021,No
+MER02847,Education,Coimbatore,Tamil Nadu,1338.09,0.28,01-06-2025,Yes
+MER02848,Grocery,Dubai,Dubai,4313.8,0.9,11-07-2025,No
+MER02849,Dining,Vancouver,Goa,100.07,0.64,30-01-2021,Yes
+MER02850,Entertainment,Pune,West Bengal,1374.2,0.69,10-08-2026,No
+MER02851,Utilities,Dubai,Dubai,1987.57,0.01,22-10-2021,No
+MER02852,Travel,Chicago,Punjab,2086.92,0.88,27-03-2023,No
+MER02853,Utilities,Sydney,Odisha,332.67,0.74,04-11-2023,Yes
+MER02854,Grocery,Vancouver,Goa,770.68,0.62,05-08-2023,No
+MER02855,Furniture,Singapore,Singapore,816.16,0.27,23-02-2025,No
+MER02856,Healthcare,Los Angeles,Manipur,1050.04,0.03,15-02-2022,No
+MER02857,Entertainment,Delhi,Delhi,740.18,0.27,29-06-2022,No
+MER02858,Fashion,Chicago,Punjab,679.36,0.75,11-08-2022,No
+MER02859,Furniture,London,England,976.34,0.47,15-07-2026,No
+MER02860,Electronics,Vancouver,Goa,1053.58,0,25-12-2021,No
+MER02861,Insurance,Sydney,Odisha,1435.83,1,27-02-2025,Yes
+MER02862,Electronics,Los Angeles,Manipur,481.2,0.03,13-07-2025,Yes
+MER02863,Fashion,Sydney,Odisha,3205.52,0.03,06-09-2021,No
+MER02864,Utilities,Chennai,Tamil Nadu,4041.79,0.53,13-05-2023,No
+MER02865,Fuel,Los Angeles,Manipur,670.48,0.44,25-05-2026,No
+MER02866,Dining,New York,Rajasthan,363.18,0.36,07-12-2021,No
+MER02867,Education,Chicago,Punjab,2662.51,0.99,27-03-2025,No
+MER02868,Education,Manchester,England,5260.5,0.31,17-08-2022,No
+MER02869,Education,Melbourne,West Bengal,171.56,0.3,16-06-2026,Yes
+MER02870,Grocery,Chicago,Punjab,129.08,0.35,25-09-2023,No
+MER02871,Furniture,New York,Rajasthan,505.27,0.99,26-08-2021,No
+MER02872,Fashion,New York,Rajasthan,2409.05,0.71,13-04-2021,No
+MER02873,Insurance,Mumbai,Maharashtra,6792.34,0.4,10-07-2023,No
+MER02874,Healthcare,Sydney,Odisha,2875.64,0.03,24-01-2026,Yes
+MER02875,Utilities,Tokyo,Nagaland,1802.1,0.07,07-01-2024,No
+MER02876,Insurance,Dubai,Dubai,2511.61,0.03,12-06-2023,Yes
+MER02877,Online Shopping,Los Angeles,Manipur,624.54,0.33,10-11-2025,Yes
+MER02878,Furniture,Pune,Maharashtra,2433.05,0.03,07-04-2022,Yes
+MER02879,Furniture,Chicago,Punjab,875.58,0.62,23-02-2021,No
+MER02880,Travel,Delhi,Delhi,603.14,0.95,28-02-2024,Yes
+MER02881,Furniture,Los Angeles,Manipur,639.83,0.97,21-03-2025,Yes
+MER02882,Fashion,Delhi,Delhi,2303.96,0.06,25-07-2026,No
+MER02883,Healthcare,London,England,3015.37,0.12,01-12-2023,No
+MER02884,Automobile,Delhi,Delhi,1843.6,0.62,07-10-2021,No
+MER02885,Fashion,Chicago,Punjab,231.97,0.77,07-05-2021,No
+MER02886,Automobile,Dubai,Dubai,177.5,0.82,27-10-2023,Yes
+MER02887,Grocery,Toronto,Ontario,589.67,0.39,18-03-2023,No
+MER02888,Utilities,Tokyo,Nagaland,775.06,0.41,12-02-2024,Yes
+MER02889,Furniture,London,England,1137.78,0.09,29-06-2025,No
+MER02890,Electronics,London,England,258.15,0.06,12-04-2025,Yes
+MER02891,Jewelry,Pune,West Bengal,2683.12,0.12,20-11-2025,No
+MER02892,Fashion,Houston,Telangana,2586.11,0.14,02-08-2022,No
+MER02893,Furniture,Kolkata,West Bengal,951.37,0.03,31-12-2025,No
+MER02894,Healthcare,London,England,1755.66,0.1,29-08-2024,Yes
+MER02895,Automobile,Pune,Maharashtra,312.76,0.5,25-05-2026,No
+MER02896,Grocery,Pune,West Bengal,1173.03,0.39,27-10-2023,No
+MER02897,Jewelry,Dubai,Dubai,3997.74,0.84,17-10-2023,Yes
+MER02898,Jewelry,Phoenix,Andhra Pradesh,2261.28,0.05,28-02-2024,No
+MER02899,Online Shopping,Pune,England,319.5,0.03,16-08-2026,No
+MER02900,Education,Tokyo,Nagaland,3862.2,0.29,12-04-2022,No
+MER02901,Healthcare,Hyderabad,Telangana,2383.22,0.81,10-10-2021,Yes
+MER02902,Utilities,Pune,Maharashtra,1306.82,0.59,03-05-2025,Yes
+MER02903,Furniture,Chennai,Tamil Nadu,2455.9,0.18,18-08-2023,No
+MER02904,Education,Delhi,Delhi,479.47,0.12,12-04-2025,No
+MER02905,Utilities,Chennai,Tamil Nadu,1699.18,0.8,05-11-2021,No
+MER02906,Utilities,Hyderabad,Telangana,2024.29,0.37,08-06-2025,No
+MER02907,Healthcare,Chennai,Tamil Nadu,5355.1,0.54,25-09-2022,No
+MER02908,Education,Chennai,Tamil Nadu,238.47,0.88,13-01-2025,No
+MER02909,Healthcare,Toronto,Ontario,1039.31,0.59,08-06-2023,Yes
+MER02910,Insurance,Chicago,Punjab,5623.37,0.14,23-12-2021,Yes
+MER02911,Entertainment,London,England,589.81,0.4,19-06-2026,No
+MER02912,Utilities,Manchester,England,3455.44,0.91,05-08-2025,No
+MER02913,Fuel,Melbourne,West Bengal,103.21,0.22,19-04-2022,No
+MER02914,Furniture,Dubai,Dubai,152.45,0.65,23-04-2023,No
+MER02915,Education,Phoenix,Andhra Pradesh,893.87,0.09,11-02-2023,No
+MER02916,Electronics,Hyderabad,Telangana,3026.38,0.62,14-09-2021,Yes
+MER02917,Fashion,Tokyo,Nagaland,319.95,0.91,30-10-2023,No
+MER02918,Furniture,Vancouver,Goa,1065.3,0.67,30-01-2022,No
+MER02919,Dining,Pune,Maharashtra,381.9,0.84,03-04-2023,No
+MER02920,Utilities,Mumbai,Maharashtra,100.07,0.63,01-03-2026,No
+MER02921,Grocery,Hyderabad,Telangana,1498.31,0.35,03-12-2024,No
+MER02922,Furniture,Manchester,England,868.79,0.5,17-09-2024,Yes
+MER02923,Travel,Melbourne,West Bengal,100.07,0.23,29-12-2023,No
+MER02924,Jewelry,Mumbai,Maharashtra,1100.09,0.85,27-03-2021,No
+MER02925,Utilities,Hyderabad,Telangana,2514.99,0.03,10-01-2022,No
+MER02926,Travel,Pune,Maharashtra,354.34,0.43,08-12-2021,Yes
+MER02927,Electronics,Kolkata,West Bengal,1406.29,0.82,11-03-2022,Yes
+MER02928,Utilities,Melbourne,West Bengal,742.39,0.17,25-08-2023,No
+MER02929,Fuel,Melbourne,West Bengal,1051.63,0.7,18-02-2022,No
+MER02930,Utilities,Sydney,Odisha,3546.95,0.23,27-08-2021,Yes
+MER02931,Grocery,Vancouver,Goa,5410.82,0.03,09-10-2021,No
+MER02932,Grocery,Hyderabad,Telangana,656.73,0.84,08-10-2024,No
+MER02933,Online Shopping,Los Angeles,Manipur,100.07,0.95,06-05-2026,No
+MER02934,Fashion,Pune,Maharashtra,2358.21,0.05,25-02-2021,Yes
+MER02935,Entertainment,Bengaluru,Karnataka,3796.48,0.52,15-03-2022,Yes
+MER02936,Electronics,Sydney,Odisha,4686.11,0.04,24-09-2025,No
+MER02937,Fashion,Kolkata,West Bengal,1362.19,0.45,02-08-2022,Yes
+MER02938,Utilities,Dubai,Dubai,8199.77,0.76,05-08-2026,No
+MER02939,Fashion,Coimbatore,Tamil Nadu,100.07,0.96,16-05-2026,No
+MER02940,Insurance,Dubai,Dubai,1512.34,0.21,14-09-2024,No
+MER02941,Furniture,Pune,Rajasthan,1661.91,0.21,29-04-2024,No
+MER02942,Grocery,Toronto,Ontario,2303.73,0.76,18-05-2026,Yes
+MER02943,Fashion,Manchester,England,1036.22,0.75,09-11-2021,No
+MER02944,Healthcare,Vancouver,Goa,2269.68,0.87,12-11-2023,Yes
+MER02945,Insurance,Chennai,Tamil Nadu,1544.27,0.91,02-04-2024,No
+MER02946,Dining,Pune,Odisha,172.16,0.91,28-09-2024,Yes
+MER02947,Dining,Mumbai,Maharashtra,3930.96,0.51,13-08-2021,No
+MER02948,Utilities,Singapore,Singapore,5741.74,0.95,28-02-2021,No
+MER02949,Fashion,Dubai,Dubai,153.16,0.03,13-10-2025,No
+MER02950,Grocery,Chicago,Punjab,3214.28,0.37,21-05-2025,No
+MER02951,Fuel,New York,Rajasthan,1074.91,0.51,25-08-2024,Yes
+MER02952,Fashion,Tokyo,Nagaland,1862,0.44,17-09-2025,Yes
+MER02953,Education,Hyderabad,Telangana,1486.27,0.75,17-08-2026,No
+MER02954,Travel,Pune,Maharashtra,1702.85,0.92,08-12-2026,Yes
+MER02955,Education,Toronto,Ontario,1467.13,0.79,02-07-2022,No
+MER02956,Grocery,London,England,3939.76,0.6,05-05-2023,Yes
+MER02957,Travel,Pune,England,100.07,0.73,17-07-2022,No
+MER02958,Fuel,Chennai,Tamil Nadu,1164.23,0.56,17-12-2025,No
+MER02959,Dining,New York,Rajasthan,2433.15,0.97,11-12-2021,No
+MER02960,Automobile,Melbourne,West Bengal,6807.55,0.27,06-03-2023,Yes
+MER02961,Fuel,Tokyo,Nagaland,267.43,0.08,07-01-2025,No
+MER02962,Healthcare,Hyderabad,Telangana,1082.34,0.01,03-07-2026,Yes
+MER02963,Education,Dubai,Dubai,4187.44,0,16-11-2021,No
+MER02964,Utilities,Dubai,Dubai,100.07,0.88,12-10-2024,No
+MER02965,Dining,Pune,Goa,5564.55,0.99,07-01-2023,Yes
+MER02966,Entertainment,Delhi,Delhi,181.25,0.25,22-05-2026,No
+MER02967,Electronics,Coimbatore,Tamil Nadu,4072.28,0.04,31-01-2024,No
+MER02968,Travel,Phoenix,Andhra Pradesh,3238.5,0.32,17-08-2022,Yes
+MER02969,Fashion,Vancouver,Goa,3475.22,0.54,30-09-2025,Yes
+MER02970,Fashion,Chennai,Tamil Nadu,1918.94,0.64,25-04-2021,Yes
+MER02971,Fashion,Pune,Nagaland,206.63,0.51,02-02-2023,No
+MER02972,Electronics,Singapore,Singapore,1649.28,0.48,30-01-2024,No
+MER02973,Entertainment,Chicago,Punjab,1147.66,0.84,23-06-2026,No
+MER02974,Utilities,New York,Rajasthan,100.07,0.24,30-05-2023,No
+MER02975,Automobile,Pune,Tamil Nadu,2796.43,0.9,30-01-2023,No
+MER02976,Fashion,Kolkata,West Bengal,1912.49,0.06,30-07-2024,Yes
+MER02977,Grocery,Melbourne,West Bengal,792.21,0.03,21-11-2021,Yes
+MER02978,Fuel,Chennai,Tamil Nadu,1930.12,0.44,07-05-2023,Yes
+MER02979,Insurance,Chicago,Punjab,273.6,0.03,21-04-2021,No
+MER02980,Travel,Vancouver,Goa,110.76,0.57,23-02-2026,Yes
+MER02981,Healthcare,Tokyo,Nagaland,1126.75,0.03,26-12-2024,No
+MER02982,Jewelry,London,England,2930.92,0.64,27-09-2021,No
+MER02983,Insurance,New York,Rajasthan,3559.08,0.95,10-02-2021,No
+MER02984,Travel,Dubai,Dubai,1696.3,0.63,08-08-2022,No
+MER02985,Fuel,Singapore,Singapore,4150.01,0.81,29-04-2024,No
+MER02986,Furniture,Kolkata,West Bengal,369.15,0.56,29-10-2025,No
+MER02987,Fashion,Vancouver,Goa,6754.36,0.39,15-11-2021,Yes
+MER02988,Fuel,London,England,5195.96,0.36,20-05-2025,Yes
+MER02989,Dining,Dubai,Dubai,1928.77,0.43,12-07-2023,Yes
+MER02990,Education,Tokyo,Nagaland,221.03,0.17,11-12-2022,Yes
+MER02991,Fashion,Toronto,Ontario,1311.02,0.25,23-01-2024,No
+MER02992,Fuel,Dubai,Dubai,495.13,0.35,23-07-2026,No
+MER02993,Dining,Bengaluru,Karnataka,2080.01,0.81,24-05-2021,No
+MER02994,Insurance,Hyderabad,Telangana,521.36,0.42,11-07-2025,No
+MER02995,Utilities,Coimbatore,Tamil Nadu,1414.78,0.3,26-09-2025,No
+MER02996,Fuel,Chicago,Punjab,560.4,0.5,04-08-2026,Yes
+MER02997,Fuel,Coimbatore,Tamil Nadu,501.41,0.03,18-01-2026,Yes
+MER02998,Travel,Pune,England,669.83,0.22,08-05-2021,No
+MER02999,Automobile,Coimbatore,Tamil Nadu,159.26,0.9,04-01-2021,Yes
+MER03000,Entertainment,Delhi,Delhi,2618.37,0.03,19-03-2025,No
